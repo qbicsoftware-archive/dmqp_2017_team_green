@@ -14,4 +14,4 @@ You can put your whole projects related stuff in here. I suggest that you have a
       README.md
       LICENSE
       
-or similar, to keep you content organized. But be free to create an own structre :)
+or similar, to keep you content organized. But be free to create an own structure :)
