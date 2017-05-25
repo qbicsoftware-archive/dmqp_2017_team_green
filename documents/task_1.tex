@@ -1,0 +1,62 @@
+\documentclass[10pt,a4paper]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{lastpage}
+\usepackage{graphicx}
+\usepackage{todonotes}
+\usepackage[margin={2cm,1.8cm},includeheadfoot]{geometry}
+\usepackage{color}
+\usepackage{parskip}
+\usepackage{booktabs}
+\renewcommand{\arraystretch}{1.2}
+
+%Seitenlayout
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\footrulewidth}{0.4pt}
+%\fancyheadoffset{30pt}
+\setlength{\headheight}{36pt}
+
+\usepackage[tiny]{titlesec}
+
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\renewcommand{\P}{\ensuremath{\mathbb{P}}}
+\newcommand{\E}{\ensuremath{\mathbb{E}}}
+\newcommand{\qq}[1]{\glqq #1\grqq}
+\newcommand{\Var}{\ensuremath{\operatorname{Var}}}
+\newcommand{\Cov}{\ensuremath{\operatorname{Cov}}}
+\renewcommand{\matrix}[1]{\begin{pmatrix}#1\end{pmatrix}}
+
+\renewcommand{\thesection}{Task \arabic{section}}
+\renewcommand{\labelenumi}{\alph{enumi})}
+\renewcommand{\labelenumii}{(\roman{enumii})}
+
+\lhead{Jonas Ditz\\Friederike Hanssen\\Julian Späth}
+\chead{{\Large Project 4}\\\large Data Management in Quantitative Biology}
+\rhead{\today}
+\cfoot{{Seite \thepage}}
+
+\begin{document}
+\section{Evaluation of workflow languages}
+
+\begin{tabular}{lccc} 
+\toprule 
+Information & Snakemake & Nextflow & WDL\\ 
+\midrule 
+licensing & MIT & GPL3 & BSD 3-clause\\
+source code availability & \checkmark & \checkmark & \\
+online community & $\times$ & \checkmark & \checkmark \\
+installability & PyPi/Bioconda/GitHub & curl/Bioconda/Homebrew/GitHub & wdltool  \\
+language & Python & Groovy/JVM & domain specific \\
+projects/companies & & & \\
+docker support & $\times$ & \checkmark & \checkmark\\
+cloud integration & $\times$ & \checkmark  & \\
+job scheduler support & & \checkmark & \\
+\bottomrule
+\end{tabular}
+
+\end{document}
