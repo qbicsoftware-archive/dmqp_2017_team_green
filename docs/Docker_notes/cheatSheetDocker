@@ -1,0 +1,27 @@
+#build docker in Dockerfile directory
+sudo docker build -t tsspredator_docker .
+
+# remove unused docker images
+sudo docker rmi $(sudo docker images | grep "^<none>" | awk "{print $3}")
+
+######################################
+
+#mount a shared file directory    
+
+# in docker file add:
+VOLUME /data_timestamp
+WORKDIR /data_timestamp
+
+# change permissions for file with chmod 777 likely not the best way, also for shell script had to make it executable manually 
+# Couldn't figure out how to create a new file otherwise, other option ...touch newfile 
+ENTRYPOINT chmod 777 /data_timestamp/test.sh
+ENTRYPOINT /data_timestamp/test.sh ; /bin/bash
+
+#run docker with: data_timestamp needs to exists in your favorite directory, use -d to end docker, when done and not mingle in shell
+                                                                                                                 hostidr:name
+sudo docker run -t -i -d -v /home/rike/University/DMQB/dmqp_2017_team_green/examples/docker_container_tsspredator/data_timestamp:/data_timestamp tsspredator_docker
+
+# How to create a file in the dir from the docker container w/o typing it into the console:
+work around with bash script (see test.sh), there is probably a better way, also not sure how to then automate writing tsspredators output to file
+
+
