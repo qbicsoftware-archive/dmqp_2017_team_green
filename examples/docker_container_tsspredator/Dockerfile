@@ -7,7 +7,7 @@ MAINTAINER Team Green <green@qbic.de>, Rike
 # Upgrading system
 RUN yum -y upgrade
 
-
+RUN yum -y update
 # Downloading amd installing Java
 RUN yum -y install java-sdk
 
@@ -17,8 +17,9 @@ ENTRYPOINT java -version && echo "hello world" && /bin/bash
 # Mount working directory with passed variable to docker (start docker container with : docker run # -e FOO="hello world!" test, see stackoverflow.com/questions/32727594/how-to-pass-arguments-to-
 # shell-script-through-docker-run)
 
-#check if data_timestamp got mounted 
-RUN mkdir /data_timestamp 
-RUN touch /data_timestamp/test
-RUN chown -R rike:rike /data_timestamp
 VOLUME /data_timestamp
+WORKDIR /data_timestamp
+
+ENTRYPOINT chmod 777 /data_timestamp/test.sh
+ENTRYPOINT /data_timestamp/test.sh ; /bin/bash
+
