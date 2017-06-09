@@ -1,0 +1,1732 @@
+##gff-version 3
+super	NC_002163.1	gene	1	1323	.	+	.	locus_tag=Cj0001;product=chromosomal replication initiation protein
+super	NC_002163.1	gene	1483	2550	.	+	.	locus_tag=Cj0002;product=DNA polymerase III subunit beta
+super	NC_002163.1	gene	2579	4888	.	+	.	locus_tag=Cj0003;product=DNA gyrase subunit B
+super	NC_002163.1	gene	4916	5257	.	-	.	locus_tag=Cj0004c;product=monohaem cytochrome C
+super	NC_002163.1	gene	5260	6498	.	-	.	locus_tag=Cj0005c;product=molydopterin containing oxidoreductase
+super	NC_002163.1	gene	6703	8010	.	+	.	locus_tag=Cj0006;product=putative Na%2B%2FH%2B antiporter family protein
+super	NC_002163.1	gene	8144	12634	.	+	.	locus_tag=Cj0007;product=glutamate synthase large subunit
+super	NC_002163.1	gene	12644	14395	.	+	.	locus_tag=Cj0008;product=hypothetical protein
+super	NC_002163.1	gene	14398	15843	.	+	.	locus_tag=Cj0009;product=glutamate synthase subunit beta
+super	NC_002163.1	gene	15844	16419	.	-	.	locus_tag=Cj0010c;product=ribonuclease HII
+super	NC_002163.1	gene	16452	16691	.	-	.	locus_tag=Cj0011c;product=putative non-specific DNA binding protein
+super	NC_002163.1	gene	16756	17403	.	-	.	locus_tag=Cj0012c;product=non-haem iron protein
+super	NC_002163.1	gene	17563	19239	.	+	.	locus_tag=Cj0013;product=dihydroxy-acid dehydratase
+super	NC_002163.1	gene	19251	19775	.	-	.	locus_tag=Cj0014c;product=putative integral membrane protein
+super	NC_002163.1	gene	19867	21093	.	-	.	locus_tag=Cj0015c;product=hypothetical protein
+super	NC_002163.1	gene	21159	21833	.	+	.	locus_tag=Cj0016;product=putative transcriptional regulatory protein
+super	NC_002163.1	gene	21854	23380	.	-	.	locus_tag=Cj0017c;product=disulphide bond formation protein
+super	NC_002163.1	gene	23392	23559	.	-	.	locus_tag=Cj0018c;product=disulphide bond formation protein
+super	NC_002163.1	gene	23665	25443	.	-	.	locus_tag=Cj0019c;product=putative MCP-domain signal transduction protein
+super	NC_002163.1	gene	25433	26347	.	-	.	locus_tag=Cj0020c;product=cytochrome C551 peroxidase
+super	NC_002163.1	gene	26411	27289	.	-	.	locus_tag=Cj0021c;product=putative fumarylacetoacetate %28FAA%29 hydrolase family protein
+super	NC_002163.1	gene	27402	28304	.	-	.	locus_tag=Cj0022c;product=putative ribosomal pseudouridine synthase
+super	NC_002163.1	gene	28382	29710	.	+	.	locus_tag=Cj0023;product=adenylosuccinate lyase
+super	NC_002163.1	gene	29726	32095	.	+	.	locus_tag=Cj0024;product=ribonucleotide-diphosphate reductase subunit alpha
+super	NC_002163.1	gene	32134	33519	.	-	.	locus_tag=Cj0025c;product=putative sodium:dicarboxylate family transmembrane symporter
+super	NC_002163.1	gene	33639	34262	.	-	.	locus_tag=Cj0026c;product=FAD-dependent thymidylate synthase
+super	NC_002163.1	gene	34382	36013	.	+	.	locus_tag=Cj0027;product=CTP synthetase
+super	NC_002163.1	gene	36000	37571	.	+	.	locus_tag=Cj0028;product=putative single-stranded-DNA-specific exonuclease
+super	NC_002163.1	gene	37667	38662	.	+	.	locus_tag=Cj0029;product=cytoplasmic L-asparaginase
+super	NC_002163.1	gene	39249	40761	.	+	.	locus_tag=Cjr01;product=16S ribosomal RNA
+super	NC_002163.1	gene	40866	40941	.	+	.	locus_tag=Cjp01;product=tRNA-Ala
+super	NC_002163.1	gene	40950	41026	.	+	.	locus_tag=Cjp02;product=tRNA-Ile
+super	NC_002163.1	gene	41568	44457	.	+	.	locus_tag=Cjr02;product=23S ribosomal RNA
+super	NC_002163.1	gene	44741	44860	.	+	.	locus_tag=Cjr03;product=5S ribosomal RNA
+super	NC_002163.1	gene	44966	46363	.	+	.	locus_tag=Cj0030;product=hypothetical protein
+super	NC_002163.1	gene	46424	50156	.	+	.	locus_tag=Cj0031;product=putative type IIS restriction%2Fmodification enzyme
+super	NC_002163.1	gene	50156	51937	.	+	.	locus_tag=Cj0033;product=putative integral membrane protein
+super	NC_002163.1	gene	51967	52668	.	-	.	locus_tag=Cj0034c;product=putative periplasmic protein
+super	NC_002163.1	gene	52665	53867	.	-	.	locus_tag=Cj0035c;product=putative efflux protein
+super	NC_002163.1	gene	53970	55319	.	+	.	locus_tag=Cj0036;product=hypothetical protein
+super	NC_002163.1	gene	55343	56386	.	-	.	locus_tag=Cj0037c;product=putative cytochrome C
+super	NC_002163.1	gene	56564	57211	.	-	.	locus_tag=Cj0038c;product=putative poly%28A%29 polymerase family protein
+super	NC_002163.1	gene	57211	59019	.	-	.	locus_tag=Cj0039c;product=GTP-binding protein TypA
+super	NC_002163.1	gene	59154	59477	.	+	.	locus_tag=Cj0040;product=hypothetical protein
+super	NC_002163.1	gene	59493	61289	.	+	.	locus_tag=Cj0041;product=putative flagellar hook-length control protein
+super	NC_002163.1	gene	61343	62227	.	+	.	locus_tag=Cj0042;product=flagellar basal body rod modification protein
+super	NC_002163.1	gene	62231	63868	.	+	.	locus_tag=Cj0043;product=flagellar hook protein
+super	NC_002163.1	gene	63872	65743	.	-	.	locus_tag=Cj0044c;product=hypothetical protein
+super	NC_002163.1	gene	65744	66466	.	-	.	locus_tag=Cj0045c;product=putative iron-binding protein
+super	NC_002163.1	gene	66646	66744	.	+	.	locus_tag=Cjs03
+super	NC_002163.1	gene	66985	68504	.	+	.	locus_tag=Cj0046;product=pseudo
+super	NC_002163.1	gene	68532	69548	.	-	.	locus_tag=Cj0053c;product=tRNA-specific 2-thiouridylase MnmA
+super	NC_002163.1	gene	69548	70153	.	-	.	locus_tag=Cj0054c;product=putative lysine decarboxylase family protein
+super	NC_002163.1	gene	70274	71098	.	-	.	locus_tag=Cj0055c;product=hypothetical protein
+super	NC_002163.1	gene	71155	71571	.	-	.	locus_tag=Cj0056c;product=hypothetical protein
+super	NC_002163.1	gene	72005	72859	.	+	.	locus_tag=Cj0057;product=putative periplasmic protein
+super	NC_002163.1	gene	72844	73443	.	+	.	locus_tag=Cj0058;product=putative peptidase C39 family protein
+super	NC_002163.1	gene	73492	74334	.	-	.	locus_tag=Cj0059c;product=flagellar motor switch protein FliY
+super	NC_002163.1	gene	74331	75410	.	-	.	locus_tag=Cj0060c;product=flagellar motor switch protein FliM
+super	NC_002163.1	gene	75410	76126	.	-	.	locus_tag=Cj0061c;product=flagellar biosynthesis sigma factor
+super	NC_002163.1	gene	76083	76439	.	-	.	locus_tag=Cj0062c;product=putative integral membrane protein
+super	NC_002163.1	gene	76458	77324	.	-	.	locus_tag=Cj0063c;product=putative ATP-binding protein
+super	NC_002163.1	gene	77317	78771	.	-	.	locus_tag=Cj0064c;product=flagellar biosynthesis regulator FlhF
+super	NC_002163.1	gene	78781	79254	.	-	.	locus_tag=Cj0065c;product=putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+super	NC_002163.1	gene	79257	79736	.	-	.	locus_tag=Cj0066c;product=3-dehydroquinate dehydratase
+super	NC_002163.1	gene	79827	81056	.	+	.	locus_tag=Cj0067;product=chlorohydrolase
+super	NC_002163.1	gene	81044	81940	.	+	.	locus_tag=Cj0068;product=protease
+super	NC_002163.1	gene	82019	83050	.	+	.	locus_tag=Cj0069;product=hypothetical protein
+super	NC_002163.1	gene	83047	83205	.	-	.	locus_tag=Cj0070c;product=hypothetical protein
+super	NC_002163.1	gene	83292	83893	.	-	.	locus_tag=Cj0072c;product=pseudo
+super	NC_002163.1	gene	84087	84743	.	-	.	locus_tag=Cj0073c;product=hypothetical protein
+super	NC_002163.1	gene	84736	86175	.	-	.	locus_tag=Cj0074c;product=putative iron-sulfur protein
+super	NC_002163.1	gene	86172	86912	.	-	.	locus_tag=Cj0075c;product=putative oxidoreductase iron-sulfur subunit
+super	NC_002163.1	gene	87036	88718	.	-	.	locus_tag=Cj0076c;product=L-lactate permease
+super	NC_002163.1	gene	88890	89459	.	-	.	locus_tag=Cj0077c;product=cytolethal distending toxin C
+super	NC_002163.1	gene	89470	90267	.	-	.	locus_tag=Cj0078c;product=cytolethal distending toxin B
+super	NC_002163.1	gene	90264	91070	.	-	.	locus_tag=Cj0079c;product=cytolethal distending toxin A
+super	NC_002163.1	gene	91147	91416	.	+	.	locus_tag=Cj0080;product=hypothetical protein
+super	NC_002163.1	gene	91417	92979	.	+	.	locus_tag=Cj0081;product=cytochrome bd oxidase subunit I
+super	NC_002163.1	gene	92979	94103	.	+	.	locus_tag=Cj0082;product=cytochrome bd oxidase subunit II
+super	NC_002163.1	gene	94297	94992	.	-	.	locus_tag=Cj0085c;product=putative amino acid recemase
+super	NC_002163.1	gene	95108	95803	.	-	.	locus_tag=Cj0086c;product=uracil-DNA glycosylase
+super	NC_002163.1	gene	96074	97480	.	+	.	locus_tag=Cj0087;product=aspartate ammonia-lyase
+super	NC_002163.1	gene	97496	98833	.	+	.	locus_tag=Cj0088;product=anaerobic C4-dicarboxylate transporter
+super	NC_002163.1	gene	98941	100302	.	+	.	locus_tag=Cj0089;product=putative lipoprotein
+super	NC_002163.1	gene	100312	100680	.	+	.	locus_tag=Cj0090;product=putative lipoprotein
+super	NC_002163.1	gene	100704	101327	.	+	.	locus_tag=Cj0091;product=putative lipoprotein
+super	NC_002163.1	gene	101410	102747	.	+	.	locus_tag=Cj0092;product=putative periplasmic protein
+super	NC_002163.1	gene	102757	103959	.	+	.	locus_tag=Cj0093;product=putative periplasmic protein
+super	NC_002163.1	gene	104118	104426	.	+	.	locus_tag=Cj0094;product=50S ribosomal protein L21
+super	NC_002163.1	gene	104437	104691	.	+	.	locus_tag=Cj0095;product=50S ribosomal protein L27
+super	NC_002163.1	gene	104798	105850	.	+	.	locus_tag=Cj0096;product=GTPase ObgE
+super	NC_002163.1	gene	105955	106710	.	+	.	locus_tag=Cj0097;product=gamma-glutamyl kinase
+super	NC_002163.1	gene	106784	107701	.	+	.	locus_tag=Cj0098;product=methionyl-tRNA formyltransferase
+super	NC_002163.1	gene	107664	108317	.	+	.	locus_tag=Cj0099;product=biotin--protein ligase
+super	NC_002163.1	gene	108314	109099	.	+	.	locus_tag=Cj0100;product=parA family protein
+super	NC_002163.1	gene	109105	109941	.	+	.	locus_tag=Cj0101;product=parB family protein
+super	NC_002163.1	gene	110002	110427	.	+	.	locus_tag=Cj0102;product=F0F1 ATP synthase subunit B%27
+super	NC_002163.1	gene	110438	110950	.	+	.	locus_tag=Cj0103;product=F0F1 ATP synthase subunit B
+super	NC_002163.1	gene	110953	111474	.	+	.	locus_tag=Cj0104;product=F0F1 ATP synthase subunit delta
+super	NC_002163.1	gene	111488	112993	.	+	.	locus_tag=Cj0105;product=F0F1 ATP synthase subunit alpha
+super	NC_002163.1	gene	113002	113886	.	+	.	locus_tag=Cj0106;product=F0F1 ATP synthase subunit gamma
+super	NC_002163.1	gene	113912	115309	.	+	.	locus_tag=Cj0107;product=F0F1 ATP synthase subunit beta
+super	NC_002163.1	gene	115313	115702	.	+	.	locus_tag=Cj0108;product=F0F1 ATP synthase subunit epsilon
+super	NC_002163.1	gene	115702	116256	.	+	.	locus_tag=Cj0109;product=putative MotA%2FTolQ%2FExbB proton channel family protein
+super	NC_002163.1	gene	116265	116654	.	+	.	locus_tag=Cj0110;product=putative exbD%2FtolR family transport protein
+super	NC_002163.1	gene	116657	117436	.	+	.	locus_tag=Cj0111;product=putative periplasmic protein
+super	NC_002163.1	gene	117446	118654	.	+	.	locus_tag=Cj0112;product=translocation protein TolB
+super	NC_002163.1	gene	118731	119228	.	+	.	locus_tag=Cj0113;product=peptidoglycan associated lipoprotein
+super	NC_002163.1	gene	119232	120179	.	+	.	locus_tag=Cj0114;product=putative periplasmic protein
+super	NC_002163.1	gene	120194	120763	.	+	.	locus_tag=Cj0115;product=FKBP-type peptidyl-prolyl cis-trans isomerase
+super	NC_002163.1	gene	120763	121683	.	+	.	locus_tag=Cj0116;product=malonyl CoA-acyl carrier protein transacylase
+super	NC_002163.1	gene	121680	122369	.	+	.	locus_tag=Cj0117;product=5%27-methylthioadenosine%2FS-adenosylhomocysteine nucleosidase
+super	NC_002163.1	gene	122366	123121	.	+	.	locus_tag=Cj0118;product=hypothetical protein
+super	NC_002163.1	gene	123126	123647	.	+	.	locus_tag=Cj0119;product=putative hydrolase
+super	NC_002163.1	gene	123647	124261	.	+	.	locus_tag=Cj0120;product=putative recombination protein RecO
+super	NC_002163.1	gene	124258	124665	.	+	.	locus_tag=Cj0121;product=putative metalloprotease
+super	NC_002163.1	gene	124789	125478	.	+	.	locus_tag=Cj0122;product=hypothetical protein
+super	NC_002163.1	gene	125503	126429	.	-	.	locus_tag=Cj0123c;product=putative tRNA-dihydrouridine synthase
+super	NC_002163.1	gene	126426	127412	.	-	.	locus_tag=Cj0124c;product=hypothetical protein
+super	NC_002163.1	gene	127402	127764	.	-	.	locus_tag=Cj0125c;product=hypothetical protein
+super	NC_002163.1	gene	127776	128237	.	-	.	locus_tag=Cj0126c;product=hypothetical protein
+super	NC_002163.1	gene	128227	129069	.	-	.	locus_tag=Cj0127c;product=acetyl-CoA carboxylase subunit beta
+super	NC_002163.1	gene	129078	129800	.	-	.	locus_tag=Cj0128c;product=putative inositol monophosphatase family protein
+super	NC_002163.1	gene	129800	132019	.	-	.	locus_tag=Cj0129c;product=outer membrane protein
+super	NC_002163.1	gene	132096	132923	.	+	.	locus_tag=Cj0130;product=prephenate dehydrogenase
+super	NC_002163.1	gene	133003	134376	.	+	.	locus_tag=Cj0131;product=putative peptidase M23 family protein
+super	NC_002163.1	gene	134376	135260	.	+	.	locus_tag=Cj0132;product=UDP-3-O-%5B3-hydroxymyristoyl%5D N-acetylglucosamine deacetylase
+super	NC_002163.1	gene	135299	135700	.	+	.	locus_tag=Cj0133;product=putative glycoprotease family protein
+super	NC_002163.1	gene	135709	136587	.	+	.	locus_tag=Cj0134;product=homoserine kinase
+super	NC_002163.1	gene	136612	136869	.	+	.	locus_tag=Cj0135;product=hypothetical protein
+super	NC_002163.1	gene	136856	139471	.	+	.	locus_tag=Cj0136;product=translation initiation factor IF-2
+super	NC_002163.1	gene	139468	139830	.	+	.	locus_tag=Cj0137;product=ribosome-binding factor A
+super	NC_002163.1	gene	139820	140242	.	+	.	locus_tag=Cj0138;product=hypothetical protein
+super	NC_002163.1	gene	140289	142640	.	+	.	locus_tag=Cj0139;product=putative endonuclease
+super	NC_002163.1	gene	142633	143964	.	+	.	locus_tag=Cj0140;product=hypothetical protein
+super	NC_002163.1	gene	143953	144756	.	-	.	locus_tag=Cj0141c;product=putative ABC transporter integral membrane protein
+super	NC_002163.1	gene	144749	145603	.	-	.	locus_tag=Cj0142c;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	145616	146506	.	-	.	locus_tag=Cj0143c;product=putative periplasmic solute binding protein
+super	NC_002163.1	gene	146705	148684	.	+	.	locus_tag=Cj0144;product=putative methyl-accepting chemotaxis signal transduction protein
+super	NC_002163.1	gene	148819	150600	.	+	.	locus_tag=Cj0145;product=putative TAT %28Twin-Arginine Translocation%29 pathway signal sequence domain protein
+super	NC_002163.1	gene	150638	151576	.	-	.	locus_tag=Cj0146c;product=thioredoxin reductase
+super	NC_002163.1	gene	151710	152024	.	-	.	locus_tag=Cj0147c;product=thioredoxin
+super	NC_002163.1	gene	152081	152419	.	-	.	locus_tag=Cj0148c;product=hypothetical protein
+super	NC_002163.1	gene	152419	153666	.	-	.	locus_tag=Cj0149c;product=homoserine dehydrogenase
+super	NC_002163.1	gene	153670	154872	.	-	.	locus_tag=Cj0150c;product=aspartate aminotransferase
+super	NC_002163.1	gene	154884	155690	.	-	.	locus_tag=Cj0151c;product=putative periplasmic protein
+super	NC_002163.1	gene	155684	156622	.	-	.	locus_tag=Cj0152c;product=hypothetical protein
+super	NC_002163.1	gene	156615	157298	.	-	.	locus_tag=Cj0153c;product=putative rRNA methylase
+super	NC_002163.1	gene	157312	158136	.	-	.	locus_tag=Cj0154c;product=putative tetrapyrrole methylase family protein
+super	NC_002163.1	gene	158139	158339	.	-	.	locus_tag=Cj0155c;product=50S ribosomal protein L31
+super	NC_002163.1	gene	158418	159074	.	-	.	locus_tag=Cj0156c;product=16S ribosomal RNA methyltransferase RsmE
+super	NC_002163.1	gene	159076	159483	.	-	.	locus_tag=Cj0157c;product=putative integral membrane protein
+super	NC_002163.1	gene	159483	159908	.	-	.	locus_tag=Cj0158c;product=putative heme-binding lipoprotein
+super	NC_002163.1	gene	159908	160489	.	-	.	locus_tag=Cj0159c;product=putative 6-pyruvoyl tetrahydropterin synthase
+super	NC_002163.1	gene	160486	161229	.	-	.	locus_tag=Cj0160c;product=putative radical SAM domain protein
+super	NC_002163.1	gene	161232	162194	.	-	.	locus_tag=Cj0161c;product=molybdenum cofactor biosynthesis protein A
+super	NC_002163.1	gene	162207	162722	.	-	.	locus_tag=Cj0162c;product=putative periplasmic protein
+super	NC_002163.1	gene	162719	163216	.	-	.	locus_tag=Cj0163c;product=hypothetical protein
+super	NC_002163.1	gene	163207	164091	.	-	.	locus_tag=Cj0164c;product=prenyltransferase
+super	NC_002163.1	gene	164162	165031	.	+	.	locus_tag=Cj0166;product=tRNA delta%282%29-isopentenylpyrophosphate transferase
+super	NC_002163.1	gene	165017	165580	.	-	.	locus_tag=Cj0167c;product=putative integral membrane protein
+super	NC_002163.1	gene	165728	165802	.	+	.	locus_tag=Cjp03;product=tRNA-Glu
+super	NC_002163.1	gene	165938	166105	.	-	.	locus_tag=Cj0168c;product=putative periplasmic protein
+super	NC_002163.1	gene	166373	167035	.	+	.	locus_tag=Cj0169;product=superoxide dismutase
+super	NC_002163.1	gene	167050	167794	.	+	.	locus_tag=Cj0170;product=hypothetical protein
+super	NC_002163.1	gene	167807	169012	.	-	.	locus_tag=Cj0172c;product=putative saccharopine dehydrogenase
+super	NC_002163.1	gene	169054	169962	.	-	.	locus_tag=Cj0173c;product=putative iron-uptake ABC transporter ATP-binding protein
+super	NC_002163.1	gene	169946	171562	.	-	.	locus_tag=Cj0174c;product=putative iron-uptake ABC transporter permease
+super	NC_002163.1	gene	171562	172566	.	-	.	locus_tag=Cj0175c;product=putative iron-uptake ABC transporter%2Cperiplasmic iron-binding protein
+super	NC_002163.1	gene	172563	172694	.	-	.	locus_tag=Cj0176c;product=putative lipoprotein
+super	NC_002163.1	gene	172916	173767	.	+	.	locus_tag=Cj0177;product=putative iron transport protein
+super	NC_002163.1	gene	173764	176031	.	+	.	locus_tag=Cj0178;product=putative TonB-denpendent outer membrane receptor
+super	NC_002163.1	gene	176043	176804	.	+	.	locus_tag=Cj0179;product=biopolymer transport protein
+super	NC_002163.1	gene	176791	177201	.	+	.	locus_tag=Cj0180;product=biopolymer transport protein
+super	NC_002163.1	gene	177203	177949	.	+	.	locus_tag=Cj0181;product=TonB transport protein
+super	NC_002163.1	gene	177995	179200	.	+	.	locus_tag=Cj0182;product=putative transporter
+super	NC_002163.1	gene	179299	180657	.	+	.	locus_tag=Cj0183;product=putative integral membrane protein
+super	NC_002163.1	gene	180702	181856	.	-	.	locus_tag=Cj0184c;product=putative serine%2Fthreonine protein phosphatase
+super	NC_002163.1	gene	181866	182075	.	-	.	locus_tag=Cj0185c;product=putative phnA domain protein
+super	NC_002163.1	gene	182068	182787	.	-	.	locus_tag=Cj0186c;product=putative TerC family integral membrane protein
+super	NC_002163.1	gene	182859	183425	.	-	.	locus_tag=Cj0187c;product=phosphoribosylglycinamide formyltransferase
+super	NC_002163.1	gene	183416	184786	.	-	.	locus_tag=Cj0188c;product=putative kinase
+super	NC_002163.1	gene	184770	185468	.	-	.	locus_tag=Cj0189c;product=hypothetical protein
+super	NC_002163.1	gene	185470	186975	.	-	.	locus_tag=Cj0190c;product=hypothetical protein
+super	NC_002163.1	gene	186972	187499	.	-	.	locus_tag=Cj0191c;product=peptide deformylase
+super	NC_002163.1	gene	187535	188119	.	-	.	locus_tag=Cj0192c;product=ATP-dependent Clp protease proteolytic subunit
+super	NC_002163.1	gene	188119	189453	.	-	.	locus_tag=Cj0193c;product=trigger factor
+super	NC_002163.1	gene	189596	190168	.	+	.	locus_tag=Cj0194;product=GTP cyclohydrolase I
+super	NC_002163.1	gene	190168	191553	.	+	.	locus_tag=Cj0195;product=flagellum-specific ATP synthase
+super	NC_002163.1	gene	191556	192893	.	-	.	locus_tag=Cj0196c;product=amidophosphoribosyltransferase
+super	NC_002163.1	gene	192895	193623	.	-	.	locus_tag=Cj0197c;product=dihydrodipicolinate reductase
+super	NC_002163.1	gene	193686	194867	.	-	.	locus_tag=Cj0198c;product=recombination factor protein RarA
+super	NC_002163.1	gene	194867	195988	.	-	.	locus_tag=Cj0199c;product=putative periplasmic protein
+super	NC_002163.1	gene	196123	196470	.	-	.	locus_tag=Cj0200c;product=putative periplasmic protein
+super	NC_002163.1	gene	196534	197139	.	-	.	locus_tag=Cj0201c;product=putative integral membrane protein
+super	NC_002163.1	gene	197123	197464	.	-	.	locus_tag=Cj0202c;product=hypothetical protein
+super	NC_002163.1	gene	197707	199053	.	+	.	locus_tag=Cj0203;product=putative citrate transporter
+super	NC_002163.1	gene	199236	201233	.	+	.	locus_tag=Cj0204;product=putative oligopeptide transporter%2C OPT family
+super	NC_002163.1	gene	201307	202110	.	+	.	locus_tag=Cj0205;product=undecaprenyl-diphosphatase
+super	NC_002163.1	gene	202241	204049	.	+	.	locus_tag=Cj0206;product=threonyl-tRNA synthetase
+super	NC_002163.1	gene	204046	204564	.	+	.	locus_tag=Cj0207;product=translation initiation factor IF-3
+super	NC_002163.1	gene	204603	205694	.	+	.	locus_tag=Cj0208;product=putative DNA modification methylase
+super	NC_002163.1	gene	206063	209195	.	+	.	locus_tag=Cj0223;product=pseudo
+super	NC_002163.1	gene	209279	210307	.	+	.	locus_tag=Cj0224;product=N-acetyl-gamma-glutamyl-phosphate reductase
+super	NC_002163.1	gene	210317	210763	.	+	.	locus_tag=Cj0225;product=putative acetyltransferase
+super	NC_002163.1	gene	210767	211612	.	+	.	locus_tag=Cj0226;product=acetylglutamate kinase
+super	NC_002163.1	gene	211616	212803	.	+	.	locus_tag=Cj0227;product=putative acetylornithine%2Fsuccinyldiaminopimelate aminotransferase
+super	NC_002163.1	gene	212822	213451	.	-	.	locus_tag=Cj0228c;product=protein-L-isoaspartate O-methyltransferase
+super	NC_002163.1	gene	213540	214088	.	+	.	locus_tag=Cj0229;product=putative acetyltransferase
+super	NC_002163.1	gene	214057	215430	.	-	.	locus_tag=Cj0230c;product=nicotinate phosphoribosyltransferase
+super	NC_002163.1	gene	215417	216439	.	-	.	locus_tag=Cj0231c;product=ribonucleotide-diphosphate reductase subunit beta
+super	NC_002163.1	gene	216453	216863	.	-	.	locus_tag=Cj0232c;product=putative integral membrane protein
+super	NC_002163.1	gene	216864	217472	.	-	.	locus_tag=Cj0233c;product=orotate phosphoribosyltransferase
+super	NC_002163.1	gene	217475	218038	.	-	.	locus_tag=Cj0234c;product=ribosome recycling factor
+super	NC_002163.1	gene	218048	218419	.	-	.	locus_tag=Cj0235c;product=preprotein translocase subunit SecG
+super	NC_002163.1	gene	218523	219218	.	-	.	locus_tag=Cj0236c;product=putative integral membrane protein
+super	NC_002163.1	gene	219378	220013	.	+	.	locus_tag=Cj0237;product=carbonic anyhydrase
+super	NC_002163.1	gene	220010	221893	.	+	.	locus_tag=Cj0238;product=putative mechanosensitive ion channel family protein
+super	NC_002163.1	gene	221916	222887	.	-	.	locus_tag=Cj0239c;product=NifU protein
+super	NC_002163.1	gene	222897	224078	.	-	.	locus_tag=Cj0240c;product=cysteine desulfurase
+super	NC_002163.1	gene	224256	224657	.	-	.	locus_tag=Cj0241c;product=putative iron-binding protein
+super	NC_002163.1	gene	224794	225960	.	-	.	locus_tag=Cj0243c;product=hypothetical protein
+super	NC_002163.1	gene	226116	226307	.	+	.	locus_tag=Cj0244;product=50S ribosomal protein L35
+super	NC_002163.1	gene	226401	226754	.	+	.	locus_tag=Cj0245;product=50S ribosomal protein L20
+super	NC_002163.1	gene	226807	227934	.	-	.	locus_tag=Cj0246c;product=putative MCP-domain signal transduction protein
+super	NC_002163.1	gene	227910	228443	.	-	.	locus_tag=Cj0247c;product=hypothetical protein
+super	NC_002163.1	gene	228946	229803	.	+	.	locus_tag=Cj0248;product=hypothetical protein
+super	NC_002163.1	gene	229831	230310	.	+	.	locus_tag=Cj0249;product=hypothetical protein
+super	NC_002163.1	gene	230279	231589	.	-	.	locus_tag=Cj0250c;product=putative MFS transport protein
+super	NC_002163.1	gene	231592	231747	.	-	.	locus_tag=Cj0251c;product=highly acidic protein
+super	NC_002163.1	gene	231840	232313	.	+	.	locus_tag=Cj0252;product=molybdenum cofactor biosynthesis protein MoaC
+super	NC_002163.1	gene	232291	232554	.	+	.	locus_tag=Cj0253;product=hypothetical protein
+super	NC_002163.1	gene	232544	233704	.	+	.	locus_tag=Cj0254;product=hypothetical protein
+super	NC_002163.1	gene	233723	234481	.	-	.	locus_tag=Cj0255c;product=exodeoxyribonuclease
+super	NC_002163.1	gene	234599	236137	.	+	.	locus_tag=Cj0256;product=putative sulfatase family protein
+super	NC_002163.1	gene	236134	236490	.	+	.	locus_tag=Cj0257;product=diacylglycerol kinase
+super	NC_002163.1	gene	236487	236732	.	+	.	locus_tag=Cj0258;product=ArsR family regulatory protein
+super	NC_002163.1	gene	236722	237729	.	+	.	locus_tag=Cj0259;product=dihydroorotase
+super	NC_002163.1	gene	237761	237976	.	-	.	locus_tag=Cj0260c;product=hypothetical protein
+super	NC_002163.1	gene	238032	238751	.	-	.	locus_tag=Cj0261c;product=putative SAM-dependent methyltransferase
+super	NC_002163.1	gene	238832	240829	.	-	.	locus_tag=Cj0262c;product=putative methyl-accepting chemotaxis signal transduction protein
+super	NC_002163.1	gene	241022	241897	.	+	.	locus_tag=Cj0263;product=zinc transporter ZupT
+super	NC_002163.1	gene	241921	244437	.	-	.	locus_tag=Cj0264c;product=molybdopterin containing oxidoreductase
+super	NC_002163.1	gene	244448	245023	.	-	.	locus_tag=Cj0265c;product=putative cytochrome C-type haem-binding periplasmic protein
+super	NC_002163.1	gene	245504	246013	.	-	.	locus_tag=Cj0266c;product=putative integral membrane protein
+super	NC_002163.1	gene	246013	246543	.	-	.	locus_tag=Cj0267c;product=putative integral membrane protein
+super	NC_002163.1	gene	246555	247643	.	-	.	locus_tag=Cj0268c;product=putative transmembrane protein
+super	NC_002163.1	gene	247656	248570	.	-	.	locus_tag=Cj0269c;product=branched-chain amino acid aminotransferase
+super	NC_002163.1	gene	248747	248953	.	+	.	locus_tag=Cj0270;product=putative tautomerase family protein
+super	NC_002163.1	gene	248950	249405	.	+	.	locus_tag=Cj0271;product=bacterioferritin comigratory protein
+super	NC_002163.1	gene	249405	250496	.	+	.	locus_tag=Cj0272;product=hypothetical protein
+super	NC_002163.1	gene	250590	251030	.	+	.	locus_tag=Cj0273;product=%283R%29-hydroxymyristoyl-ACP dehydratase
+super	NC_002163.1	gene	251030	251821	.	+	.	locus_tag=Cj0274;product=UDP-N-acetylglucosamine acyltransferase
+super	NC_002163.1	gene	251784	253037	.	+	.	locus_tag=Cj0275;product=ATP-dependent protease ATP-binding subunit ClpX
+super	NC_002163.1	gene	253049	254089	.	+	.	locus_tag=Cj0276;product=rod shape-determining protein MreB
+super	NC_002163.1	gene	254079	254828	.	+	.	locus_tag=Cj0277;product=rod shape-determining protein MreC
+super	NC_002163.1	gene	255089	258358	.	+	.	locus_tag=Cj0279;product=carbamoyl phosphate synthase large subunit
+super	NC_002163.1	gene	258355	258777	.	+	.	locus_tag=Cj0280;product=hypothetical protein
+super	NC_002163.1	gene	258778	259755	.	-	.	locus_tag=Cj0281c;product=transaldolase
+super	NC_002163.1	gene	259755	260378	.	-	.	locus_tag=Cj0282c;product=putative phosphoserine phosphatase
+super	NC_002163.1	gene	260378	260899	.	-	.	locus_tag=Cj0283c;product=chemotaxis protein
+super	NC_002163.1	gene	260904	263213	.	-	.	locus_tag=Cj0284c;product=chemotaxis histidine kinase
+super	NC_002163.1	gene	263217	264173	.	-	.	locus_tag=Cj0285c;product=chemotaxis protein
+super	NC_002163.1	gene	264166	264783	.	-	.	locus_tag=Cj0286c;product=hypothetical protein
+super	NC_002163.1	gene	264934	265419	.	-	.	locus_tag=Cj0287c;product=transcription elongation factor GreA
+super	NC_002163.1	gene	265431	266525	.	-	.	locus_tag=Cj0288c;product=ipid-A-disaccharide synthase
+super	NC_002163.1	gene	266622	267374	.	-	.	locus_tag=Cj0289c;product=major antigenic peptide PEB3
+super	NC_002163.1	gene	267516	268809	.	-	.	locus_tag=Cj0292c;product=pseudo
+super	NC_002163.1	gene	269064	269840	.	+	.	locus_tag=Cj0293;product=stationary phase survival protein SurE
+super	NC_002163.1	gene	269830	270489	.	+	.	locus_tag=Cj0294;product=putative MoeB%2FThiF family protein
+super	NC_002163.1	gene	270473	270931	.	+	.	locus_tag=Cj0295;product=putative acetyltransferase
+super	NC_002163.1	gene	271041	271421	.	-	.	locus_tag=Cj0296c;product=aspartate alpha-decarboxylase
+super	NC_002163.1	gene	271418	272266	.	-	.	locus_tag=Cj0297c;product=pantoate--beta-alanine ligase
+super	NC_002163.1	gene	272277	273101	.	-	.	locus_tag=Cj0298c;product=3-methyl-2-oxobutanoate hydroxymethyltransferase
+super	NC_002163.1	gene	273321	274094	.	+	.	locus_tag=Cj0299;product=putative periplasmic beta-lactamase
+super	NC_002163.1	gene	274179	275063	.	-	.	locus_tag=Cj0300c;product=putative molybdenum transport ATP-binding protein
+super	NC_002163.1	gene	275060	275734	.	-	.	locus_tag=Cj0301c;product=putative molybdenum transport system permease
+super	NC_002163.1	gene	275727	276128	.	-	.	locus_tag=Cj0302c;product=putative molybdenum-pterin binding protein
+super	NC_002163.1	gene	276125	276874	.	-	.	locus_tag=Cj0303c;product=putative molybdate-binding lipoprotein
+super	NC_002163.1	gene	276925	277611	.	-	.	locus_tag=Cj0304c;product=putative biotin synthesis protein
+super	NC_002163.1	gene	277608	278219	.	-	.	locus_tag=Cj0305c;product=hypothetical protein
+super	NC_002163.1	gene	278216	279358	.	-	.	locus_tag=Cj0306c;product=8-amino-7-oxononanoate synthase
+super	NC_002163.1	gene	279426	280709	.	+	.	locus_tag=Cj0307;product=adenosylmethionine--8-amino-7-oxononanoate transaminase
+super	NC_002163.1	gene	280696	281301	.	-	.	locus_tag=Cj0308c;product=putative dethiobiotin synthetase
+super	NC_002163.1	gene	281311	281625	.	-	.	locus_tag=Cj0309c;product=putative efflux protein
+super	NC_002163.1	gene	281629	281967	.	-	.	locus_tag=Cj0310c;product=putative efflux protein
+super	NC_002163.1	gene	282101	282637	.	+	.	locus_tag=Cj0311;product=50S ribosomal protein L25%2Fgeneral stress protein Ctc
+super	NC_002163.1	gene	282634	283179	.	+	.	locus_tag=Cj0312;product=peptidyl-tRNA hydrolase
+super	NC_002163.1	gene	283181	284239	.	+	.	locus_tag=Cj0313;product=putative integral membrane protein
+super	NC_002163.1	gene	284283	285491	.	+	.	locus_tag=Cj0314;product=diaminopimelate decarboxylase
+super	NC_002163.1	gene	285493	286260	.	+	.	locus_tag=Cj0315;product=putative HAD-superfamily hydrolase
+super	NC_002163.1	gene	286248	287321	.	+	.	locus_tag=Cj0316;product=chorismate mutase%2Fprephenate dehydratase
+super	NC_002163.1	gene	287311	288405	.	+	.	locus_tag=Cj0317;product=histidinol-phosphate aminotransferase
+super	NC_002163.1	gene	288457	290139	.	+	.	locus_tag=Cj0318;product=flagellar MS-ring protein
+super	NC_002163.1	gene	290139	291167	.	+	.	locus_tag=Cj0319;product=flagellar motor switch protein G
+super	NC_002163.1	gene	291175	292005	.	+	.	locus_tag=Cj0320;product=flagellar assembly protein H
+super	NC_002163.1	gene	291998	293845	.	+	.	locus_tag=Cj0321;product=1-deoxy-D-xylulose-5-phosphate synthase
+super	NC_002163.1	gene	293931	294341	.	+	.	locus_tag=Cj0322;product=peroxide stress regulator
+super	NC_002163.1	gene	294387	295583	.	+	.	locus_tag=Cj0323;product=hypothetical protein
+super	NC_002163.1	gene	295586	296293	.	+	.	locus_tag=Cj0324;product=ubiquinone%2Fmenaquinone biosynthesis methyltransferase
+super	NC_002163.1	gene	296290	297453	.	+	.	locus_tag=Cj0325;product=exodeoxyribonuclease VII large subunit
+super	NC_002163.1	gene	297463	298539	.	+	.	locus_tag=Cj0326;product=phosphoserine aminotransferase
+super	NC_002163.1	gene	298536	298886	.	+	.	locus_tag=Cj0327;product=putative endoribonuclease L-PSP family protein
+super	NC_002163.1	gene	298883	299857	.	-	.	locus_tag=Cj0328c;product=3-oxoacyl-%28acyl carrier protein%29 synthase III
+super	NC_002163.1	gene	299850	300836	.	-	.	locus_tag=Cj0329c;product=putative glycerol-3-phosphate acyltransferase PlsX
+super	NC_002163.1	gene	300842	300988	.	-	.	locus_tag=Cj0330c;product=50S ribosomal protein L32
+super	NC_002163.1	gene	301012	301365	.	-	.	locus_tag=Cj0331c;product=hypothetical protein
+super	NC_002163.1	gene	301366	301779	.	-	.	locus_tag=Cj0332c;product=nucleoside diphosphate kinase
+super	NC_002163.1	gene	301892	302176	.	-	.	locus_tag=Cj0333c;product=ferredoxin
+super	NC_002163.1	gene	302383	302979	.	+	.	locus_tag=Cj0334;product=alkyl hydroperoxide reductase
+super	NC_002163.1	gene	303098	304186	.	+	.	locus_tag=Cj0335;product=flagellar biosynthesis protein FlhB
+super	NC_002163.1	gene	304192	304935	.	-	.	locus_tag=Cj0336c;product=flagellar motor protein MotB
+super	NC_002163.1	gene	304938	305714	.	-	.	locus_tag=Cj0337c;product=flagellar motor protein MotA
+super	NC_002163.1	gene	305730	308369	.	-	.	locus_tag=Cj0338c;product=DNA polymerase I
+super	NC_002163.1	gene	308533	309894	.	+	.	locus_tag=Cj0339;product=putative MFS transport protein
+super	NC_002163.1	gene	309891	310898	.	+	.	locus_tag=Cj0340;product=putative nucleoside hydrolase
+super	NC_002163.1	gene	310854	311297	.	-	.	locus_tag=Cj0341c;product=putative integral membrane protein
+super	NC_002163.1	gene	311302	314127	.	-	.	locus_tag=Cj0342c;product=excinuclease ABC subunit A
+super	NC_002163.1	gene	314200	314985	.	-	.	locus_tag=Cj0343c;product=putative integral membrane protein
+super	NC_002163.1	gene	315108	315233	.	+	.	locus_tag=Cj0344;product=hypothetical protein
+super	NC_002163.1	gene	315398	316648	.	+	.	locus_tag=Cj0345;product=putative anthranilate synthase component I
+super	NC_002163.1	gene	316645	318246	.	+	.	locus_tag=Cj0346;product=anthranilate synthase component II
+super	NC_002163.1	gene	318233	318832	.	+	.	locus_tag=Cj0347;product=N-%285%27-phosphoribosyl%29anthranilate isomerase
+super	NC_002163.1	gene	318829	320007	.	+	.	locus_tag=Cj0348;product=tryptophan synthase subunit beta
+super	NC_002163.1	gene	320000	320749	.	+	.	locus_tag=Cj0349;product=tryptophan synthase subunit alpha
+super	NC_002163.1	gene	320820	321242	.	+	.	locus_tag=Cj0350;product=hypothetical protein
+super	NC_002163.1	gene	321242	321550	.	+	.	locus_tag=Cj0351;product=flagellar motor switch protein
+super	NC_002163.1	gene	321551	322348	.	+	.	locus_tag=Cj0352;product=putative transmembrane protein
+super	NC_002163.1	gene	322345	323805	.	-	.	locus_tag=Cj0353c;product=phosphatase
+super	NC_002163.1	gene	323805	324050	.	-	.	locus_tag=Cj0354c;product=ferredoxin
+super	NC_002163.1	gene	324163	324834	.	-	.	locus_tag=Cj0355c;product=two-component regulator
+super	NC_002163.1	gene	324913	325230	.	-	.	locus_tag=Cj0356c;product=putative dihydroneopterin aldolase
+super	NC_002163.1	gene	325215	325823	.	-	.	locus_tag=Cj0357c;product=putative glycerol-3-phosphate acyltransferase PlsY
+super	NC_002163.1	gene	326024	327049	.	+	.	locus_tag=Cj0358;product=putative cytochrome C551 peroxidase
+super	NC_002163.1	gene	327143	328480	.	+	.	locus_tag=Cj0360;product=phosphoglucosamine mutase
+super	NC_002163.1	gene	328473	328943	.	+	.	locus_tag=Cj0361;product=lipoprotein signal peptidase
+super	NC_002163.1	gene	328927	329379	.	+	.	locus_tag=Cj0362;product=putative integral membrane protein
+super	NC_002163.1	gene	329376	330722	.	-	.	locus_tag=Cj0363c;product=coproporphyrinogen III oxidase
+super	NC_002163.1	gene	330851	331102	.	+	.	locus_tag=Cj0364;product=hypothetical protein
+super	NC_002163.1	gene	331125	332603	.	-	.	locus_tag=Cj0365c;product=outer membrane channel protein CmeC
+super	NC_002163.1	gene	332596	335718	.	-	.	locus_tag=Cj0366c;product=inner membrane efflux transporter CmeB
+super	NC_002163.1	gene	335718	336821	.	-	.	locus_tag=Cj0367c;product=periplasmic fusion protein CmeA
+super	NC_002163.1	gene	336916	337548	.	-	.	locus_tag=Cj0368c;product=transcriptional regulator CmeR
+super	NC_002163.1	gene	337535	338911	.	-	.	locus_tag=Cj0369c;product=putative ferredoxin domain-containing integral membrane protein
+super	NC_002163.1	gene	339071	339283	.	+	.	locus_tag=Cj0370;product=30S ribosomal protein S21
+super	NC_002163.1	gene	339403	340008	.	+	.	locus_tag=Cj0371;product=hypothetical protein
+super	NC_002163.1	gene	340018	341187	.	+	.	locus_tag=Cj0372;product=putative glutathionylspermidine synthase
+super	NC_002163.1	gene	341190	342125	.	+	.	locus_tag=Cj0373;product=2-hydroxyacid dehydrogenase
+super	NC_002163.1	gene	342115	342606	.	+	.	locus_tag=Cj0374;product=putative nucleotide-binding protein
+super	NC_002163.1	gene	342615	343091	.	+	.	locus_tag=Cj0375;product=putative lipoprotein
+super	NC_002163.1	gene	343102	343926	.	+	.	locus_tag=Cj0376;product=putative periplasmic protein
+super	NC_002163.1	gene	343926	345638	.	+	.	locus_tag=Cj0377;product=putative AAA family ATPase
+super	NC_002163.1	gene	345635	346174	.	-	.	locus_tag=Cj0378c;product=putative ferric reductase-like transmembrane protein
+super	NC_002163.1	gene	346174	347067	.	-	.	locus_tag=Cj0379c;product=putative sulfite oxidase subunit YedY
+super	NC_002163.1	gene	347123	347908	.	-	.	locus_tag=Cj0380c;product=hypothetical protein
+super	NC_002163.1	gene	347905	348744	.	-	.	locus_tag=Cj0381c;product=orotidine 5%27-phosphate decarboxylase
+super	NC_002163.1	gene	348741	349139	.	-	.	locus_tag=Cj0382c;product=transcription antitermination protein NusB
+super	NC_002163.1	gene	349139	349603	.	-	.	locus_tag=Cj0383c;product=6%2C7-dimethyl-8-ribityllumazine synthase
+super	NC_002163.1	gene	349600	350415	.	-	.	locus_tag=Cj0384c;product=2-dehydro-3-deoxyphosphooctonate aldolase
+super	NC_002163.1	gene	350412	351344	.	-	.	locus_tag=Cj0385c;product=putative integral membrane protein
+super	NC_002163.1	gene	351446	352828	.	+	.	locus_tag=Cj0386;product=GTP-binding protein EngA
+super	NC_002163.1	gene	352815	353312	.	+	.	locus_tag=Cj0387;product=shikimate kinase
+super	NC_002163.1	gene	353309	354268	.	+	.	locus_tag=Cj0388;product=tryptophanyl-tRNA synthetase
+super	NC_002163.1	gene	354279	355514	.	+	.	locus_tag=Cj0389;product=seryl-tRNA synthetase
+super	NC_002163.1	gene	355524	357986	.	+	.	locus_tag=Cj0390;product=putative transmembrane protein
+super	NC_002163.1	gene	358017	358652	.	-	.	locus_tag=Cj0391c;product=hypothetical protein
+super	NC_002163.1	gene	358750	360192	.	-	.	locus_tag=Cj0392c;product=pyruvate kinase
+super	NC_002163.1	gene	360241	361587	.	-	.	locus_tag=Cj0393c;product=putative malate:quinone oxidoreductase
+super	NC_002163.1	gene	361706	362335	.	-	.	locus_tag=Cj0394c;product=pantothenate kinase
+super	NC_002163.1	gene	362322	362612	.	-	.	locus_tag=Cj0395c;product=hypothetical protein
+super	NC_002163.1	gene	362609	363607	.	-	.	locus_tag=Cj0396c;product=putative lipoprotein
+super	NC_002163.1	gene	363604	364182	.	-	.	locus_tag=Cj0397c;product=hypothetical protein
+super	NC_002163.1	gene	364326	364610	.	+	.	locus_tag=Cj0398;product=aspartyl%2Fglutamyl-tRNA amidotransferase subunit C
+super	NC_002163.1	gene	364678	365241	.	+	.	locus_tag=Cj0399;product=colicin V production protein
+super	NC_002163.1	gene	365243	365716	.	+	.	locus_tag=Cj0400;product=ferric uptake regulator
+super	NC_002163.1	gene	365717	367222	.	+	.	locus_tag=Cj0401;product=lysyl-tRNA synthetase
+super	NC_002163.1	gene	367219	368463	.	+	.	locus_tag=Cj0402;product=serine hydroxymethyltransferase
+super	NC_002163.1	gene	368460	369005	.	+	.	locus_tag=Cj0403;product=hypothetical protein
+super	NC_002163.1	gene	369019	369855	.	+	.	locus_tag=Cj0404;product=putative transmembrane protein
+super	NC_002163.1	gene	369852	370640	.	+	.	locus_tag=Cj0405;product=shikimate 5-dehydrogenase
+super	NC_002163.1	gene	370715	371614	.	-	.	locus_tag=Cj0406c;product=putative lipoprotein
+super	NC_002163.1	gene	371704	372519	.	+	.	locus_tag=Cj0407;product=prolipoprotein diacylglyceryl transferase
+super	NC_002163.1	gene	372589	373371	.	+	.	locus_tag=Cj0408;product=fumarate reductase cytochrome b-556 subunit
+super	NC_002163.1	gene	373355	375346	.	+	.	locus_tag=Cj0409;product=fumarate reductase flavoprotein subunit
+super	NC_002163.1	gene	375339	376064	.	+	.	locus_tag=Cj0410;product=fumarate reductase iron-sulfur subunit
+super	NC_002163.1	gene	376092	378278	.	+	.	locus_tag=Cj0411;product=putative ATP%2FGTP binding protein
+super	NC_002163.1	gene	378268	380097	.	+	.	locus_tag=Cj0412;product=putative ATP%2FGTP binding protein
+super	NC_002163.1	gene	380097	380801	.	+	.	locus_tag=Cj0413;product=putative periplasmic protein
+super	NC_002163.1	gene	380937	381665	.	+	.	locus_tag=Cj0414;product=putative oxidoreductase subunit
+super	NC_002163.1	gene	381667	383388	.	+	.	locus_tag=Cj0415;product=putative GMC oxidoreductase subunit
+super	NC_002163.1	gene	383559	383657	.	+	.	locus_tag=Cj0416;product=hypothetical protein
+super	NC_002163.1	gene	383677	383823	.	+	.	locus_tag=Cj0417;product=hypothetical protein
+super	NC_002163.1	gene	383947	384651	.	-	.	locus_tag=Cj0418c;product=hypothetical protein
+super	NC_002163.1	gene	384759	385121	.	+	.	locus_tag=Cj0419;product=putative histidine triad %28HIT%29 family protein
+super	NC_002163.1	gene	385195	385767	.	+	.	locus_tag=Cj0420;product=putative periplasmic protein
+super	NC_002163.1	gene	385772	386728	.	-	.	locus_tag=Cj0421c;product=putative integral membrane protein
+super	NC_002163.1	gene	386790	386999	.	-	.	locus_tag=Cj0422c;product=putative H-T-H containing protein
+super	NC_002163.1	gene	387168	387395	.	+	.	locus_tag=Cj0423;product=putative integral membrane protein
+super	NC_002163.1	gene	387404	388036	.	+	.	locus_tag=Cj0424;product=putative acidic periplasmic protein
+super	NC_002163.1	gene	388049	388465	.	+	.	locus_tag=Cj0425;product=putative periplasmic protein
+super	NC_002163.1	gene	388595	390172	.	+	.	locus_tag=Cj0426;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	390162	390497	.	+	.	locus_tag=Cj0427;product=hypothetical protein
+super	NC_002163.1	gene	390572	390955	.	+	.	locus_tag=Cj0428;product=hypothetical protein
+super	NC_002163.1	gene	390999	391583	.	-	.	locus_tag=Cj0429c;product=hypothetical protein
+super	NC_002163.1	gene	391711	392937	.	+	.	locus_tag=Cj0430;product=putative integral membrane protein
+super	NC_002163.1	gene	392930	393544	.	+	.	locus_tag=Cj0431;product=putative periplasmic ATP%2FGTP-binding protein
+super	NC_002163.1	gene	394130	395642	.	+	.	locus_tag=Cjr04;product=16S ribosomal RNA
+super	NC_002163.1	gene	395747	395822	.	+	.	locus_tag=Cjp04;product=tRNA-Ala
+super	NC_002163.1	gene	395831	395907	.	+	.	locus_tag=Cjp05;product=tRNA-Ile
+super	NC_002163.1	gene	396449	399360	.	+	.	locus_tag=Cjr05;product=23S ribosomal RNA
+super	NC_002163.1	gene	399644	399763	.	+	.	locus_tag=Cjr06;product=5S ribosomal RNA
+super	NC_002163.1	gene	399936	401144	.	-	.	locus_tag=Cj0432c;product=UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+super	NC_002163.1	gene	401144	402205	.	-	.	locus_tag=Cj0433c;product=phospho-N-acetylmuramoyl-pentapeptide-transferase
+super	NC_002163.1	gene	402285	403763	.	+	.	locus_tag=Cj0434;product=phosphoglyceromutase
+super	NC_002163.1	gene	403835	404578	.	+	.	locus_tag=Cj0435;product=3-ketoacyl-%28acyl-carrier-protein%29 reductase
+super	NC_002163.1	gene	404585	404995	.	+	.	locus_tag=Cj0436;product=putative pyridoxamine 5%27-phosphate oxidase
+super	NC_002163.1	gene	405333	407168	.	+	.	locus_tag=Cj0437;product=succinate dehydrogenase flavoprotein subunit
+super	NC_002163.1	gene	407165	408130	.	+	.	locus_tag=Cj0438;product=putative succinate dehydrogenase iron-sulfur protein
+super	NC_002163.1	gene	408134	408991	.	+	.	locus_tag=Cj0439;product=putative succinate dehydrogenase subunit C
+super	NC_002163.1	gene	409015	409683	.	-	.	locus_tag=Cj0440c;product=putative transcriptional regulator
+super	NC_002163.1	gene	409793	410026	.	+	.	locus_tag=Cj0441;product=acyl carrier protein
+super	NC_002163.1	gene	410053	411267	.	+	.	locus_tag=Cj0442;product=3-oxoacyl-%28acyl carrier protein%29 synthase II
+super	NC_002163.1	gene	411269	412207	.	+	.	locus_tag=Cj0443;product=acetyl-CoA carboxylase carboxyltransferase subunit alpha
+super	NC_002163.1	gene	412359	414430	.	+	.	locus_tag=Cj0444;product=pseudo
+super	NC_002163.1	gene	414516	415112	.	+	.	locus_tag=Cj0447;product=putative NUDIX hydrolase family protein
+super	NC_002163.1	gene	415144	416241	.	-	.	locus_tag=Cj0448c;product=putative MCP-type signal transduction protein
+super	NC_002163.1	gene	416251	416466	.	-	.	locus_tag=Cj0449c;product=hypothetical protein
+super	NC_002163.1	gene	416651	416845	.	-	.	locus_tag=Cj0450c;product=50S ribosomal protein L28
+super	NC_002163.1	gene	416985	417632	.	+	.	locus_tag=Cj0451;product=ribulose-phosphate 3-epimerase
+super	NC_002163.1	gene	417629	418390	.	+	.	locus_tag=Cj0452;product=DNA polymerase III subunit epsilon
+super	NC_002163.1	gene	418412	418516	.	+	.	locus_tag=Cjs02
+super	NC_002163.1	gene	418573	419865	.	+	.	locus_tag=Cj0453;product=thiamine biosynthesis protein ThiC
+super	NC_002163.1	gene	419857	420426	.	-	.	locus_tag=Cj0454c;product=hypothetical protein
+super	NC_002163.1	gene	420548	420892	.	-	.	locus_tag=Cj0455c;product=hypothetical protein
+super	NC_002163.1	gene	420889	421848	.	-	.	locus_tag=Cj0456c;product=hypothetical protein
+super	NC_002163.1	gene	421850	422479	.	-	.	locus_tag=Cj0457c;product=putative lipoprotein
+super	NC_002163.1	gene	422463	423764	.	-	.	locus_tag=Cj0458c;product=%28dimethylallyl%29adenosine tRNA methylthiotransferase
+super	NC_002163.1	gene	423761	424027	.	-	.	locus_tag=Cj0459c;product=hypothetical protein
+super	NC_002163.1	gene	424131	425219	.	+	.	locus_tag=Cj0460;product=transcription elongation factor NusA
+super	NC_002163.1	gene	425235	426422	.	-	.	locus_tag=Cj0461c;product=putative MFS transport protein
+super	NC_002163.1	gene	426496	427542	.	+	.	locus_tag=Cj0462;product=hypothetical protein
+super	NC_002163.1	gene	427542	428762	.	+	.	locus_tag=Cj0463;product=zinc protease-like protein
+super	NC_002163.1	gene	428752	430575	.	+	.	locus_tag=Cj0464;product=ATP-dependent DNA helicase RecG
+super	NC_002163.1	gene	430572	430955	.	-	.	locus_tag=Cj0465c;product=group III truncated haemoglobin
+super	NC_002163.1	gene	431050	431646	.	+	.	locus_tag=Cj0466;product=transcriptional regulator
+super	NC_002163.1	gene	431662	432363	.	+	.	locus_tag=Cj0467;product=amino-acid ABC transporter integral membrane protein
+super	NC_002163.1	gene	432356	433012	.	+	.	locus_tag=Cj0468;product=amino-acid ABC transporter integral membrane protein
+super	NC_002163.1	gene	433014	433775	.	+	.	locus_tag=Cj0469;product=amino-acid ABC transporter ATP-binding protein
+super	NC_002163.1	gene	433867	433942	.	+	.	locus_tag=Cjp06;product=tRNA-Thr
+super	NC_002163.1	gene	433992	434077	.	+	.	locus_tag=Cjp07;product=tRNA-Tyr
+super	NC_002163.1	gene	434084	434160	.	+	.	locus_tag=Cjp08;product=tRNA-Gly
+super	NC_002163.1	gene	434265	434339	.	+	.	locus_tag=Cjt1;product=tRNA-Thr
+super	NC_002163.1	gene	434408	435607	.	+	.	locus_tag=Cj0470;product=elongation factor Tu
+super	NC_002163.1	gene	435660	435818	.	+	.	locus_tag=Cj0471;product=50S ribosomal protein L33
+super	NC_002163.1	gene	435831	435906	.	+	.	locus_tag=Cjp09;product=tRNA-Trp
+super	NC_002163.1	gene	435925	436104	.	+	.	locus_tag=Cj0472;product=preprotein translocase subunit SecE
+super	NC_002163.1	gene	436114	436647	.	+	.	locus_tag=Cj0473;product=transcription antitermination protein NusG
+super	NC_002163.1	gene	436673	437098	.	+	.	locus_tag=Cj0474;product=50S ribosomal protein L11
+super	NC_002163.1	gene	437153	437854	.	+	.	locus_tag=Cj0475;product=50S ribosomal protein L1
+super	NC_002163.1	gene	438006	438485	.	+	.	locus_tag=Cj0476;product=50S ribosomal protein L10
+super	NC_002163.1	gene	438506	438883	.	+	.	locus_tag=Cj0477;product=50S ribosomal protein L7%2FL12
+super	NC_002163.1	gene	438992	443128	.	+	.	locus_tag=Cj0478;product=DNA-directed RNA polymerase subunit beta
+super	NC_002163.1	gene	443121	447674	.	+	.	locus_tag=Cj0479;product=DNA-directed RNA polymerase subunit beta%27
+super	NC_002163.1	gene	447705	448466	.	-	.	locus_tag=Cj0480c;product=putative transcriptional regulator
+super	NC_002163.1	gene	448697	449605	.	+	.	locus_tag=Cj0481;product=putative dihydrodipicolinate synthase
+super	NC_002163.1	gene	449602	449865	.	+	.	locus_tag=Cj0482;product=putative altronate hydrolase N-terminus
+super	NC_002163.1	gene	449862	451034	.	+	.	locus_tag=Cj0483;product=putative altronate hydrolase C-terminus
+super	NC_002163.1	gene	451046	452278	.	+	.	locus_tag=Cj0484;product=putative MFS transport protein
+super	NC_002163.1	gene	452320	453108	.	+	.	locus_tag=Cj0485;product=short chain dehydrogenase
+super	NC_002163.1	gene	453119	454375	.	+	.	locus_tag=Cj0486;product=putative sugar transporter
+super	NC_002163.1	gene	454359	455129	.	+	.	locus_tag=Cj0487;product=putative amidohydrolase
+super	NC_002163.1	gene	455130	455447	.	+	.	locus_tag=Cj0488;product=hypothetical protein
+super	NC_002163.1	gene	455461	455682	.	+	.	locus_tag=Cj0489;product=putative aldehyde dehydrogenase N-terminus
+super	NC_002163.1	gene	455718	456899	.	+	.	locus_tag=Cj0490;product=putative aldehyde dehydrogenase C-terminus
+super	NC_002163.1	gene	457227	457613	.	+	.	locus_tag=Cj0491;product=30S ribosomal protein S12
+super	NC_002163.1	gene	457683	458153	.	+	.	locus_tag=Cj0492;product=30S ribosomal protein S7
+super	NC_002163.1	gene	458166	460241	.	+	.	locus_tag=Cj0493;product=elongation factor G
+super	NC_002163.1	gene	460270	460346	.	+	.	locus_tag=Cjp10;product=tRNA-Arg
+super	NC_002163.1	gene	460364	460513	.	+	.	locus_tag=Cj0494;product=putative exporting protein
+super	NC_002163.1	gene	460519	461220	.	+	.	locus_tag=Cj0495;product=putative methyltransferase domain protein
+super	NC_002163.1	gene	461210	461584	.	+	.	locus_tag=Cj0496;product=hypothetical protein
+super	NC_002163.1	gene	461557	462834	.	+	.	locus_tag=Cj0497;product=putative lipoprotein
+super	NC_002163.1	gene	462831	463607	.	+	.	locus_tag=Cj0498;product=indole-3-glycerol-phosphate synthase
+super	NC_002163.1	gene	463617	464102	.	+	.	locus_tag=Cj0499;product=putative histidine triad %28HIT%29 family protein
+super	NC_002163.1	gene	464092	465090	.	+	.	locus_tag=Cj0500;product=tRNA 2-selenouridine synthase
+super	NC_002163.1	gene	465376	466598	.	+	.	locus_tag=Cj0501;product=pseudo
+super	NC_002163.1	gene	466660	467571	.	-	.	locus_tag=Cj0503c;product=ferrochelatase
+super	NC_002163.1	gene	467568	468434	.	-	.	locus_tag=Cj0504c;product=putative oxidoreductase
+super	NC_002163.1	gene	468439	469512	.	-	.	locus_tag=Cj0505c;product=putative DegT family aminotransferase
+super	NC_002163.1	gene	469627	472155	.	+	.	locus_tag=Cj0506;product=alanyl-tRNA synthetase
+super	NC_002163.1	gene	472155	472706	.	+	.	locus_tag=Cj0507;product=Maf-like protein
+super	NC_002163.1	gene	472703	474634	.	+	.	locus_tag=Cj0508;product=penicillin-binding protein
+super	NC_002163.1	gene	474662	477235	.	-	.	locus_tag=Cj0509c;product=ATP-dependent Clp protease ATP-binding subunit
+super	NC_002163.1	gene	477347	477637	.	-	.	locus_tag=Cj0510c;product=hypothetical protein
+super	NC_002163.1	gene	477755	479089	.	+	.	locus_tag=Cj0511;product=putative secreted protease
+super	NC_002163.1	gene	479091	479801	.	+	.	locus_tag=Cj0512;product=phosphoribosylaminoimidazole-succinocarboxamide synthase
+super	NC_002163.1	gene	479810	480055	.	+	.	locus_tag=Cj0513;product=phosphoribosylformylglycinamidine synthase
+super	NC_002163.1	gene	480057	480728	.	+	.	locus_tag=Cj0514;product=phosphoribosylformylglycinamidine synthase I
+super	NC_002163.1	gene	480700	481896	.	+	.	locus_tag=Cj0515;product=putative periplasmic protein
+super	NC_002163.1	gene	481877	482569	.	+	.	locus_tag=Cj0516;product=putative 1-acyl-SN-glycerol-3-phosphate acyltransferase
+super	NC_002163.1	gene	482563	482931	.	+	.	locus_tag=Cj0517;product=CrcB protein
+super	NC_002163.1	gene	483003	484829	.	+	.	locus_tag=Cj0518;product=heat shock protein 90
+super	NC_002163.1	gene	484826	485143	.	+	.	locus_tag=Cj0519;product=putative rhodanese-like domain protein
+super	NC_002163.1	gene	485143	485577	.	+	.	locus_tag=Cj0520;product=hypothetical protein
+super	NC_002163.1	gene	485698	486201	.	+	.	locus_tag=Cj0522;product=putative Na%2B%2FPi cotransporter protein
+super	NC_002163.1	gene	486213	486488	.	+	.	locus_tag=Cj0523;product=hypothetical protein
+super	NC_002163.1	gene	486642	487343	.	+	.	locus_tag=Cj0524;product=hypothetical protein
+super	NC_002163.1	gene	487340	489148	.	-	.	locus_tag=Cj0525c;product=putative penicillin-binding protein
+super	NC_002163.1	gene	489155	489451	.	-	.	locus_tag=Cj0526c;product=flagellar hook-basal body protein FliE
+super	NC_002163.1	gene	489458	489952	.	-	.	locus_tag=Cj0527c;product=flagellar basal body rod protein FlgC
+super	NC_002163.1	gene	489962	490393	.	-	.	locus_tag=Cj0528c;product=flagellar basal body rod protein FlgB
+super	NC_002163.1	gene	490474	491475	.	-	.	locus_tag=Cj0529c;product=putative aminodeoxychorismate lyase family protein
+super	NC_002163.1	gene	491390	493960	.	+	.	locus_tag=Cj0530;product=putative periplasmic protein
+super	NC_002163.1	gene	494077	496281	.	+	.	locus_tag=Cj0531;product=isocitrate dehydrogenase
+super	NC_002163.1	gene	496278	497180	.	+	.	locus_tag=Cj0532;product=malate dehydrogenase
+super	NC_002163.1	gene	497181	498344	.	+	.	locus_tag=Cj0533;product=succinyl-CoA synthetase subunit beta
+super	NC_002163.1	gene	498354	499223	.	+	.	locus_tag=Cj0534;product=succinyl-coA synthetase alpha chain
+super	NC_002163.1	gene	499238	499549	.	+	.	locus_tag=Cj0535;product=2-oxoglutarate-acceptor oxidoreductase subunit OorD
+super	NC_002163.1	gene	499558	500682	.	+	.	locus_tag=Cj0536;product=2-oxoglutarate-acceptor oxidoreductase subunit OorA
+super	NC_002163.1	gene	500683	501528	.	+	.	locus_tag=Cj0537;product=2-oxoglutarate-acceptor oxidoreductase subunit OorB
+super	NC_002163.1	gene	501525	502082	.	+	.	locus_tag=Cj0538;product=2-oxoglutarate-acceptor oxidoreductase subunit OorC
+super	NC_002163.1	gene	502221	502484	.	+	.	locus_tag=Cj0539;product=hypothetical protein
+super	NC_002163.1	gene	502487	503023	.	+	.	locus_tag=Cj0540;product=putative exporting protein
+super	NC_002163.1	gene	503037	503930	.	+	.	locus_tag=Cj0541;product=polyprenyl synthetase
+super	NC_002163.1	gene	503930	505228	.	+	.	locus_tag=Cj0542;product=glutamyl-tRNA reductase
+super	NC_002163.1	gene	505212	506921	.	+	.	locus_tag=Cj0543;product=prolyl-tRNA synthetase
+super	NC_002163.1	gene	506918	507307	.	+	.	locus_tag=Cj0544;product=putative integral memnbrane protein
+super	NC_002163.1	gene	507304	508227	.	+	.	locus_tag=Cj0545;product=porphobilinogen deaminase
+super	NC_002163.1	gene	508224	510026	.	+	.	locus_tag=Cj0546;product=putative 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+super	NC_002163.1	gene	510184	510549	.	+	.	locus_tag=Cj0547;product=flagellar protein FlaG
+super	NC_002163.1	gene	510552	512480	.	+	.	locus_tag=Cj0548;product=flagellar capping protein
+super	NC_002163.1	gene	512492	512878	.	+	.	locus_tag=Cj0549;product=flagellar protein FliS
+super	NC_002163.1	gene	512859	513134	.	+	.	locus_tag=Cj0550;product=hypothetical protein
+super	NC_002163.1	gene	513138	513451	.	-	.	locus_tag=Cjp11;product=RNA component of RNase P
+super	NC_002163.1	gene	513566	514135	.	+	.	locus_tag=Cj0551;product=elongation factor P
+super	NC_002163.1	gene	514295	514987	.	+	.	locus_tag=Cj0552;product=hypothetical protein
+super	NC_002163.1	gene	514974	515927	.	+	.	locus_tag=Cj0553;product=putative integral membrane protein
+super	NC_002163.1	gene	515937	516941	.	+	.	locus_tag=Cj0554;product=hypothetical protein
+super	NC_002163.1	gene	517060	518352	.	+	.	locus_tag=Cj0555;product=putative dicarboxylate carrier protein MatC
+super	NC_002163.1	gene	518363	519160	.	+	.	locus_tag=Cj0556;product=putative amidohydrolase family protein
+super	NC_002163.1	gene	519157	520242	.	-	.	locus_tag=Cj0557c;product=putative integral membrane protein
+super	NC_002163.1	gene	520239	521471	.	-	.	locus_tag=Cj0558c;product=gamma-glutamyl phosphate reductase
+super	NC_002163.1	gene	521542	522477	.	+	.	locus_tag=Cj0559;product=putative pyridine nucleotide-disulphide oxidoreductase
+super	NC_002163.1	gene	522658	523986	.	+	.	locus_tag=Cj0560;product=putative MATE family transport protein
+super	NC_002163.1	gene	524034	524963	.	-	.	locus_tag=Cj0561c;product=putative periplasmic protein
+super	NC_002163.1	gene	525117	526493	.	+	.	locus_tag=Cj0562;product=replicative DNA helicase
+super	NC_002163.1	gene	526556	527158	.	+	.	locus_tag=Cj0563;product=hypothetical protein
+super	NC_002163.1	gene	527149	527355	.	+	.	locus_tag=Cj0564;product=putative integral membrane protein
+super	NC_002163.1	gene	527436	528163	.	+	.	locus_tag=Cj0565;product=pseudo
+super	NC_002163.1	gene	528182	529648	.	+	.	locus_tag=Cj0566;product=hypothetical protein
+super	NC_002163.1	gene	529659	529772	.	+	.	locus_tag=Cj0567;product=hypothetical protein
+super	NC_002163.1	gene	529974	530255	.	+	.	locus_tag=Cj0568;product=hypothetical protein
+super	NC_002163.1	gene	530261	531130	.	+	.	locus_tag=Cj0569;product=hypothetical protein
+super	NC_002163.1	gene	531139	532206	.	+	.	locus_tag=Cj0570;product=putative ATP%2FGTP binding protein
+super	NC_002163.1	gene	532203	533075	.	+	.	locus_tag=Cj0571;product=putative transcriptional regulator
+super	NC_002163.1	gene	533097	533172	.	-	.	locus_tag=Cjp12;product=tRNA-Met
+super	NC_002163.1	gene	533206	533280	.	-	.	locus_tag=Cjp13;product=tRNA-Gln
+super	NC_002163.1	gene	533373	534392	.	+	.	locus_tag=Cj0572;product=bifunctional 3%2C4-dihydroxy-2-butanone 4-phosphate synthase%2FGTP cyclohydrolase II protein
+super	NC_002163.1	gene	534404	534847	.	+	.	locus_tag=Cj0573;product=putative GatB%2FYqey family protein
+super	NC_002163.1	gene	534865	536565	.	+	.	locus_tag=Cj0574;product=acetolactate synthase 3 catalytic subunit
+super	NC_002163.1	gene	536562	537026	.	+	.	locus_tag=Cj0575;product=acetolactate synthase 3 regulatory subunit
+super	NC_002163.1	gene	537023	537988	.	+	.	locus_tag=Cj0576;product=UDP-3-O-%5B3-hydroxymyristoyl%5D glucosamine N-acyltransferase
+super	NC_002163.1	gene	537977	539005	.	-	.	locus_tag=Cj0577c;product=S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+super	NC_002163.1	gene	538998	539735	.	-	.	locus_tag=Cj0578c;product=sec-independent protein translocase
+super	NC_002163.1	gene	539728	540144	.	-	.	locus_tag=Cj0579c;product=sec-independent translocase
+super	NC_002163.1	gene	540202	541269	.	-	.	locus_tag=Cj0580c;product=coproporphyrinogen III oxidase
+super	NC_002163.1	gene	541371	541841	.	+	.	locus_tag=Cj0581;product=dinucleoside polyphosphate hydrolase
+super	NC_002163.1	gene	541843	543045	.	+	.	locus_tag=Cj0582;product=aspartate kinase
+super	NC_002163.1	gene	543046	543582	.	+	.	locus_tag=Cj0583;product=hypothetical protein
+super	NC_002163.1	gene	543588	544187	.	+	.	locus_tag=Cj0584;product=DNA polymerase III subunit delta%27
+super	NC_002163.1	gene	544189	545331	.	+	.	locus_tag=Cj0585;product=dihydropteroate synthase
+super	NC_002163.1	gene	545332	547275	.	+	.	locus_tag=Cj0586;product=NAD-dependent DNA ligase LigA
+super	NC_002163.1	gene	547256	548260	.	+	.	locus_tag=Cj0587;product=putative integral membrane protein
+super	NC_002163.1	gene	548257	549018	.	+	.	locus_tag=Cj0588;product=putative hemolysin
+super	NC_002163.1	gene	548984	549838	.	+	.	locus_tag=Cj0589;product=bifunctional riboflavin kinase%2FFMN adenylyltransferase
+super	NC_002163.1	gene	549825	550535	.	+	.	locus_tag=Cj0590;product=putative SAM-dependent methyltransferase
+super	NC_002163.1	gene	550525	550746	.	-	.	locus_tag=Cj0591c;product=putative lipoprotein
+super	NC_002163.1	gene	550743	551177	.	-	.	locus_tag=Cj0592c;product=putative periplasmic protein
+super	NC_002163.1	gene	551235	551867	.	-	.	locus_tag=Cj0593c;product=putative integral membrane protein
+super	NC_002163.1	gene	551878	552528	.	-	.	locus_tag=Cj0594c;product=putative DNA%2FRNA non-specific endonuclease
+super	NC_002163.1	gene	552525	553151	.	-	.	locus_tag=Cj0595c;product=endonuclease III
+super	NC_002163.1	gene	553232	554053	.	+	.	locus_tag=Cj0596;product=major antigenic peptide PEB-cell binding factor
+super	NC_002163.1	gene	554053	555117	.	+	.	locus_tag=Cj0597;product=fructose-bisphosphate aldolase
+super	NC_002163.1	gene	555212	556654	.	+	.	locus_tag=Cj0598;product=hypothetical protein
+super	NC_002163.1	gene	556651	557604	.	+	.	locus_tag=Cj0599;product=putative OmpA family membrane protein
+super	NC_002163.1	gene	557591	558466	.	+	.	locus_tag=Cj0600;product=hypothetical protein
+super	NC_002163.1	gene	558458	559801	.	-	.	locus_tag=Cj0601c;product=putative sodium-dependent transmembrane transport protein
+super	NC_002163.1	gene	559852	560520	.	-	.	locus_tag=Cj0602c;product=MOSC-domain containing protein
+super	NC_002163.1	gene	560517	562220	.	-	.	locus_tag=Cj0603c;product=putative thiol:disulphide interchange protein
+super	NC_002163.1	gene	562315	563196	.	+	.	locus_tag=Cj0604;product=putative polyphosphate kinase
+super	NC_002163.1	gene	563205	564395	.	+	.	locus_tag=Cj0605;product=putative amidohydrolase
+super	NC_002163.1	gene	564474	565646	.	+	.	locus_tag=Cj0606;product=putative secretion protein HlyD
+super	NC_002163.1	gene	565646	567571	.	+	.	locus_tag=Cj0607;product=ABC transporter transmembrane protein
+super	NC_002163.1	gene	567573	568943	.	+	.	locus_tag=Cj0608;product=putative outer membrane efflux protein
+super	NC_002163.1	gene	568946	570124	.	-	.	locus_tag=Cj0609c;product=putative periplasmic protein
+super	NC_002163.1	gene	570111	571121	.	-	.	locus_tag=Cj0610c;product=putative periplasmic protein
+super	NC_002163.1	gene	571122	572498	.	-	.	locus_tag=Cj0611c;product=putative acyltransferase family protein
+super	NC_002163.1	gene	572541	573044	.	-	.	locus_tag=Cj0612c;product=ferritin
+super	NC_002163.1	gene	573224	574219	.	+	.	locus_tag=Cj0613;product=putative periplasmic phosphate binding protein
+super	NC_002163.1	gene	574229	575143	.	+	.	locus_tag=Cj0614;product=putative phosphate transport system permease
+super	NC_002163.1	gene	575140	576228	.	+	.	locus_tag=Cj0615;product=putative phosphate transport system permease
+super	NC_002163.1	gene	576225	576965	.	+	.	locus_tag=Cj0616;product=phosphate ABC transporter ATP-binding protein
+super	NC_002163.1	gene	577027	577638	.	+	.	locus_tag=Cj0617;product=hypothetical protein
+super	NC_002163.1	gene	577608	578255	.	+	.	locus_tag=Cj0618;product=hypothetical protein
+super	NC_002163.1	gene	578345	579661	.	+	.	locus_tag=Cj0619;product=putative MATE family transport protein
+super	NC_002163.1	gene	579637	580284	.	+	.	locus_tag=Cj0620;product=hypothetical protein
+super	NC_002163.1	gene	580326	581846	.	+	.	locus_tag=Cj0621;product=hypothetical protein
+super	NC_002163.1	gene	581827	584016	.	+	.	locus_tag=Cj0622;product=carbamoyltransferase
+super	NC_002163.1	gene	584094	584837	.	+	.	locus_tag=Cj0623;product=hydrogenase isoenzymes formation protein
+super	NC_002163.1	gene	584837	585118	.	+	.	locus_tag=Cj0624;product=hydrogenase isoenzymes formation protein
+super	NC_002163.1	gene	585102	586193	.	+	.	locus_tag=Cj0625;product=hydrogenase isoenzymes formation protein
+super	NC_002163.1	gene	586190	587164	.	+	.	locus_tag=Cj0626;product=hydrogenase isoenzymes formation protein
+super	NC_002163.1	gene	587164	587508	.	+	.	locus_tag=Cj0627;product=hydrogenase expression%2Fformation protein
+super	NC_002163.1	gene	587868	591303	.	+	.	locus_tag=Cj0628;product=putative lipoprotein
+super	NC_002163.1	gene	591537	592502	.	-	.	locus_tag=Cj0630c;product=DNA polymerase III subunit delta
+super	NC_002163.1	gene	592495	594429	.	-	.	locus_tag=Cj0631c;product=putative ribonuclease
+super	NC_002163.1	gene	594548	595570	.	+	.	locus_tag=Cj0632;product=ketol-acid reductoisomerase
+super	NC_002163.1	gene	595574	596656	.	+	.	locus_tag=Cj0633;product=putative periplasmic protein
+super	NC_002163.1	gene	596646	597419	.	+	.	locus_tag=Cj0634;product=DNA processing protein A
+super	NC_002163.1	gene	597416	597799	.	+	.	locus_tag=Cj0635;product=Holliday junction resolvase-like protein
+super	NC_002163.1	gene	597828	598667	.	+	.	locus_tag=Cj0636;product=NOL1%2FNOP2%2Fsun family protein
+super	NC_002163.1	gene	598843	599340	.	-	.	locus_tag=Cj0637c;product=methionine sulfoxide reductase A
+super	NC_002163.1	gene	599381	599899	.	-	.	locus_tag=Cj0638c;product=inorganic pyrophosphatase
+super	NC_002163.1	gene	599909	600487	.	-	.	locus_tag=Cj0639c;product=adenylate kinase
+super	NC_002163.1	gene	600484	602235	.	-	.	locus_tag=Cj0640c;product=aspartyl-tRNA synthetase
+super	NC_002163.1	gene	602326	603186	.	+	.	locus_tag=Cj0641;product=inorganic polyphosphate%2FATP-NAD kinase
+super	NC_002163.1	gene	603186	604709	.	+	.	locus_tag=Cj0642;product=putative DNA repair protein
+super	NC_002163.1	gene	604815	606059	.	+	.	locus_tag=Cj0643;product=two-component response regulator
+super	NC_002163.1	gene	606050	606865	.	+	.	locus_tag=Cj0644;product=putative TatD-related deoxyribonuclease protein
+super	NC_002163.1	gene	606865	607983	.	+	.	locus_tag=Cj0645;product=putative secreted transglycosylase
+super	NC_002163.1	gene	607943	608770	.	+	.	locus_tag=Cj0646;product=putative lipoprotein
+super	NC_002163.1	gene	608776	609264	.	+	.	locus_tag=Cj0647;product=putative HAD-superfamily hydrolase
+super	NC_002163.1	gene	609255	609770	.	+	.	locus_tag=Cj0648;product=hypothetical protein
+super	NC_002163.1	gene	609752	610213	.	+	.	locus_tag=Cj0649;product=putative OstA family protein
+super	NC_002163.1	gene	610210	610806	.	+	.	locus_tag=Cj0650;product=ribosome biogenesis GTP-binding protein YsxC
+super	NC_002163.1	gene	610803	611297	.	+	.	locus_tag=Cj0651;product=putative integral membrane protein
+super	NC_002163.1	gene	611298	613103	.	+	.	locus_tag=Cj0652;product=penicillin-binding protein
+super	NC_002163.1	gene	613224	615014	.	-	.	locus_tag=Cj0653c;product=putative aminopeptidase
+super	NC_002163.1	gene	615014	616485	.	-	.	locus_tag=Cj0654c;product=pseudo
+super	NC_002163.1	gene	616572	617120	.	-	.	locus_tag=Cj0659c;product=putative periplasmic protein
+super	NC_002163.1	gene	617113	618219	.	-	.	locus_tag=Cj0660c;product=putative transmembrane protein
+super	NC_002163.1	gene	618206	619081	.	-	.	locus_tag=Cj0661c;product=GTP-binding protein Era
+super	NC_002163.1	gene	619078	620397	.	-	.	locus_tag=Cj0662c;product=ATP-dependent protease ATP-binding subunit HslU
+super	NC_002163.1	gene	620394	620936	.	-	.	locus_tag=Cj0663c;product=ATP-dependent protease peptidase subunit
+super	NC_002163.1	gene	620936	621379	.	-	.	locus_tag=Cj0664c;product=50S ribosomal protein L9
+super	NC_002163.1	gene	621392	622612	.	-	.	locus_tag=Cj0665c;product=argininosuccinate synthase
+super	NC_002163.1	gene	622768	623013	.	+	.	locus_tag=Cj0667;product=putative S4 domain protein
+super	NC_002163.1	gene	623010	623417	.	+	.	locus_tag=Cj0668;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	623410	624138	.	+	.	locus_tag=Cj0669;product=ABC-transporter ATP-binding protein
+super	NC_002163.1	gene	624138	625388	.	+	.	locus_tag=Cj0670;product=RNA polymerase factor sigma-54
+super	NC_002163.1	gene	625552	626976	.	+	.	locus_tag=Cj0671;product=anaerobic C4-dicarboxylate transporter
+super	NC_002163.1	gene	627118	627306	.	+	.	locus_tag=Cj0672;product=putative periplasmic protein
+super	NC_002163.1	gene	627316	628972	.	+	.	locus_tag=Cj0676;product=pseudo
+super	NC_002163.1	gene	629020	631065	.	+	.	locus_tag=Cj0677;product=potassium-transporting ATPase subunit B
+super	NC_002163.1	gene	631067	631661	.	+	.	locus_tag=Cj0678;product=pseudo
+super	NC_002163.1	gene	631667	633487	.	+	.	locus_tag=Cj0679;product=truncated KdpD protein
+super	NC_002163.1	gene	633589	635562	.	-	.	locus_tag=Cj0680c;product=excinuclease ABC subunit B
+super	NC_002163.1	gene	635716	635946	.	+	.	locus_tag=Cj0681;product=hypothetical protein
+super	NC_002163.1	gene	635936	636178	.	+	.	locus_tag=Cj0682;product=hypothetical protein
+super	NC_002163.1	gene	636175	636612	.	+	.	locus_tag=Cj0683;product=putative periplasmic protein
+super	NC_002163.1	gene	636594	638447	.	+	.	locus_tag=Cj0684;product=primosome assembly protein PriA
+super	NC_002163.1	gene	638540	639892	.	-	.	locus_tag=Cj0685c;product=invasion protein CipA
+super	NC_002163.1	gene	639998	641071	.	+	.	locus_tag=Cj0686;product=4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+super	NC_002163.1	gene	641102	641800	.	-	.	locus_tag=Cj0687c;product=flagellar basal body L-ring protein
+super	NC_002163.1	gene	641890	643395	.	+	.	locus_tag=Cj0688;product=putative phosphate acetyltransferase
+super	NC_002163.1	gene	643409	644599	.	+	.	locus_tag=Cj0689;product=acetate kinase
+super	NC_002163.1	gene	644627	648379	.	-	.	locus_tag=Cj0690c;product=putative restriction%2Fmodification enzyme
+super	NC_002163.1	gene	648529	649020	.	+	.	locus_tag=Cj0691;product=hypothetical protein
+super	NC_002163.1	gene	649008	649946	.	-	.	locus_tag=Cj0692c;product=hypothetical protein
+super	NC_002163.1	gene	649946	650884	.	-	.	locus_tag=Cj0693c;product=S-adenosyl-methyltransferase MraW
+super	NC_002163.1	gene	651043	652533	.	+	.	locus_tag=Cj0694;product=putative periplasmic protein
+super	NC_002163.1	gene	652530	653918	.	+	.	locus_tag=Cj0695;product=cell division protein FtsA
+super	NC_002163.1	gene	653934	655046	.	+	.	locus_tag=Cj0696;product=cell division protein FtsZ
+super	NC_002163.1	gene	655202	656014	.	+	.	locus_tag=Cj0697;product=flagellar basal-body rod protein
+super	NC_002163.1	gene	656043	656834	.	+	.	locus_tag=Cj0698;product=flagellar basal body rod protein FlgG
+super	NC_002163.1	gene	656901	658331	.	-	.	locus_tag=Cj0699c;product=glutamine synthetase
+super	NC_002163.1	gene	658534	659229	.	+	.	locus_tag=Cj0700;product=hypothetical protein
+super	NC_002163.1	gene	659226	660479	.	+	.	locus_tag=Cj0701;product=putative protease
+super	NC_002163.1	gene	660480	660974	.	+	.	locus_tag=Cj0702;product=phosphoribosylaminoimidazole carboxylase catalytic subunit
+super	NC_002163.1	gene	660984	661520	.	+	.	locus_tag=Cj0703;product=hypothetical protein
+super	NC_002163.1	gene	661532	662395	.	+	.	locus_tag=Cj0704;product=glycyl-tRNA synthetase subunit alpha
+super	NC_002163.1	gene	662382	663107	.	+	.	locus_tag=Cj0705;product=hypothetical protein
+super	NC_002163.1	gene	663117	663833	.	+	.	locus_tag=Cj0706;product=hypothetical protein
+super	NC_002163.1	gene	663830	664987	.	+	.	locus_tag=Cj0707;product=3-deoxy-D-manno-octulosonic-acid transferase
+super	NC_002163.1	gene	664968	665720	.	+	.	locus_tag=Cj0708;product=putative ribosomal pseudouridine synthase
+super	NC_002163.1	gene	665788	667125	.	+	.	locus_tag=Cj0709;product=signal recognition particle protein
+super	NC_002163.1	gene	667190	667417	.	+	.	locus_tag=Cj0710;product=30S ribosomal protein S16
+super	NC_002163.1	gene	667420	667662	.	+	.	locus_tag=Cj0711;product=hypothetical protein
+super	NC_002163.1	gene	667655	668194	.	+	.	locus_tag=Cj0712;product=putative 16S rRNA processing protein
+super	NC_002163.1	gene	668191	668895	.	+	.	locus_tag=Cj0713;product=tRNA %28guanine-N%281%29-%29-methyltransferase
+super	NC_002163.1	gene	668906	669262	.	+	.	locus_tag=Cj0714;product=50S ribosomal protein L19
+super	NC_002163.1	gene	669395	669808	.	+	.	locus_tag=Cj0715;product=transthyretin-like periplasmic protein
+super	NC_002163.1	gene	669832	671172	.	+	.	locus_tag=Cj0716;product=putative phospho-2-dehydro-3-deoxyheptonate aldolase
+super	NC_002163.1	gene	671169	671498	.	+	.	locus_tag=Cj0717;product=putative ArsC family protein
+super	NC_002163.1	gene	671946	675548	.	+	.	locus_tag=Cj0718;product=DNA polymerase III subunit alpha
+super	NC_002163.1	gene	675560	676192	.	-	.	locus_tag=Cj0719c;product=hypothetical protein
+super	NC_002163.1	gene	676227	676976	.	-	.	locus_tag=Cj0720c;product=flagellin
+super	NC_002163.1	gene	677015	677485	.	-	.	locus_tag=Cj0721c;product=putative integral membrane protein
+super	NC_002163.1	gene	677498	678313	.	-	.	locus_tag=Cj0722c;product=putative DNA methylase
+super	NC_002163.1	gene	678310	679497	.	-	.	locus_tag=Cj0723c;product=putative integral membrane zinc-metalloprotease
+super	NC_002163.1	gene	679624	679809	.	+	.	locus_tag=Cj0724;product=hypothetical protein
+super	NC_002163.1	gene	679806	680348	.	-	.	locus_tag=Cj0725c;product=molybdenum cofactor biosynthesis protein MogA
+super	NC_002163.1	gene	680369	681352	.	-	.	locus_tag=Cj0726c;product=magnesium and cobalt transport protein
+super	NC_002163.1	gene	681469	682515	.	+	.	locus_tag=Cj0727;product=putative periplasmic solute-binding protein
+super	NC_002163.1	gene	682526	683851	.	+	.	locus_tag=Cj0728;product=putative periplasmic protein
+super	NC_002163.1	gene	683848	684657	.	+	.	locus_tag=Cj0729;product=putative type I phosphodiesterase%2Fnucleotide pyrophosphatase
+super	NC_002163.1	gene	684654	685493	.	+	.	locus_tag=Cj0730;product=putative ABC transporter permease
+super	NC_002163.1	gene	685494	686273	.	+	.	locus_tag=Cj0731;product=putative ABC transporter permease
+super	NC_002163.1	gene	686277	687266	.	+	.	locus_tag=Cj0732;product=ABC transporter ATP-binding protein
+super	NC_002163.1	gene	687263	687901	.	+	.	locus_tag=Cj0733;product=putative HAD-superfamily hydrolase
+super	NC_002163.1	gene	687925	688680	.	-	.	locus_tag=Cj0734c;product=histidine-binding protein precursor
+super	NC_002163.1	gene	689007	689726	.	+	.	locus_tag=Cj0735;product=putative periplasmic protein
+super	NC_002163.1	gene	689656	691584	.	+	.	locus_tag=Cj0736;product=hypothetical protein
+super	NC_002163.1	gene	691596	692672	.	+	.	locus_tag=Cj0737;product=putative hemagglutination activity domain-containing protein
+super	NC_002163.1	gene	692726	692890	.	+	.	locus_tag=Cj0738;product=hypothetical protein
+super	NC_002163.1	gene	692878	693051	.	+	.	locus_tag=Cj0739;product=hypothetical protein
+super	NC_002163.1	gene	693048	693212	.	+	.	locus_tag=Cj0740;product=hypothetical protein
+super	NC_002163.1	gene	693191	694117	.	+	.	locus_tag=Cj0741;product=hypothetical protein
+super	NC_002163.1	gene	694230	695922	.	+	.	locus_tag=Cj0742;product=pseudo
+super	NC_002163.1	gene	696424	697936	.	+	.	locus_tag=Cjr07;product=16S ribosomal RNA
+super	NC_002163.1	gene	698041	698116	.	+	.	locus_tag=Cjp14;product=tRNA-Ala
+super	NC_002163.1	gene	698125	698201	.	+	.	locus_tag=Cjp15;product=tRNA-Ile
+super	NC_002163.1	gene	698743	701654	.	+	.	locus_tag=Cjr08;product=23S ribosomal RNA
+super	NC_002163.1	gene	701939	702058	.	+	.	locus_tag=Cjr09;product=5S ribosomal RNA
+super	NC_002163.1	gene	702810	702917	.	+	.	locus_tag=Cj0747;product=hypothetical protein
+super	NC_002163.1	gene	703027	703119	.	+	.	locus_tag=Cj0748;product=hypothetical protein
+super	NC_002163.1	gene	703132	704369	.	+	.	locus_tag=Cj0752;product=pseudo
+super	NC_002163.1	gene	704442	705125	.	-	.	locus_tag=Cj0753c;product=TonB transport protein
+super	NC_002163.1	gene	705450	707540	.	+	.	locus_tag=Cj0755;product=ferric enterobactin uptake receptor
+super	NC_002163.1	gene	707840	708634	.	+	.	locus_tag=Cj0757;product=heat-inducible transcription repressor
+super	NC_002163.1	gene	708631	709161	.	+	.	locus_tag=Cj0758;product=heat shock protein GrpE
+super	NC_002163.1	gene	709183	711054	.	+	.	locus_tag=Cj0759;product=molecular chaperone DnaK
+super	NC_002163.1	gene	711314	712336	.	+	.	locus_tag=Cj0760;product=hypothetical protein
+super	NC_002163.1	gene	712406	712747	.	+	.	locus_tag=Cj0761;product=hypothetical protein
+super	NC_002163.1	gene	712797	713966	.	-	.	locus_tag=Cj0762c;product=aspartate aminotransferase
+super	NC_002163.1	gene	714138	714776	.	-	.	locus_tag=Cj0763c;product=serine acetyltransferase
+super	NC_002163.1	gene	714777	716612	.	-	.	locus_tag=Cj0764c;product=arginine decarboxylase
+super	NC_002163.1	gene	716609	717835	.	-	.	locus_tag=Cj0765c;product=histidyl-tRNA synthetase
+super	NC_002163.1	gene	717832	718410	.	-	.	locus_tag=Cj0766c;product=thymidylate kinase
+super	NC_002163.1	gene	718401	718877	.	-	.	locus_tag=Cj0767c;product=phosphopantetheine adenylyltransferase
+super	NC_002163.1	gene	718917	719480	.	-	.	locus_tag=Cj0768c;product=3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+super	NC_002163.1	gene	719477	720139	.	-	.	locus_tag=Cj0769c;product=flagellar basal body P-ring biosynthesis protein FlgA
+super	NC_002163.1	gene	720223	720999	.	-	.	locus_tag=Cj0770c;product=putative NLPA family lipoprotein
+super	NC_002163.1	gene	721009	721779	.	-	.	locus_tag=Cj0771c;product=putative NLPA family lipoprotein
+super	NC_002163.1	gene	721828	722601	.	-	.	locus_tag=Cj0772c;product=putative NLPA family lipoprotein
+super	NC_002163.1	gene	722791	723702	.	-	.	locus_tag=Cj0773c;product=putative binding-protein dependent transport system permease
+super	NC_002163.1	gene	723699	724709	.	-	.	locus_tag=Cj0774c;product=ABC transporter ATP-binding protein
+super	NC_002163.1	gene	724714	727326	.	-	.	locus_tag=Cj0775c;product=valyl-tRNA synthetase
+super	NC_002163.1	gene	727349	728371	.	-	.	locus_tag=Cj0776c;product=putative periplasmic protein
+super	NC_002163.1	gene	728500	730530	.	+	.	locus_tag=Cj0777;product=putative ATP-dependent DNA helicase
+super	NC_002163.1	gene	730569	731306	.	+	.	locus_tag=Cj0778;product=major antigenic peptide PEB2
+super	NC_002163.1	gene	731405	731932	.	+	.	locus_tag=Cj0779;product=thiol peroxidase
+super	NC_002163.1	gene	732179	734953	.	+	.	locus_tag=Cj0780;product=nitrate reductase catalytic subunit
+super	NC_002163.1	gene	734971	735711	.	+	.	locus_tag=Cj0781;product=quinol dehydrogenase periplasmic component
+super	NC_002163.1	gene	735708	736490	.	+	.	locus_tag=Cj0782;product=quinol dehydrogenase membrane component
+super	NC_002163.1	gene	736487	737011	.	+	.	locus_tag=Cj0783;product=periplasmic nitrate reductase small subunit
+super	NC_002163.1	gene	737016	737930	.	+	.	locus_tag=Cj0784;product=putative periplasmic protein
+super	NC_002163.1	gene	737923	738261	.	+	.	locus_tag=Cj0785;product=NapD protein
+super	NC_002163.1	gene	738274	738447	.	+	.	locus_tag=Cj0786;product=hypothetical protein
+super	NC_002163.1	gene	738526	738774	.	+	.	locus_tag=Cj0787;product=hypothetical protein
+super	NC_002163.1	gene	738771	739262	.	+	.	locus_tag=Cj0788;product=hypothetical protein
+super	NC_002163.1	gene	739231	740349	.	+	.	locus_tag=Cj0789;product=putative multifunctional Cca protein
+super	NC_002163.1	gene	740346	741170	.	+	.	locus_tag=Cj0790;product=formyltetrahydrofolate deformylase
+super	NC_002163.1	gene	741167	742441	.	-	.	locus_tag=Cj0791c;product=putative aminotransferase
+super	NC_002163.1	gene	742477	743355	.	+	.	locus_tag=Cj0792;product=hypothetical protein
+super	NC_002163.1	gene	743359	744378	.	+	.	locus_tag=Cj0793;product=signal transduction histidine kinase
+super	NC_002163.1	gene	744495	745775	.	+	.	locus_tag=Cj0794;product=hypothetical protein
+super	NC_002163.1	gene	745833	747260	.	-	.	locus_tag=Cj0795c;product=UDP-N-acetylmuramoyl-tripeptide D-alanyl-D-alanine ligase
+super	NC_002163.1	gene	747261	747980	.	-	.	locus_tag=Cj0796c;product=putative hydrolase
+super	NC_002163.1	gene	747982	748197	.	-	.	locus_tag=Cj0797c;product=hypothetical protein
+super	NC_002163.1	gene	748257	749297	.	-	.	locus_tag=Cj0798c;product=D-alanyl-alanine synthetase A
+super	NC_002163.1	gene	749307	749858	.	-	.	locus_tag=Cj0799c;product=Holliday junction DNA helicase RuvA
+super	NC_002163.1	gene	749834	751693	.	-	.	locus_tag=Cj0800c;product=putative ATPase
+super	NC_002163.1	gene	751797	753248	.	+	.	locus_tag=Cj0801;product=putative integral membrane protein
+super	NC_002163.1	gene	753248	754636	.	+	.	locus_tag=Cj0802;product=cysteinyl-tRNA synthetase
+super	NC_002163.1	gene	754629	756371	.	+	.	locus_tag=Cj0803;product=lipid export ABC transport protein
+super	NC_002163.1	gene	756403	757461	.	+	.	locus_tag=Cj0804;product=dihydroorotate dehydrogenase 2
+super	NC_002163.1	gene	757458	758708	.	+	.	locus_tag=Cj0805;product=putative zinc protease
+super	NC_002163.1	gene	758701	759597	.	+	.	locus_tag=Cj0806;product=dihydrodipicolinate synthase
+super	NC_002163.1	gene	759597	760376	.	+	.	locus_tag=Cj0807;product=7-alpha-hydroxysteroid dehydrogenase
+super	NC_002163.1	gene	760417	760722	.	-	.	locus_tag=Cj0808c;product=hypothetical protein
+super	NC_002163.1	gene	760734	761330	.	-	.	locus_tag=Cj0809c;product=putative hydrolase
+super	NC_002163.1	gene	761404	762144	.	+	.	locus_tag=Cj0810;product=NAD synthetase
+super	NC_002163.1	gene	762148	763074	.	+	.	locus_tag=Cj0811;product=tetraacyldisaccharide 4%27-kinase
+super	NC_002163.1	gene	763071	764483	.	+	.	locus_tag=Cj0812;product=threonine synthase
+super	NC_002163.1	gene	764480	765199	.	+	.	locus_tag=Cj0813;product=3-deoxy-manno-octulosonate cytidylyltransferase
+super	NC_002163.1	gene	765304	766059	.	+	.	locus_tag=Cj0814;product=hypothetical protein
+super	NC_002163.1	gene	766075	766419	.	+	.	locus_tag=Cj0815;product=hypothetical protein
+super	NC_002163.1	gene	766427	766597	.	+	.	locus_tag=Cj0816;product=hypothetical protein
+super	NC_002163.1	gene	766692	767462	.	+	.	locus_tag=Cj0817;product=putative glutamine binding periplasmic protein
+super	NC_002163.1	gene	767555	767782	.	+	.	locus_tag=Cj0818;product=putative lipoprotein
+super	NC_002163.1	gene	767808	768032	.	+	.	locus_tag=Cj0819;product=hypothetical protein
+super	NC_002163.1	gene	768029	768763	.	-	.	locus_tag=Cj0820c;product=flagellar biosynthesis protein FliP
+super	NC_002163.1	gene	768906	770195	.	+	.	locus_tag=Cj0821;product=bifunctional N-acetylglucosamine-1-phosphate uridyltransferase%2Fglucosamine-1-phosphate acetyltransferase
+super	NC_002163.1	gene	770192	771346	.	+	.	locus_tag=Cj0822;product=bifunctional phosphopantothenoylcysteine decarboxylase%2Fphosphopantothenate synthase
+super	NC_002163.1	gene	771343	771960	.	+	.	locus_tag=Cj0823;product=hypothetical protein
+super	NC_002163.1	gene	771964	772632	.	+	.	locus_tag=Cj0824;product=undecaprenyl diphosphate synthase
+super	NC_002163.1	gene	772629	773405	.	+	.	locus_tag=Cj0825;product=putative processing peptidase
+super	NC_002163.1	gene	773405	774430	.	+	.	locus_tag=Cj0826;product=putative integral membrane protein
+super	NC_002163.1	gene	774427	775152	.	+	.	locus_tag=Cj0827;product=tRNA pseudouridine synthase A
+super	NC_002163.1	gene	775149	776360	.	-	.	locus_tag=Cj0828c;product=threonine dehydratase
+super	NC_002163.1	gene	776360	776773	.	-	.	locus_tag=Cj0829c;product=putative CoA binding domain containing protein
+super	NC_002163.1	gene	776892	777308	.	+	.	locus_tag=Cj0830;product=putative integral membrane protein
+super	NC_002163.1	gene	777295	778368	.	-	.	locus_tag=Cj0831c;product=tRNA %28uracil-5-%29-methyltransferase
+super	NC_002163.1	gene	778365	780098	.	-	.	locus_tag=Cj0832c;product=putative Na%2B%2FH%2B antiporter family protein
+super	NC_002163.1	gene	780095	780844	.	-	.	locus_tag=Cj0833c;product=putative oxidoreductase
+super	NC_002163.1	gene	780841	782079	.	-	.	locus_tag=Cj0834c;product=ankyrin repeat-containing putative periplasmic protein
+super	NC_002163.1	gene	782129	784675	.	-	.	locus_tag=Cj0835c;product=bifunctional aconitate hydratase 2%2F2-methylisocitrate dehydratase
+super	NC_002163.1	gene	784730	785182	.	+	.	locus_tag=Cj0836;product=methylated-DNA--protein-cysteine methyltransferase
+super	NC_002163.1	gene	785174	786115	.	-	.	locus_tag=Cj0837c;product=hypothetical protein
+super	NC_002163.1	gene	786119	788005	.	-	.	locus_tag=Cj0838c;product=methionyl-tRNA synthetase
+super	NC_002163.1	gene	788015	788212	.	-	.	locus_tag=Cj0839c;product=hypothetical protein
+super	NC_002163.1	gene	788205	789047	.	-	.	locus_tag=Cj0840c;product=fructose-1%2C6-bisphosphatase
+super	NC_002163.1	gene	789049	789540	.	-	.	locus_tag=Cj0841c;product=putative molybdopterin-guanine dinucleotide biosynthesis protein
+super	NC_002163.1	gene	789636	790121	.	+	.	locus_tag=Cj0842;product=putative lipoprotein
+super	NC_002163.1	gene	790018	791643	.	-	.	locus_tag=Cj0843c;product=putative secreted transglycosylase
+super	NC_002163.1	gene	791640	791921	.	-	.	locus_tag=Cj0844c;product=putative integral membrane protein
+super	NC_002163.1	gene	791924	793219	.	-	.	locus_tag=Cj0845c;product=glutamylglutaminyl-tRNA synthetase
+super	NC_002163.1	gene	793305	794429	.	+	.	locus_tag=Cj0846;product=putative metallophosphoesterase
+super	NC_002163.1	gene	794426	795226	.	+	.	locus_tag=Cj0847;product=phosphatidylserine decarboxylase
+super	NC_002163.1	gene	795223	795504	.	-	.	locus_tag=Cj0848c;product=hypothetical protein
+super	NC_002163.1	gene	795501	797660	.	-	.	locus_tag=Cj0849c;product=hypothetical protein
+super	NC_002163.1	gene	797653	798840	.	-	.	locus_tag=Cj0850c;product=putative MFS transport protein
+super	NC_002163.1	gene	798818	799321	.	-	.	locus_tag=Cj0851c;product=putative integral membrane protein
+super	NC_002163.1	gene	799321	799650	.	-	.	locus_tag=Cj0852c;product=putative integral membrane protein
+super	NC_002163.1	gene	799647	800921	.	-	.	locus_tag=Cj0853c;product=glutamate-1-semialdehyde aminotransferase
+super	NC_002163.1	gene	800918	801265	.	-	.	locus_tag=Cj0854c;product=putative periplasmic protein
+super	NC_002163.1	gene	801345	802193	.	+	.	locus_tag=Cj0855;product=bifunctional 5%2C10-methylene-tetrahydrofolate dehydrogenase%2F 5%2C10-methylene-tetrahydrofolate cyclohydrolase
+super	NC_002163.1	gene	802203	803051	.	+	.	locus_tag=Cj0856;product=signal peptidase I
+super	NC_002163.1	gene	803073	804233	.	-	.	locus_tag=Cj0857c;product=putative molybdopterin biosynthesis protein
+super	NC_002163.1	gene	804230	805486	.	-	.	locus_tag=Cj0858c;product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+super	NC_002163.1	gene	805552	805980	.	-	.	locus_tag=Cj0859c;product=hypothetical protein
+super	NC_002163.1	gene	806075	806947	.	+	.	locus_tag=Cj0860;product=putative integral membrane protein
+super	NC_002163.1	gene	806934	807500	.	-	.	locus_tag=Cj0861c;product=para-aminobenzoate synthase glutamine amidotransferase component II
+super	NC_002163.1	gene	807497	809281	.	-	.	locus_tag=Cj0862c;product=para-aminobenzoate synthase component I
+super	NC_002163.1	gene	809271	810335	.	-	.	locus_tag=Cj0863c;product=DNA recombinase
+super	NC_002163.1	gene	810963	811322	.	+	.	locus_tag=Cj0864;product=putative periplasmic protein
+super	NC_002163.1	gene	811319	812119	.	+	.	locus_tag=Cj0865;product=putative disulfide oxidoreductase
+super	NC_002163.1	gene	812155	813591	.	+	.	locus_tag=Cj0866;product=pseudo
+super	NC_002163.1	gene	813675	814316	.	+	.	locus_tag=Cj0872;product=putative protein disulphide isomerase
+super	NC_002163.1	gene	814351	814563	.	-	.	locus_tag=Cj0873c;product=hypothetical protein
+super	NC_002163.1	gene	814539	815099	.	-	.	locus_tag=Cj0874c;product=putative cytochrome C
+super	NC_002163.1	gene	815050	815337	.	-	.	locus_tag=Cj0876c;product=putative periplasmic protein
+super	NC_002163.1	gene	815432	815524	.	-	.	locus_tag=Cj0877c;product=hypothetical protein
+super	NC_002163.1	gene	815545	815691	.	+	.	locus_tag=Cj0878;product=hypothetical protein
+super	NC_002163.1	gene	815669	816301	.	-	.	locus_tag=Cj0879c;product=putative periplasmic protein
+super	NC_002163.1	gene	816298	816540	.	-	.	locus_tag=Cj0880c;product=hypothetical protein
+super	NC_002163.1	gene	816524	817570	.	-	.	locus_tag=Cj0881c;product=hypothetical protein
+super	NC_002163.1	gene	817579	819753	.	-	.	locus_tag=Cj0882c;product=flagellar biosynthesis protein FlhA
+super	NC_002163.1	gene	819740	820150	.	-	.	locus_tag=Cj0883c;product=putative transcriptional regulator
+super	NC_002163.1	gene	820325	820597	.	+	.	locus_tag=Cj0884;product=30S ribosomal protein S15
+super	NC_002163.1	gene	820683	823523	.	-	.	locus_tag=Cj0886c;product=putative cell division protein
+super	NC_002163.1	gene	823633	825885	.	-	.	locus_tag=Cj0887c;product=lagellar hook-associated protein FlgL
+super	NC_002163.1	gene	826066	826152	.	+	.	locus_tag=Cjp16;product=tRNA-Leu
+super	NC_002163.1	gene	826163	826237	.	+	.	locus_tag=Cjp17;product=tRNA-Gly
+super	NC_002163.1	gene	826268	828199	.	-	.	locus_tag=Cj0888c;product=ABC transporter ATP-binding protein
+super	NC_002163.1	gene	828203	829492	.	-	.	locus_tag=Cj0889c;product=putative sensory trasnduction histidine kinase
+super	NC_002163.1	gene	829486	830148	.	-	.	locus_tag=Cj0890c;product=putative sensory transduction transcriptional regulator
+super	NC_002163.1	gene	830135	831718	.	-	.	locus_tag=Cj0891c;product=D-3-phosphoglycerate dehydrogenase
+super	NC_002163.1	gene	831715	832203	.	-	.	locus_tag=Cj0892c;product=putative periplasmic protein
+super	NC_002163.1	gene	832203	833873	.	-	.	locus_tag=Cj0893c;product=30S ribosomal protein S1
+super	NC_002163.1	gene	834005	834838	.	-	.	locus_tag=Cj0894c;product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+super	NC_002163.1	gene	834828	836114	.	-	.	locus_tag=Cj0895c;product=3-phosphoshikimate 1-carboxyvinyltransferase
+super	NC_002163.1	gene	836111	838432	.	-	.	locus_tag=Cj0896c;product=phenylalanyl-tRNA synthetase subunit beta
+super	NC_002163.1	gene	838429	839421	.	-	.	locus_tag=Cj0897c;product=phenylalanyl-tRNA synthetase subunit alpha
+super	NC_002163.1	gene	839544	839909	.	+	.	locus_tag=Cj0898;product=putative histidine triad %28HIT%29 family protein
+super	NC_002163.1	gene	839939	840508	.	-	.	locus_tag=Cj0899c;product=4-methyl-5%28beta-hydroxyethyl%29-thiazole monophosphate synthesis protein
+super	NC_002163.1	gene	840501	840680	.	-	.	locus_tag=Cj0900c;product=hypothetical protein
+super	NC_002163.1	gene	840763	841506	.	+	.	locus_tag=Cj0901;product=putative amino acid ABC tansporter permease
+super	NC_002163.1	gene	841499	842227	.	+	.	locus_tag=Cj0902;product=putative glutamine transport ATP-binding protein
+super	NC_002163.1	gene	842255	843721	.	-	.	locus_tag=Cj0903c;product=putative amino-acid transport protein
+super	NC_002163.1	gene	843825	844292	.	-	.	locus_tag=Cj0904c;product=putative RNA methylase
+super	NC_002163.1	gene	844295	845281	.	-	.	locus_tag=Cj0905c;product=alanine racemase
+super	NC_002163.1	gene	845282	846259	.	-	.	locus_tag=Cj0906c;product=putative periplasmic protein
+super	NC_002163.1	gene	846415	846885	.	+	.	locus_tag=Cj0908;product=putative periplasmic protein
+super	NC_002163.1	gene	846971	847390	.	+	.	locus_tag=Cj0909;product=putative periplasmic protein
+super	NC_002163.1	gene	847394	847846	.	+	.	locus_tag=Cj0910;product=putative periplasmic protein
+super	NC_002163.1	gene	847843	848403	.	+	.	locus_tag=Cj0911;product=putative periplasmic protein
+super	NC_002163.1	gene	848410	849309	.	-	.	locus_tag=Cj0912c;product=cysteine synthase
+super	NC_002163.1	gene	849436	849732	.	-	.	locus_tag=Cj0913c;product=DNA-binding protein HU
+super	NC_002163.1	gene	849834	851666	.	-	.	locus_tag=Cj0914c;product=CiaB protein
+super	NC_002163.1	gene	851728	852141	.	+	.	locus_tag=Cj0915;product=putative hydrolase
+super	NC_002163.1	gene	852181	852378	.	-	.	locus_tag=Cj0916c;product=hypothetical protein
+super	NC_002163.1	gene	852359	854470	.	-	.	locus_tag=Cj0917c;product=putative integral membrane protein
+super	NC_002163.1	gene	854637	855566	.	-	.	locus_tag=Cj0918c;product=ribose-phosphate pyrophosphokinase
+super	NC_002163.1	gene	855674	856333	.	-	.	locus_tag=Cj0919c;product=putative ABC-type amino-acid transporter permease
+super	NC_002163.1	gene	856344	857096	.	-	.	locus_tag=Cj0920c;product=putative ABC-type amino-acid transporter permease
+super	NC_002163.1	gene	857098	857877	.	-	.	locus_tag=Cj0921c;product=bifunctional adhesin%2FABC transporter aspartate%2Fglutamate-binding protein
+super	NC_002163.1	gene	857899	858627	.	-	.	locus_tag=Cj0922c;product=amino-acid ABC transporter ATP-binding protein
+super	NC_002163.1	gene	858763	859551	.	-	.	locus_tag=Cj0923c;product=putative MCP protein methyltransferase
+super	NC_002163.1	gene	859567	860121	.	-	.	locus_tag=Cj0924c;product=putative MCP protein-glutamate methylesterase
+super	NC_002163.1	gene	860287	860724	.	+	.	locus_tag=Cj0925;product=ribose 5-phosphate isomerase
+super	NC_002163.1	gene	860724	861056	.	+	.	locus_tag=Cj0926;product=hypothetical protein
+super	NC_002163.1	gene	861053	861601	.	+	.	locus_tag=Cj0927;product=adenine phosphoribosyltransferase
+super	NC_002163.1	gene	861620	862216	.	+	.	locus_tag=Cj0928;product=putative integral membrane protein
+super	NC_002163.1	gene	862213	863664	.	+	.	locus_tag=Cj0929;product=leucyl aminopeptidase
+super	NC_002163.1	gene	863661	864764	.	+	.	locus_tag=Cj0930;product=GTP-dependent nucleic acid-binding protein EngD
+super	NC_002163.1	gene	864786	866168	.	-	.	locus_tag=Cj0931c;product=argininosuccinate lyase
+super	NC_002163.1	gene	866178	867752	.	-	.	locus_tag=Cj0932c;product=phosphoenolpyruvate carboxykinase
+super	NC_002163.1	gene	867765	869564	.	-	.	locus_tag=Cj0933c;product=putative pyruvate carboxylase B subunit
+super	NC_002163.1	gene	869596	870936	.	-	.	locus_tag=Cj0934c;product=putative sodium:amino-acid symporter family protein
+super	NC_002163.1	gene	870949	872283	.	-	.	locus_tag=Cj0935c;product=putative sodium:amino-acid symporter family protein
+super	NC_002163.1	gene	872516	872854	.	+	.	locus_tag=Cj0936;product=F0F1 ATP synthase subunit C
+super	NC_002163.1	gene	872889	872974	.	+	.	locus_tag=Cjt01;product=tRNA-Leu
+super	NC_002163.1	gene	873171	874082	.	+	.	locus_tag=Cj0937;product=putative integral membrane protein
+super	NC_002163.1	gene	874090	877602	.	-	.	locus_tag=Cj0938c;product=2-acyl-glycerophospho-ethanolamine acyltransferase
+super	NC_002163.1	gene	877647	878027	.	-	.	locus_tag=Cj0939c;product=hypothetical protein
+super	NC_002163.1	gene	878095	878171	.	-	.	locus_tag=Cjt02;product=tRNA-Asp
+super	NC_002163.1	gene	878223	878298	.	-	.	locus_tag=Cjp19;product=tRNA-Val
+super	NC_002163.1	gene	878400	878475	.	-	.	locus_tag=Cjp20;product=tRNA-Lys
+super	NC_002163.1	gene	878480	878556	.	-	.	locus_tag=Cjt2;product=tRNA-Asp
+super	NC_002163.1	gene	878608	878683	.	-	.	locus_tag=Cjt03;product=tRNA-Val
+super	NC_002163.1	gene	878691	878766	.	-	.	locus_tag=Cjt04;product=tRNA-Lys
+super	NC_002163.1	gene	878828	879613	.	-	.	locus_tag=Cj0940c;product=putative glutamine transport system permease
+super	NC_002163.1	gene	879636	880841	.	-	.	locus_tag=Cj0941c;product=putative permease
+super	NC_002163.1	gene	880838	883426	.	-	.	locus_tag=Cj0942c;product=preprotein translocase subunit SecA
+super	NC_002163.1	gene	883526	884035	.	+	.	locus_tag=Cj0943;product=outer-membrane lipoprotein carrier protein
+super	NC_002163.1	gene	884032	884766	.	-	.	locus_tag=Cj0944c;product=putative periplasmic protein
+super	NC_002163.1	gene	884776	886119	.	-	.	locus_tag=Cj0945c;product=putative helicase
+super	NC_002163.1	gene	886168	887514	.	+	.	locus_tag=Cj0946;product=putative lipoprotein
+super	NC_002163.1	gene	887526	888398	.	-	.	locus_tag=Cj0947c;product=putative carbon-nitrogen hydrolase
+super	NC_002163.1	gene	888395	889282	.	-	.	locus_tag=Cj0948c;product=putative cation efflux family protein
+super	NC_002163.1	gene	889279	890256	.	-	.	locus_tag=Cj0949c;product=putative peptidyl-arginine deiminase family protein
+super	NC_002163.1	gene	890355	890789	.	-	.	locus_tag=Cj0950c;product=putative lipoprotein
+super	NC_002163.1	gene	890799	891473	.	-	.	locus_tag=Cj0951c;product=putative MCP-domain signal transduction protein
+super	NC_002163.1	gene	891663	892382	.	-	.	locus_tag=Cj0952c;product=putative HAMP containing membrane protein
+super	NC_002163.1	gene	892478	894010	.	-	.	locus_tag=Cj0953c;product=bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase%2FIMP cyclohydrolase
+super	NC_002163.1	gene	894013	894783	.	-	.	locus_tag=Cj0954c;product=putative DnaJ-like protein
+super	NC_002163.1	gene	894780	896966	.	-	.	locus_tag=Cj0955c;product=phosphoribosylformylglycinamidine synthase II
+super	NC_002163.1	gene	896977	898305	.	-	.	locus_tag=Cj0956c;product=tRNA modification GTPase TrmE
+super	NC_002163.1	gene	898298	899116	.	-	.	locus_tag=Cj0957c;product=hypothetical protein
+super	NC_002163.1	gene	899120	900706	.	-	.	locus_tag=Cj0958c;product=putative inner membrane protein translocase component YidC
+super	NC_002163.1	gene	900703	901044	.	-	.	locus_tag=Cj0959c;product=hypothetical protein
+super	NC_002163.1	gene	901041	901367	.	-	.	locus_tag=Cj0960c;product=ribonuclease P protein component
+super	NC_002163.1	gene	901364	901498	.	-	.	locus_tag=Cj0961c;product=50S ribosomal protein L34
+super	NC_002163.1	gene	901629	902108	.	+	.	locus_tag=Cj0962;product=putative acetyltransferase
+super	NC_002163.1	gene	902105	902713	.	+	.	locus_tag=Cj0963;product=hypothetical protein
+super	NC_002163.1	gene	902710	903900	.	+	.	locus_tag=Cj0964;product=putative periplasmic protein
+super	NC_002163.1	gene	903892	904266	.	-	.	locus_tag=Cj0965c;product=putative acyl-CoA thioester hydrolase
+super	NC_002163.1	gene	904409	906697	.	+	.	locus_tag=Cj0967;product=putative periplasmic protein
+super	NC_002163.1	gene	907117	907396	.	+	.	locus_tag=Cj0969;product=pseudo
+super	NC_002163.1	gene	907408	907710	.	+	.	locus_tag=Cj0970;product=hypothetical protein
+super	NC_002163.1	gene	907713	908105	.	+	.	locus_tag=Cj0971;product=hypothetical protein
+super	NC_002163.1	gene	908107	908430	.	+	.	locus_tag=Cj0972;product=hypothetical protein
+super	NC_002163.1	gene	908554	908664	.	+	.	locus_tag=Cj0973;product=hypothetical protein
+super	NC_002163.1	gene	908693	908833	.	+	.	locus_tag=Cj0974;product=hypothetical protein
+super	NC_002163.1	gene	908891	910615	.	+	.	locus_tag=Cj0975;product=putative outer-membrane protein
+super	NC_002163.1	gene	910711	911601	.	+	.	locus_tag=Cj0976;product=putative methyltransferase
+super	NC_002163.1	gene	911674	912252	.	+	.	locus_tag=Cj0977;product=hypothetical protein
+super	NC_002163.1	gene	912253	912426	.	-	.	locus_tag=Cj0978c;product=putative lipoprotein
+super	NC_002163.1	gene	912435	912962	.	-	.	locus_tag=Cj0979c;product=putative secreted nuclease
+super	NC_002163.1	gene	913030	914298	.	+	.	locus_tag=Cj0980;product=putative peptidase
+super	NC_002163.1	gene	914281	915528	.	-	.	locus_tag=Cj0981c;product=putative MFS transport protein
+super	NC_002163.1	gene	915568	916407	.	-	.	locus_tag=Cj0982c;product=putative amino-acid transporter periplasmic solute-binding protein
+super	NC_002163.1	gene	916626	917744	.	+	.	locus_tag=Cj0983;product=putative lipoprotein
+super	NC_002163.1	gene	917836	918576	.	+	.	locus_tag=Cj0984;product=hypothetical protein
+super	NC_002163.1	gene	918580	919731	.	-	.	locus_tag=Cj0985c;product=hippurate hydrolase
+super	NC_002163.1	gene	919733	919921	.	-	.	locus_tag=Cj0986c;product=putative integral membrane protein
+super	NC_002163.1	gene	919988	920953	.	-	.	locus_tag=Cj0987c;product=putative MFS transport protein
+super	NC_002163.1	gene	920967	921203	.	-	.	locus_tag=Cj0988c;product=hypothetical protein
+super	NC_002163.1	gene	921188	921394	.	+	.	locus_tag=Cj0989;product=hypothetical protein
+super	NC_002163.1	gene	921397	922158	.	-	.	locus_tag=Cj0990c;product=hypothetical protein
+super	NC_002163.1	gene	922155	923420	.	-	.	locus_tag=Cj0991c;product=putative oxidoreductase ferredoxin-type electron transport protein
+super	NC_002163.1	gene	923422	924777	.	-	.	locus_tag=Cj0992c;product=coproporphyrinogen III oxidase
+super	NC_002163.1	gene	924764	925255	.	-	.	locus_tag=Cj0993c;product=hypothetical protein
+super	NC_002163.1	gene	925252	926172	.	-	.	locus_tag=Cj0994c;product=ornithine carbamoyltransferase
+super	NC_002163.1	gene	926169	927152	.	-	.	locus_tag=Cj0995c;product=delta-aminolevulinic acid dehydratase
+super	NC_002163.1	gene	927210	927770	.	+	.	locus_tag=Cj0996;product=GTP cyclohydrolase II
+super	NC_002163.1	gene	927771	928337	.	+	.	locus_tag=Cj0997;product=putative methyltransferase
+super	NC_002163.1	gene	928353	928925	.	-	.	locus_tag=Cj0998c;product=putative periplasmic protein
+super	NC_002163.1	gene	929020	930117	.	-	.	locus_tag=Cj0999c;product=putative integral membrane protein
+super	NC_002163.1	gene	930230	931111	.	+	.	locus_tag=Cj1000;product=putative transcriptional regulator
+super	NC_002163.1	gene	931191	933059	.	+	.	locus_tag=Cj1001;product=RNA polymerase sigma factor RpoD
+super	NC_002163.1	gene	933075	933587	.	-	.	locus_tag=Cj1002c;product=putative phosphoglycerate%2Fbisphosphoglycerate mutase
+super	NC_002163.1	gene	933584	934102	.	-	.	locus_tag=Cj1003c;product=putative integral membrane protein
+super	NC_002163.1	gene	934201	934617	.	+	.	locus_tag=Cj1004;product=putative periplasmic protein
+super	NC_002163.1	gene	934626	936242	.	-	.	locus_tag=Cj1005c;product=putative membrane bound ATPase
+super	NC_002163.1	gene	936246	937496	.	-	.	locus_tag=Cj1006c;product=putative MiaB-like tRNA modifying enzyme
+super	NC_002163.1	gene	937493	939064	.	-	.	locus_tag=Cj1007c;product=putative mechanosensitive ion channel family protein
+super	NC_002163.1	gene	939061	940116	.	-	.	locus_tag=Cj1008c;product=3-dehydroquinate synthase
+super	NC_002163.1	gene	940162	941562	.	-	.	locus_tag=Cj1009c;product=hypothetical protein
+super	NC_002163.1	gene	941592	942713	.	+	.	locus_tag=Cj1010;product=queuine tRNA-ribosyltransferase
+super	NC_002163.1	gene	942715	943482	.	+	.	locus_tag=Cj1011;product=putative CorA-like Mg2%2B transporter protein
+super	NC_002163.1	gene	943535	943611	.	+	.	locus_tag=Cjp21;product=tRNA-Arg
+super	NC_002163.1	gene	943614	944063	.	-	.	locus_tag=Cj1012c;product=hypothetical protein
+super	NC_002163.1	gene	944080	947325	.	-	.	locus_tag=Cj1013c;product=putative cytochrome C biogenesis protein
+super	NC_002163.1	gene	947343	948038	.	-	.	locus_tag=Cj1014c;product=branched-chain amino-acid ABC transporter ATP-binding protein
+super	NC_002163.1	gene	948025	948795	.	-	.	locus_tag=Cj1015c;product=branched-chain amino-acid ABC transporter ATP-binding protein
+super	NC_002163.1	gene	948792	949844	.	-	.	locus_tag=Cj1016c;product=branched-chain amino-acid ABC transporter permease
+super	NC_002163.1	gene	949844	950740	.	-	.	locus_tag=Cj1017c;product=branched-chain amino-acid ABC transporter permease
+super	NC_002163.1	gene	950759	951868	.	-	.	locus_tag=Cj1018c;product=branched-chain amino-acid ABC transporter periplasmic binding protein
+super	NC_002163.1	gene	951890	953005	.	-	.	locus_tag=Cj1019c;product=branched-chain amino-acid ABC transporter periplasmic binding protein
+super	NC_002163.1	gene	953036	953470	.	-	.	locus_tag=Cj1020c;product=putative cytochrome C
+super	NC_002163.1	gene	953479	953670	.	-	.	locus_tag=Cj1021c;product=putative periplasmic protein
+super	NC_002163.1	gene	953723	954229	.	-	.	locus_tag=Cj1022c;product=putative integral membrane protein
+super	NC_002163.1	gene	954238	955269	.	-	.	locus_tag=Cj1023c;product=aspartate-semialdehyde dehydrogenase
+super	NC_002163.1	gene	955269	956570	.	-	.	locus_tag=Cj1024c;product=sigma-54 associated transcriptional activator
+super	NC_002163.1	gene	956627	957076	.	-	.	locus_tag=Cj1025c;product=hypothetical protein
+super	NC_002163.1	gene	957052	957567	.	-	.	locus_tag=Cj1026c;product=putative lipoprotein
+super	NC_002163.1	gene	957631	960222	.	-	.	locus_tag=Cj1027c;product=DNA gyrase subunit A
+super	NC_002163.1	gene	960263	960838	.	-	.	locus_tag=Cj1028c;product=putative purine%2Fpyrimidine phosphoribosyltransferase
+super	NC_002163.1	gene	960835	961479	.	-	.	locus_tag=Cj1029c;product=putative liproprotein
+super	NC_002163.1	gene	961556	963352	.	-	.	locus_tag=Cj1030c;product=GTP-binding protein LepA
+super	NC_002163.1	gene	963479	964753	.	+	.	locus_tag=Cj1031;product=multidrug efflux system outer membrane protein
+super	NC_002163.1	gene	964750	965490	.	+	.	locus_tag=Cj1032;product=mutlidrug efflux system membrane fusion protein
+super	NC_002163.1	gene	965493	968510	.	+	.	locus_tag=Cj1033;product=multidrug efflux system membrane protein
+super	NC_002163.1	gene	968534	969340	.	-	.	locus_tag=Cj1034c;product=adenylosuccinate lyase
+super	NC_002163.1	gene	969341	970060	.	-	.	locus_tag=Cj1035c;product=arginyl-tRNA-protein transferase
+super	NC_002163.1	gene	970060	970311	.	-	.	locus_tag=Cj1036c;product=hypothetical protein
+super	NC_002163.1	gene	970315	971760	.	-	.	locus_tag=Cj1037c;product=acetyl-CoA carboxylase subunit A
+super	NC_002163.1	gene	971900	973063	.	+	.	locus_tag=Cj1038;product=putative cell division%2Fpeptidoglycan biosynthesis protein
+super	NC_002163.1	gene	973060	974088	.	+	.	locus_tag=Cj1039;product=undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+super	NC_002163.1	gene	974059	975222	.	-	.	locus_tag=Cj1040c;product=putative MFS transport protein
+super	NC_002163.1	gene	975230	976081	.	-	.	locus_tag=Cj1041c;product=putative periplasmic ATP%2FGTP-binding protein
+super	NC_002163.1	gene	976144	977034	.	-	.	locus_tag=Cj1042c;product=putative transcriptional regulatory protein
+super	NC_002163.1	gene	977031	977636	.	-	.	locus_tag=Cj1043c;product=putative thiamine-phosphate pyrophosphorylase
+super	NC_002163.1	gene	977626	978771	.	-	.	locus_tag=Cj1044c;product=thiamine biosynthesis protein ThiH
+super	NC_002163.1	gene	978774	979550	.	-	.	locus_tag=Cj1045c;product=thiazole synthase
+super	NC_002163.1	gene	979553	980356	.	-	.	locus_tag=Cj1046c;product=thiamine biosynthesis protein ThiF
+super	NC_002163.1	gene	980353	980544	.	-	.	locus_tag=Cj1047c;product=putative thiamine biosynthesis protein
+super	NC_002163.1	gene	980554	981651	.	-	.	locus_tag=Cj1048c;product=succinyl-diaminopimelate desuccinylase
+super	NC_002163.1	gene	981655	982254	.	-	.	locus_tag=Cj1049c;product=putative LysE family transporter protein
+super	NC_002163.1	gene	982247	982948	.	-	.	locus_tag=Cj1050c;product=NAD-dependent deacetylase
+super	NC_002163.1	gene	982991	987010	.	-	.	locus_tag=Cj1051c;product=restriction modification enzyme
+super	NC_002163.1	gene	987019	989229	.	-	.	locus_tag=Cj1052c;product=recombination and DNA strand exchange inhibitor protein
+super	NC_002163.1	gene	989219	989569	.	-	.	locus_tag=Cj1053c;product=putative integral membrane protein
+super	NC_002163.1	gene	989562	990860	.	-	.	locus_tag=Cj1054c;product=UDP-N-acetylmuramate--L-alanine ligase
+super	NC_002163.1	gene	990924	992897	.	-	.	locus_tag=Cj1055c;product=putative sulfatase family protein
+super	NC_002163.1	gene	992909	993685	.	-	.	locus_tag=Cj1056c;product=putative carbon-nitrogen hydrolase family protein
+super	NC_002163.1	gene	993678	993851	.	-	.	locus_tag=Cj1057c;product=putative coiled-coil protein
+super	NC_002163.1	gene	993848	995305	.	-	.	locus_tag=Cj1058c;product=inosine 5%27-monophosphate dehydrogenase
+super	NC_002163.1	gene	995315	996676	.	-	.	locus_tag=Cj1059c;product=aspartyl%2Fglutamyl-tRNA amidotransferase subunit A
+super	NC_002163.1	gene	996673	996783	.	-	.	locus_tag=Cj1060c;product=hypothetical protein
+super	NC_002163.1	gene	996777	999530	.	-	.	locus_tag=Cj1061c;product=isoleucyl-tRNA synthetase
+super	NC_002163.1	gene	999629	1000717	.	+	.	locus_tag=Cj1062;product=putative CinA-like protein
+super	NC_002163.1	gene	1000729	1001154	.	+	.	locus_tag=Cj1063;product=putative acetyltransferase
+super	NC_002163.1	gene	1001218	1001837	.	+	.	locus_tag=Cj1064;product=pseudo
+super	NC_002163.1	gene	1001837	1002442	.	+	.	locus_tag=Cj1066;product=nitroreductase
+super	NC_002163.1	gene	1002567	1003103	.	+	.	locus_tag=Cj1067;product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+super	NC_002163.1	gene	1003100	1004206	.	+	.	locus_tag=Cj1068;product=putative peptidase M50 family protein
+super	NC_002163.1	gene	1004199	1005065	.	+	.	locus_tag=Cj1069;product=hypothetical protein
+super	NC_002163.1	gene	1005152	1005529	.	+	.	locus_tag=Cj1070;product=30S ribosomal protein S6
+super	NC_002163.1	gene	1005538	1006089	.	+	.	locus_tag=Cj1071;product=single-stranded DNA-binding protein
+super	NC_002163.1	gene	1006100	1006360	.	+	.	locus_tag=Cj1072;product=30S ribosomal protein S18
+super	NC_002163.1	gene	1006421	1008796	.	-	.	locus_tag=Cj1073c;product=ATP-dependent protease La
+super	NC_002163.1	gene	1008813	1009460	.	-	.	locus_tag=Cj1074c;product=putative lipoprotein
+super	NC_002163.1	gene	1009621	1010010	.	+	.	locus_tag=Cj1075;product=flagellar assembly protein FliW
+super	NC_002163.1	gene	1010010	1010741	.	+	.	locus_tag=Cj1076;product=pyrroline-5-carboxylate reductase
+super	NC_002163.1	gene	1010738	1011040	.	+	.	locus_tag=Cj1077;product=putative periplasmic protein
+super	NC_002163.1	gene	1011037	1011699	.	+	.	locus_tag=Cj1078;product=putative periplasmic protein
+super	NC_002163.1	gene	1011696	1012148	.	+	.	locus_tag=Cj1079;product=putative periplasmic protein
+super	NC_002163.1	gene	1012145	1012774	.	-	.	locus_tag=Cj1080c;product=uroporphyrinogen-III synthase
+super	NC_002163.1	gene	1012752	1013384	.	-	.	locus_tag=Cj1081c;product=thiamin-phosphate pyrophosphorylase
+super	NC_002163.1	gene	1013374	1014186	.	-	.	locus_tag=Cj1082c;product=phosphomethylpyrimidine kinase
+super	NC_002163.1	gene	1014183	1014869	.	-	.	locus_tag=Cj1083c;product=putative nuclease
+super	NC_002163.1	gene	1014866	1015627	.	-	.	locus_tag=Cj1084c;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	1015629	1018565	.	-	.	locus_tag=Cj1085c;product=transcription-repair coupling factor
+super	NC_002163.1	gene	1018565	1018960	.	-	.	locus_tag=Cj1086c;product=hypothetical protein
+super	NC_002163.1	gene	1018897	1019799	.	-	.	locus_tag=Cj1087c;product=putative peptidase
+super	NC_002163.1	gene	1019786	1020970	.	-	.	locus_tag=Cj1088c;product=folylpolyglutamate synthase%2Fdihydrofolate synthase
+super	NC_002163.1	gene	1020936	1022333	.	-	.	locus_tag=Cj1089c;product=hypothetical protein
+super	NC_002163.1	gene	1022317	1022829	.	-	.	locus_tag=Cj1090c;product=putative lipoprotein
+super	NC_002163.1	gene	1022826	1025255	.	-	.	locus_tag=Cj1091c;product=leucyl-tRNA synthetase
+super	NC_002163.1	gene	1025265	1026236	.	-	.	locus_tag=Cj1092c;product=preprotein translocase subunit SecF
+super	NC_002163.1	gene	1026236	1027816	.	-	.	locus_tag=Cj1093c;product=preprotein translocase subunit SecD
+super	NC_002163.1	gene	1027809	1028081	.	-	.	locus_tag=Cj1094c;product=preprotein translocase subunit YajC
+super	NC_002163.1	gene	1028054	1029379	.	+	.	locus_tag=Cj1095;product=apolipoprotein N-acyltransferase
+super	NC_002163.1	gene	1029616	1030812	.	-	.	locus_tag=Cj1096c;product=S-adenosylmethionine synthetase
+super	NC_002163.1	gene	1030953	1032176	.	+	.	locus_tag=Cj1097;product=serine%2Fthreonine transporter SstT
+super	NC_002163.1	gene	1032186	1033073	.	+	.	locus_tag=Cj1098;product=aspartate carbamoyltransferase catalytic subunit
+super	NC_002163.1	gene	1033077	1034798	.	+	.	locus_tag=Cj1099;product=peptidase
+super	NC_002163.1	gene	1034792	1035229	.	+	.	locus_tag=Cj1100;product=hypothetical protein
+super	NC_002163.1	gene	1035226	1037301	.	+	.	locus_tag=Cj1101;product=ATP-dependent DNA helicase
+super	NC_002163.1	gene	1037298	1038116	.	+	.	locus_tag=Cj1102;product=tRNA pseudouridine synthase B
+super	NC_002163.1	gene	1038110	1038337	.	+	.	locus_tag=Cj1103;product=carbon storage regulator
+super	NC_002163.1	gene	1038334	1039101	.	+	.	locus_tag=Cj1104;product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+super	NC_002163.1	gene	1039098	1039550	.	+	.	locus_tag=Cj1105;product=SsrA-binding protein
+super	NC_002163.1	gene	1039561	1040163	.	+	.	locus_tag=Cj1106;product=putative periplasmic thioredoxin
+super	NC_002163.1	gene	1040163	1040453	.	+	.	locus_tag=Cj1107;product=ATP-dependent Clp protease adaptor protein
+super	NC_002163.1	gene	1040450	1042579	.	+	.	locus_tag=Cj1108;product=ATP-dependent Clp protease ATP-binding subunit
+super	NC_002163.1	gene	1042554	1043201	.	+	.	locus_tag=Cj1109;product=leucyl%2Fphenylalanyl-tRNA--protein transferase
+super	NC_002163.1	gene	1043223	1044512	.	-	.	locus_tag=Cj1110c;product=putative MCP-type signal transduction protein
+super	NC_002163.1	gene	1044593	1045219	.	-	.	locus_tag=Cj1111c;product=putative MarC family integral membrane protein
+super	NC_002163.1	gene	1045234	1045593	.	-	.	locus_tag=Cj1112c;product=methionine sulfoxide reductase B
+super	NC_002163.1	gene	1045683	1046480	.	+	.	locus_tag=Cj1113;product=hypothetical protein
+super	NC_002163.1	gene	1046471	1047199	.	-	.	locus_tag=Cj1114c;product=CDP-diacylglycerol--serine O-phosphatidyltransferase
+super	NC_002163.1	gene	1047209	1047826	.	-	.	locus_tag=Cj1115c;product=putative phosphatidylserine decarboxylase-related protein
+super	NC_002163.1	gene	1047823	1049760	.	-	.	locus_tag=Cj1116c;product=membrane bound zinc metallopeptidase
+super	NC_002163.1	gene	1049764	1050609	.	-	.	locus_tag=Cj1117c;product=ribosomal protein L11 methyltransferase
+super	NC_002163.1	gene	1050632	1051024	.	-	.	locus_tag=Cj1118c;product=chemotaxis regulatory protein
+super	NC_002163.1	gene	1051137	1052030	.	-	.	locus_tag=Cj1119c;product=putative integral membrane protein
+super	NC_002163.1	gene	1052030	1053802	.	-	.	locus_tag=Cj1120c;product=UDP-GlcNAc C4%2C6 dehydratase
+super	NC_002163.1	gene	1053804	1054964	.	-	.	locus_tag=Cj1121c;product=UDP-4-keto-6-deoxy-GlcNAc C4 aminotransferase
+super	NC_002163.1	gene	1055060	1055713	.	-	.	locus_tag=Cj1122c;product=putative integral membrane protein
+super	NC_002163.1	gene	1055670	1056257	.	-	.	locus_tag=Cj1123c;product=acetyltransferase
+super	NC_002163.1	gene	1056244	1056846	.	-	.	locus_tag=Cj1124c;product=galactosyltransferase
+super	NC_002163.1	gene	1056839	1057969	.	-	.	locus_tag=Cj1125c;product=GalNAc transferase
+super	NC_002163.1	gene	1057979	1060120	.	-	.	locus_tag=Cj1126c;product=oligosaccharide transferase to N-glycosylate proteins
+super	NC_002163.1	gene	1060124	1061221	.	-	.	locus_tag=Cj1127c;product=GalNAc transferase
+super	NC_002163.1	gene	1061209	1062138	.	-	.	locus_tag=Cj1128c;product=glucosyl transferase
+super	NC_002163.1	gene	1062131	1063210	.	-	.	locus_tag=Cj1129c;product=GalNAc transferase%2Fpolymerase
+super	NC_002163.1	gene	1063207	1064901	.	-	.	locus_tag=Cj1130c;product=flippase
+super	NC_002163.1	gene	1064895	1065881	.	-	.	locus_tag=Cj1131c;product=UDP-GlcNAc%2FGlc 4-epimerase
+super	NC_002163.1	gene	1065939	1066733	.	-	.	locus_tag=Cj1132c;product=hypothetical protein
+super	NC_002163.1	gene	1066799	1067827	.	+	.	locus_tag=Cj1133;product=heptosyltransferase I
+super	NC_002163.1	gene	1067817	1068704	.	+	.	locus_tag=Cj1134;product=lipid A biosynthesis lauroyl acyltransferase
+super	NC_002163.1	gene	1068701	1070248	.	+	.	locus_tag=Cj1135;product=putative two-domain glucosyltransferase
+super	NC_002163.1	gene	1070252	1071424	.	+	.	locus_tag=Cj1136;product=putative glycosyltransferase
+super	NC_002163.1	gene	1071408	1072403	.	-	.	locus_tag=Cj1137c;product=putative glycosyltransferase
+super	NC_002163.1	gene	1072461	1073630	.	+	.	locus_tag=Cj1138;product=putative glycosyltransferase
+super	NC_002163.1	gene	1073619	1074530	.	-	.	locus_tag=Cj1139c;product=beta-1%2C3 galactosyltransferase
+super	NC_002163.1	gene	1074585	1075469	.	+	.	locus_tag=Cj1140;product=alpha-2%2C3 sialyltransferase
+super	NC_002163.1	gene	1075450	1076481	.	+	.	locus_tag=Cj1141;product=sialic acid synthase
+super	NC_002163.1	gene	1076478	1077593	.	+	.	locus_tag=Cj1142;product=putative UDP-N-acetylglucosamine 2-epimerase
+super	NC_002163.1	gene	1077590	1079200	.	+	.	locus_tag=Cj1143;product=bifunctional beta-1%2C4-N-acetylgalactosaminyltransferase%2FCMP-Neu5Ac synthase
+super	NC_002163.1	gene	1079195	1080041	.	-	.	locus_tag=Cj1145c;product=hypothetical protein
+super	NC_002163.1	gene	1080025	1080849	.	-	.	locus_tag=Cj1146c;product=putative glucosyltransferase
+super	NC_002163.1	gene	1080908	1081867	.	+	.	locus_tag=Cj1148;product=heptosyltransferase II
+super	NC_002163.1	gene	1081848	1082408	.	-	.	locus_tag=Cj1149c;product=phosphoheptose isomerase
+super	NC_002163.1	gene	1082405	1083790	.	-	.	locus_tag=Cj1150c;product=D-beta-D-heptose 7-phosphate kinase%2FD-beta-D-heptose 1-phosphate adenylyltransferase
+super	NC_002163.1	gene	1083783	1084736	.	-	.	locus_tag=Cj1151c;product=ADP-glyceromanno-heptose 6-epimerase
+super	NC_002163.1	gene	1084737	1085297	.	-	.	locus_tag=Cj1152c;product=D%2CD-heptose 1%2C7-bisphosphate phosphatase
+super	NC_002163.1	gene	1085379	1085681	.	+	.	locus_tag=Cj1153;product=putative periplasmic cytochrome C
+super	NC_002163.1	gene	1085704	1085910	.	-	.	locus_tag=Cj1154c;product=putative cytochrome oxidase maturation protein cbb3-type
+super	NC_002163.1	gene	1085907	1088264	.	-	.	locus_tag=Cj1155c;product=putative cation-transporting ATPase
+super	NC_002163.1	gene	1088373	1089671	.	+	.	locus_tag=Cj1156;product=transcription termination factor Rho
+super	NC_002163.1	gene	1089675	1091204	.	+	.	locus_tag=Cj1157;product=DNA polymerase III subunits gamma and tau
+super	NC_002163.1	gene	1091201	1091428	.	-	.	locus_tag=Cj1158c;product=hypothetical protein
+super	NC_002163.1	gene	1091407	1091529	.	-	.	locus_tag=Cj1159c;product=hypothetical protein
+super	NC_002163.1	gene	1091544	1091723	.	-	.	locus_tag=Cj1160c;product=hypothetical protein
+super	NC_002163.1	gene	1091795	1093894	.	-	.	locus_tag=Cj1161c;product=putative cation-transporting ATPase
+super	NC_002163.1	gene	1093894	1094088	.	-	.	locus_tag=Cj1162c;product=putative heavy-metal-associated domain protein
+super	NC_002163.1	gene	1094078	1095028	.	-	.	locus_tag=Cj1163c;product=putative cation transport protein
+super	NC_002163.1	gene	1095104	1095367	.	-	.	locus_tag=Cj1164c;product=hypothetical protein
+super	NC_002163.1	gene	1095437	1095931	.	-	.	locus_tag=Cj1165c;product=putative integral membrane protein
+super	NC_002163.1	gene	1095928	1096704	.	-	.	locus_tag=Cj1166c;product=putative integral membrane protein
+super	NC_002163.1	gene	1096771	1097697	.	+	.	locus_tag=Cj1167;product=L-lactate dehydrogenase
+super	NC_002163.1	gene	1097694	1098296	.	-	.	locus_tag=Cj1168c;product=putative integral membrane protein
+super	NC_002163.1	gene	1098377	1098604	.	-	.	locus_tag=Cj1169c;product=putative periplasmic protein
+super	NC_002163.1	gene	1098615	1100036	.	-	.	locus_tag=Cj1170c;product=50 kda outer membrane protein precursor
+super	NC_002163.1	gene	1100192	1100674	.	-	.	locus_tag=Cj1171c;product=peptidyl-prolyl cis-trans isomerase
+super	NC_002163.1	gene	1100684	1101391	.	-	.	locus_tag=Cj1172c;product=hypothetical protein
+super	NC_002163.1	gene	1101500	1101841	.	+	.	locus_tag=Cj1173;product=putative multidrug resistance protein
+super	NC_002163.1	gene	1101841	1102149	.	+	.	locus_tag=Cj1174;product=putative multidrug resistance protein
+super	NC_002163.1	gene	1102167	1103759	.	-	.	locus_tag=Cj1175c;product=arginyl-tRNA synthetase
+super	NC_002163.1	gene	1103771	1104010	.	-	.	locus_tag=Cj1176c;product=Sec-independent protein translocase
+super	NC_002163.1	gene	1104012	1104635	.	-	.	locus_tag=Cj1177c;product=guanylate kinase
+super	NC_002163.1	gene	1104632	1106260	.	-	.	locus_tag=Cj1178c;product=highly acidic protein
+super	NC_002163.1	gene	1106317	1107084	.	-	.	locus_tag=Cj1179c;product=flagellar biosynthesis protein FliR
+super	NC_002163.1	gene	1107071	1107706	.	-	.	locus_tag=Cj1180c;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1107719	1108792	.	-	.	locus_tag=Cj1181c;product=elongation factor Ts
+super	NC_002163.1	gene	1108792	1109583	.	-	.	locus_tag=Cj1182c;product=30S ribosomal protein S2
+super	NC_002163.1	gene	1109699	1110862	.	-	.	locus_tag=Cj1183c;product=cyclopropane-fatty-acyl-phospholipid synthase
+super	NC_002163.1	gene	1110990	1112114	.	-	.	locus_tag=Cj1184c;product=putative ubiquinol-cytochrome C reductase cytochrome C subunit
+super	NC_002163.1	gene	1112111	1113361	.	-	.	locus_tag=Cj1185c;product=putative ubiquinol-cytochrome C reductase cytochrome B subunit
+super	NC_002163.1	gene	1113363	1113866	.	-	.	locus_tag=Cj1186c;product=putative ubiquinol-cytochrome C reductase iron-sulfur subunit
+super	NC_002163.1	gene	1113956	1115242	.	-	.	locus_tag=Cj1187c;product=arsenical pump membrane protein
+super	NC_002163.1	gene	1115243	1117102	.	-	.	locus_tag=Cj1188c;product=tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+super	NC_002163.1	gene	1117190	1117687	.	-	.	locus_tag=Cj1189c;product=bipartate energy taxis response protein CetB
+super	NC_002163.1	gene	1117705	1119084	.	-	.	locus_tag=Cj1190c;product=bipartate energy taxis response protein CetA
+super	NC_002163.1	gene	1119205	1119699	.	-	.	locus_tag=Cj1191c;product=putative PAS domain containing signal-transduction sensor protein
+super	NC_002163.1	gene	1119968	1121344	.	+	.	locus_tag=Cj1192;product=putative C4-dicarboxylate transport protein
+super	NC_002163.1	gene	1121341	1122147	.	-	.	locus_tag=Cj1193c;product=putative periplasmic protein
+super	NC_002163.1	gene	1122289	1123815	.	+	.	locus_tag=Cj1194;product=putative phosphate permease
+super	NC_002163.1	gene	1123823	1125001	.	-	.	locus_tag=Cj1195c;product=dihydroorotase
+super	NC_002163.1	gene	1125011	1125907	.	-	.	locus_tag=Cj1196c;product=NAD%28P%29H-dependent glycerol-3-phosphate dehydrogenase
+super	NC_002163.1	gene	1125904	1127322	.	-	.	locus_tag=Cj1197c;product=aspartyl%2Fglutamyl-tRNA amidotransferase subunit B
+super	NC_002163.1	gene	1127437	1127931	.	+	.	locus_tag=Cj1198;product=S-ribosylhomocysteinase
+super	NC_002163.1	gene	1128243	1129235	.	+	.	locus_tag=Cj1199;product=putative iron%2Fascorbate-dependent oxidoreductase
+super	NC_002163.1	gene	1129228	1130016	.	+	.	locus_tag=Cj1200;product=putative NLPA family lipoprotein
+super	NC_002163.1	gene	1130028	1132292	.	+	.	locus_tag=Cj1201;product=5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+super	NC_002163.1	gene	1132302	1133150	.	+	.	locus_tag=Cj1202;product=5%2C10-methylenetetrahydrofolate reductase
+super	NC_002163.1	gene	1133172	1133363	.	-	.	locus_tag=Cj1203c;product=putative integral membrane protein
+super	NC_002163.1	gene	1133360	1134040	.	-	.	locus_tag=Cj1204c;product=F0F1 ATP synthase subunit A
+super	NC_002163.1	gene	1134109	1135449	.	-	.	locus_tag=Cj1205c;product=DNA repair protein RadA
+super	NC_002163.1	gene	1135449	1136315	.	-	.	locus_tag=Cj1206c;product=putative signal recognition particle protein
+super	NC_002163.1	gene	1136315	1136872	.	-	.	locus_tag=Cj1207c;product=putative lipoprotein thiredoxin
+super	NC_002163.1	gene	1136955	1137581	.	+	.	locus_tag=Cj1208;product=putative 5-formyltetrahydrofolate cyclo-ligase family protein
+super	NC_002163.1	gene	1137502	1139055	.	+	.	locus_tag=Cj1209;product=phosphodiesterase
+super	NC_002163.1	gene	1139064	1139621	.	+	.	locus_tag=Cj1210;product=putative integral membrane protein
+super	NC_002163.1	gene	1139621	1140880	.	+	.	locus_tag=Cj1211;product=putative competence family protein
+super	NC_002163.1	gene	1140824	1141630	.	-	.	locus_tag=Cj1212c;product=putative ribonuclease BN
+super	NC_002163.1	gene	1141634	1143016	.	-	.	locus_tag=Cj1213c;product=putative glycolate oxidase subunit D
+super	NC_002163.1	gene	1143019	1143744	.	-	.	locus_tag=Cj1214c;product=putative exporting protein
+super	NC_002163.1	gene	1143866	1145026	.	+	.	locus_tag=Cj1215;product=putative peptidase M23 family protein
+super	NC_002163.1	gene	1145023	1145226	.	-	.	locus_tag=Cj1216c;product=hypothetical protein
+super	NC_002163.1	gene	1145228	1145908	.	-	.	locus_tag=Cj1217c;product=hypothetical protein
+super	NC_002163.1	gene	1145872	1146483	.	-	.	locus_tag=Cj1218c;product=riboflavin synthase subunit alpha
+super	NC_002163.1	gene	1146492	1149032	.	-	.	locus_tag=Cj1219c;product=putative periplasmic protein
+super	NC_002163.1	gene	1149194	1149454	.	+	.	locus_tag=Cj1220;product=co-chaperonin GroES
+super	NC_002163.1	gene	1149475	1151112	.	+	.	locus_tag=Cj1221;product=chaperonin GroEL
+super	NC_002163.1	gene	1151155	1152345	.	-	.	locus_tag=Cj1222c;product=two-component sensor histidine kinase
+super	NC_002163.1	gene	1152338	1153003	.	-	.	locus_tag=Cj1223c;product=two-component regulator
+super	NC_002163.1	gene	1153151	1153750	.	+	.	locus_tag=Cj1224;product=putative iron-binding protein
+super	NC_002163.1	gene	1153761	1154009	.	+	.	locus_tag=Cj1225;product=hypothetical protein
+super	NC_002163.1	gene	1154100	1154174	.	-	.	locus_tag=Cjp22;product=tRNA-Asn
+super	NC_002163.1	gene	1154267	1155514	.	-	.	locus_tag=Cj1226c;product=putative two-component sensor
+super	NC_002163.1	gene	1155511	1156185	.	-	.	locus_tag=Cj1227c;product=putative two-component regulator
+super	NC_002163.1	gene	1156261	1157679	.	-	.	locus_tag=Cj1228c;product=serine protease
+super	NC_002163.1	gene	1157879	1158772	.	+	.	locus_tag=Cj1229;product=putative curved-DNA binding protein
+super	NC_002163.1	gene	1158788	1159162	.	+	.	locus_tag=Cj1230;product=heat shock transcriptional regulator
+super	NC_002163.1	gene	1159168	1160793	.	+	.	locus_tag=Cj1231;product=putative glutathione-regulated potassium-efflux system protein
+super	NC_002163.1	gene	1160803	1161135	.	+	.	locus_tag=Cj1232;product=hypothetical protein
+super	NC_002163.1	gene	1161132	1161752	.	+	.	locus_tag=Cj1233;product=putative HAD-superfamily hydrolase
+super	NC_002163.1	gene	1161808	1163802	.	+	.	locus_tag=Cj1234;product=glycyl-tRNA synthetase subunit beta
+super	NC_002163.1	gene	1163799	1164620	.	+	.	locus_tag=Cj1235;product=putative peptidase M23 family protein
+super	NC_002163.1	gene	1164617	1165567	.	+	.	locus_tag=Cj1236;product=hypothetical protein
+super	NC_002163.1	gene	1165564	1166538	.	-	.	locus_tag=Cj1237c;product=putative phosphatase
+super	NC_002163.1	gene	1166594	1167367	.	+	.	locus_tag=Cj1238;product=pyridoxine 5%27-phosphate synthase
+super	NC_002163.1	gene	1167364	1168458	.	+	.	locus_tag=Cj1239;product=4-hydroxythreonine-4-phosphate dehydrogenase
+super	NC_002163.1	gene	1168448	1169050	.	-	.	locus_tag=Cj1240c;product=putative periplasmic protein
+super	NC_002163.1	gene	1169163	1170362	.	+	.	locus_tag=Cj1241;product=putative MFS transport protein
+super	NC_002163.1	gene	1170418	1170738	.	+	.	locus_tag=Cj1242;product=hypothetical protein
+super	NC_002163.1	gene	1170922	1171944	.	+	.	locus_tag=Cj1243;product=uroporphyrinogen decarboxylase
+super	NC_002163.1	gene	1171941	1172843	.	+	.	locus_tag=Cj1244;product=putative radical SAM domain protein
+super	NC_002163.1	gene	1172840	1174036	.	-	.	locus_tag=Cj1245c;product=hypothetical protein
+super	NC_002163.1	gene	1174038	1175840	.	-	.	locus_tag=Cj1246c;product=excinuclease ABC subunit C
+super	NC_002163.1	gene	1175833	1176327	.	-	.	locus_tag=Cj1247c;product=hypothetical protein
+super	NC_002163.1	gene	1176466	1178001	.	+	.	locus_tag=Cj1248;product=GMP synthase
+super	NC_002163.1	gene	1178087	1179547	.	+	.	locus_tag=Cj1249;product=hypothetical protein
+super	NC_002163.1	gene	1179787	1181037	.	+	.	locus_tag=Cj1250;product=phosphoribosylamine--glycine ligase
+super	NC_002163.1	gene	1181034	1181486	.	+	.	locus_tag=Cj1251;product=hypothetical protein
+super	NC_002163.1	gene	1181476	1183524	.	+	.	locus_tag=Cj1252;product=putative periplasmic protein
+super	NC_002163.1	gene	1183594	1185753	.	+	.	locus_tag=Cj1253;product=polynucleotide phosphorylase%2Fpolyadenylase
+super	NC_002163.1	gene	1185750	1186232	.	+	.	locus_tag=Cj1254;product=hypothetical protein
+super	NC_002163.1	gene	1186290	1186499	.	+	.	locus_tag=Cj1255;product=putative isomerase
+super	NC_002163.1	gene	1186496	1187158	.	-	.	locus_tag=Cj1256c;product=hypothetical protein
+super	NC_002163.1	gene	1187176	1188360	.	-	.	locus_tag=Cj1257c;product=putative efflux pump
+super	NC_002163.1	gene	1188414	1188869	.	+	.	locus_tag=Cj1258;product=putative phosphotyrosine protein phosphatase
+super	NC_002163.1	gene	1189121	1190395	.	+	.	locus_tag=Cj1259;product=major outer membrane protein
+super	NC_002163.1	gene	1190510	1191631	.	-	.	locus_tag=Cj1260c;product=chaperone protein DnaJ
+super	NC_002163.1	gene	1191788	1192459	.	+	.	locus_tag=Cj1261;product=two-component regulator
+super	NC_002163.1	gene	1192456	1193691	.	+	.	locus_tag=Cj1262;product=two-component sensor histidine kinase
+super	NC_002163.1	gene	1193691	1194263	.	+	.	locus_tag=Cj1263;product=recombination protein RecR
+super	NC_002163.1	gene	1194260	1194796	.	-	.	locus_tag=Cj1264c;product=putative hydrogenase maturation protease
+super	NC_002163.1	gene	1194793	1195485	.	-	.	locus_tag=Cj1265c;product=Ni%2FFe-hydrogenase B-type cytochrome subunit
+super	NC_002163.1	gene	1195496	1197211	.	-	.	locus_tag=Cj1266c;product=Ni%2FFe-hydrogenase large subunit
+super	NC_002163.1	gene	1197214	1198353	.	-	.	locus_tag=Cj1267c;product=Ni%2FFe-hydrogenase small chain
+super	NC_002163.1	gene	1198474	1200315	.	-	.	locus_tag=Cj1268c;product=5-methylaminomethyl-2-thiouridine methyltransferase
+super	NC_002163.1	gene	1200312	1202291	.	-	.	locus_tag=Cj1269c;product=N-acetylmuramoyl-L-alanine amidase
+super	NC_002163.1	gene	1202291	1203382	.	-	.	locus_tag=Cj1270c;product=putative 2-nitropropane dioxygenase%2Coxidoreductase protein
+super	NC_002163.1	gene	1203379	1204584	.	-	.	locus_tag=Cj1271c;product=tyrosyl-tRNA synthetase
+super	NC_002163.1	gene	1204596	1206791	.	-	.	locus_tag=Cj1272c;product=putative guanosine-3%27%2C5%27-bis%28diphosphate%29 3%27-pyrophosphohydrolase
+super	NC_002163.1	gene	1206775	1206999	.	-	.	locus_tag=Cj1273c;product=DNA-directed RNA polymerase subunit omega
+super	NC_002163.1	gene	1207010	1207729	.	-	.	locus_tag=Cj1274c;product=uridylate kinase
+super	NC_002163.1	gene	1207781	1208974	.	-	.	locus_tag=Cj1275c;product=putative peptidase M23 family protein
+super	NC_002163.1	gene	1208971	1209777	.	-	.	locus_tag=Cj1276c;product=putative integral membrane protein
+super	NC_002163.1	gene	1209764	1210429	.	-	.	locus_tag=Cj1277c;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1210499	1211677	.	-	.	locus_tag=Cj1278c;product=tRNA %28guanine-N%287%29-%29-methyltransferase
+super	NC_002163.1	gene	1211677	1212912	.	-	.	locus_tag=Cj1279c;product=putative fibronectin domain-containing lipoprotein
+super	NC_002163.1	gene	1212857	1213825	.	-	.	locus_tag=Cj1280c;product=putative ribosomal pseudouridine synthase
+super	NC_002163.1	gene	1213903	1215003	.	+	.	locus_tag=Cj1282;product=RodA protein
+super	NC_002163.1	gene	1215057	1215133	.	+	.	locus_tag=Cjp23;product=tRNA-Met
+super	NC_002163.1	gene	1215241	1215316	.	-	.	locus_tag=Cjp24;product=tRNA-Phe
+super	NC_002163.1	gene	1215456	1216799	.	+	.	locus_tag=Cj1283;product=putative K%2B uptake protein
+super	NC_002163.1	gene	1216810	1217460	.	+	.	locus_tag=Cj1284;product=putative K%2B uptake protein
+super	NC_002163.1	gene	1217457	1218128	.	-	.	locus_tag=Cj1285c;product=hypothetical protein
+super	NC_002163.1	gene	1218134	1218760	.	-	.	locus_tag=Cj1286c;product=uracil phosphoribosyltransferase
+super	NC_002163.1	gene	1218757	1219992	.	-	.	locus_tag=Cj1287c;product=malate oxidoreductase
+super	NC_002163.1	gene	1219994	1221385	.	-	.	locus_tag=Cj1288c;product=glutamyl-tRNA synthetase
+super	NC_002163.1	gene	1221450	1222265	.	+	.	locus_tag=Cj1289;product=putative periplasmic protein
+super	NC_002163.1	gene	1222303	1223634	.	-	.	locus_tag=Cj1290c;product=biotin carboxylase
+super	NC_002163.1	gene	1223636	1224091	.	-	.	locus_tag=Cj1291c;product=putative biotin carboxyl carrier protein of acetyl-CoA carboxylase
+super	NC_002163.1	gene	1224239	1224799	.	+	.	locus_tag=Cj1292;product=deoxycytidine triphosphate deaminase
+super	NC_002163.1	gene	1224849	1225853	.	+	.	locus_tag=Cj1293;product=UDP-GlcNAc-specific C4%2C6 dehydratase%2FC5 epimerase
+super	NC_002163.1	gene	1225855	1226985	.	+	.	locus_tag=Cj1294;product=C4 aminotransferase
+super	NC_002163.1	gene	1226978	1228285	.	+	.	locus_tag=Cj1295;product=hypothetical protein
+super	NC_002163.1	gene	1228282	1228641	.	+	.	locus_tag=Cj1296;product=hypothetical protein
+super	NC_002163.1	gene	1228638	1229075	.	+	.	locus_tag=Cj1297;product=hypothetical protein
+super	NC_002163.1	gene	1229096	1229887	.	+	.	locus_tag=Cj1298;product=putative N-acetyltransferase
+super	NC_002163.1	gene	1229918	1230148	.	+	.	locus_tag=Cj1299;product=putative acyl carrier protein
+super	NC_002163.1	gene	1230145	1231038	.	+	.	locus_tag=Cj1300;product=putative SAM domain containing methyltransferase
+super	NC_002163.1	gene	1231031	1231447	.	+	.	locus_tag=Cj1301;product=hypothetical protein
+super	NC_002163.1	gene	1231444	1233006	.	+	.	locus_tag=Cj1302;product=putative HAD-superfamily hydrolase
+super	NC_002163.1	gene	1232996	1234057	.	+	.	locus_tag=Cj1303;product=3-oxoacyl-%28acyl carrier protein%29 synthase III
+super	NC_002163.1	gene	1234057	1234278	.	+	.	locus_tag=Cj1304;product=putative acyl carrier protein
+super	NC_002163.1	gene	1234292	1235509	.	-	.	locus_tag=Cj1305c;product=hypothetical protein
+super	NC_002163.1	gene	1235522	1236748	.	-	.	locus_tag=Cj1306c;product=hypothetical protein
+super	NC_002163.1	gene	1236809	1238317	.	+	.	locus_tag=Cj1307;product=putative amino acid activating enzyme
+super	NC_002163.1	gene	1238357	1238584	.	+	.	locus_tag=Cj1308;product=putative acyl carrier protein
+super	NC_002163.1	gene	1238581	1239651	.	-	.	locus_tag=Cj1309c;product=hypothetical protein
+super	NC_002163.1	gene	1239673	1240887	.	-	.	locus_tag=Cj1310c;product=hypothetical protein
+super	NC_002163.1	gene	1240966	1241664	.	+	.	locus_tag=Cj1311;product=putative acylneuraminate cytidylyltransferase
+super	NC_002163.1	gene	1241648	1242472	.	+	.	locus_tag=Cj1312;product=nucleotidase specific for PseC product%2CUDP-4-amino-4%2C6-dideoxy-beta-L-AltNAc
+super	NC_002163.1	gene	1242469	1242942	.	+	.	locus_tag=Cj1313;product=N-acetyltransferase specific for PseC product%2CUDP-4-amino-4%2C6-dideoxy-beta-L-AltNAc
+super	NC_002163.1	gene	1242907	1243653	.	-	.	locus_tag=Cj1314c;product=imidazole glycerol phosphate synthase subunit HisF
+super	NC_002163.1	gene	1243654	1244259	.	-	.	locus_tag=Cj1315c;product=imidazole glycerol phosphate synthase subunit HisH
+super	NC_002163.1	gene	1244256	1245392	.	-	.	locus_tag=Cj1316c;product=pseudaminic acid biosynthesis PseA protein
+super	NC_002163.1	gene	1245650	1246681	.	+	.	locus_tag=Cj1317;product=Pse synthetase
+super	NC_002163.1	gene	1246678	1248627	.	+	.	locus_tag=Cj1318;product=motility accessory factor
+super	NC_002163.1	gene	1248624	1249595	.	+	.	locus_tag=Cj1319;product=putative nucleotide sugar dehydratase
+super	NC_002163.1	gene	1249588	1250742	.	+	.	locus_tag=Cj1320;product=putative DegT family aminotransferase
+super	NC_002163.1	gene	1250852	1251394	.	+	.	locus_tag=Cj1321;product=putative transferase
+super	NC_002163.1	gene	1251467	1251787	.	+	.	locus_tag=Cj1322;product=hypothetical protein
+super	NC_002163.1	gene	1251775	1252161	.	+	.	locus_tag=Cj1323;product=hypothetical protein
+super	NC_002163.1	gene	1252278	1253399	.	+	.	locus_tag=Cj1324;product=hypothetical protein
+super	NC_002163.1	gene	1253417	1254092	.	+	.	locus_tag=Cj1325;product=putative methyltransferase
+super	NC_002163.1	gene	1254132	1255136	.	+	.	locus_tag=Cj1327;product=N-acetylneuraminic acid synthetase
+super	NC_002163.1	gene	1255129	1256283	.	+	.	locus_tag=Cj1328;product=putative UDP-N-acetylglucosamine 2-epimerase
+super	NC_002163.1	gene	1256292	1257317	.	+	.	locus_tag=Cj1329;product=putative sugar-phosphate nucleotide transferase
+super	NC_002163.1	gene	1257314	1258219	.	+	.	locus_tag=Cj1330;product=hypothetical protein
+super	NC_002163.1	gene	1258212	1258919	.	+	.	locus_tag=Cj1331;product=acylneuraminate cytidylyltransferase
+super	NC_002163.1	gene	1258919	1259689	.	+	.	locus_tag=Cj1332;product=flagellin modification protein A
+super	NC_002163.1	gene	1259677	1261638	.	+	.	locus_tag=Cj1333;product=PseD protein
+super	NC_002163.1	gene	1261635	1263494	.	+	.	locus_tag=Cj1334;product=motility accessory factor
+super	NC_002163.1	gene	1263507	1265454	.	+	.	locus_tag=Cj1335;product=motility accessory factor
+super	NC_002163.1	gene	1265451	1267337	.	+	.	locus_tag=Cj1337;product=PseE protein
+super	NC_002163.1	gene	1267368	1269086	.	-	.	locus_tag=Cj1338c;product=flagellin
+super	NC_002163.1	gene	1269232	1270950	.	-	.	locus_tag=Cj1339c;product=flagellin
+super	NC_002163.1	gene	1271047	1272864	.	-	.	locus_tag=Cj1340c;product=hypothetical protein
+super	NC_002163.1	gene	1272861	1274684	.	-	.	locus_tag=Cj1341c;product=motility accessory factor
+super	NC_002163.1	gene	1274694	1275935	.	-	.	locus_tag=Cj1342c;product=motility accessory factor
+super	NC_002163.1	gene	1275935	1276450	.	-	.	locus_tag=Cj1343c;product=putative periplasmic protein
+super	NC_002163.1	gene	1276451	1277458	.	-	.	locus_tag=Cj1344c;product=putative DNA-binding%2Firon metalloprotein%2FAP endonuclease
+super	NC_002163.1	gene	1277455	1278849	.	-	.	locus_tag=Cj1345c;product=putative periplasmic protein
+super	NC_002163.1	gene	1278851	1279921	.	-	.	locus_tag=Cj1346c;product=1-deoxy-D-xylulose 5-phosphate reductoisomerase
+super	NC_002163.1	gene	1279918	1280643	.	-	.	locus_tag=Cj1347c;product=phosphatidate cytidylyltransferase
+super	NC_002163.1	gene	1280652	1280990	.	-	.	locus_tag=Cj1348c;product=putative coiled-coil protein
+super	NC_002163.1	gene	1280992	1282299	.	-	.	locus_tag=Cj1349c;product=putative fibronectin%2Ffibrinogen-binding protein
+super	NC_002163.1	gene	1282361	1282936	.	+	.	locus_tag=Cj1350;product=putative molybdopterin-guanine dinucleotide biosynthesis protein
+super	NC_002163.1	gene	1282933	1283922	.	+	.	locus_tag=Cj1351;product=phospholipase A
+super	NC_002163.1	gene	1284008	1284976	.	+	.	locus_tag=Cj1352;product=enterochelin uptake permease
+super	NC_002163.1	gene	1284969	1285907	.	+	.	locus_tag=Cj1353;product=enterochelin uptake permease
+super	NC_002163.1	gene	1285904	1286659	.	+	.	locus_tag=Cj1354;product=enterochelin uptake ATP-binding protein
+super	NC_002163.1	gene	1286672	1287664	.	+	.	locus_tag=Cj1355;product=enterochelin uptake periplasmic binding protein
+super	NC_002163.1	gene	1287737	1287826	.	-	.	locus_tag=Cjp25;product=tRNA-Ser
+super	NC_002163.1	gene	1287890	1288444	.	-	.	locus_tag=Cj1356c;product=putative integral membrane protein
+super	NC_002163.1	gene	1288580	1290412	.	-	.	locus_tag=Cj1357c;product=putative periplasmic cytochrome C
+super	NC_002163.1	gene	1290427	1290942	.	-	.	locus_tag=Cj1358c;product=putative periplasmic cytochrome C
+super	NC_002163.1	gene	1291131	1293215	.	+	.	locus_tag=Cj1359;product=polyphosphate kinase
+super	NC_002163.1	gene	1293300	1293658	.	-	.	locus_tag=Cjs01;product=tmRNA
+super	NC_002163.1	gene	1293527	1293571	.	-	.	locus_tag=Cj1360c;product=putative proteolysis tag for 10Sa_RNA
+super	NC_002163.1	gene	1293659	1294111	.	-	.	locus_tag=Cj1361c;product=hypothetical protein
+super	NC_002163.1	gene	1294160	1295167	.	+	.	locus_tag=Cj1362;product=Holliday junction DNA helicase RuvB
+super	NC_002163.1	gene	1295171	1296214	.	+	.	locus_tag=Cj1363;product=acid membrane antigen A
+super	NC_002163.1	gene	1296244	1297635	.	-	.	locus_tag=Cj1364c;product=fumarate hydratase
+super	NC_002163.1	gene	1297691	1300816	.	-	.	locus_tag=Cj1365c;product=putative secreted serine protease
+super	NC_002163.1	gene	1300819	1302615	.	-	.	locus_tag=Cj1366c;product=glucosamine--fructose-6-phosphate aminotransferase
+super	NC_002163.1	gene	1302620	1304968	.	-	.	locus_tag=Cj1367c;product=putative nucleotidyltransferase
+super	NC_002163.1	gene	1305112	1306176	.	+	.	locus_tag=Cj1368;product=hypothetical protein
+super	NC_002163.1	gene	1306186	1307505	.	+	.	locus_tag=Cj1369;product=putative permease
+super	NC_002163.1	gene	1307519	1307962	.	+	.	locus_tag=Cj1370;product=putative nucleotide phosphoribosyltransferase
+super	NC_002163.1	gene	1308007	1308705	.	+	.	locus_tag=Cj1371;product=putative periplasmic protein
+super	NC_002163.1	gene	1308715	1309284	.	+	.	locus_tag=Cj1372;product=putative periplasmic protein
+super	NC_002163.1	gene	1309284	1311755	.	+	.	locus_tag=Cj1373;product=putative integral membrane protein
+super	NC_002163.1	gene	1311786	1312388	.	-	.	locus_tag=Cj1374c;product=putative deoxyribonucleotide triphosphate pyrophosphatase
+super	NC_002163.1	gene	1312555	1313850	.	+	.	locus_tag=Cj1375;product=putative multidrug efflux transporter
+super	NC_002163.1	gene	1313847	1314656	.	+	.	locus_tag=Cj1376;product=putative periplasmic protein
+super	NC_002163.1	gene	1314649	1316310	.	-	.	locus_tag=Cj1377c;product=putative ferredoxin
+super	NC_002163.1	gene	1316388	1317710	.	+	.	locus_tag=Cj1378;product=selenocysteine synthase
+super	NC_002163.1	gene	1317707	1319512	.	+	.	locus_tag=Cj1379;product=putative selenocysteine-specific elongation factor
+super	NC_002163.1	gene	1319561	1320271	.	+	.	locus_tag=Cj1380;product=putative periplasmic protein
+super	NC_002163.1	gene	1320277	1320807	.	+	.	locus_tag=Cj1381;product=putative lipoprotein
+super	NC_002163.1	gene	1320852	1321343	.	-	.	locus_tag=Cj1382c;product=flavodoxin FldA
+super	NC_002163.1	gene	1321343	1322038	.	-	.	locus_tag=Cj1383c;product=hypothetical protein
+super	NC_002163.1	gene	1322041	1322355	.	-	.	locus_tag=Cj1384c;product=hypothetical protein
+super	NC_002163.1	gene	1322526	1323950	.	+	.	locus_tag=Cj1385;product=catalase
+super	NC_002163.1	gene	1324007	1324477	.	+	.	locus_tag=Cj1386;product=ankyrin-repeat containing protein
+super	NC_002163.1	gene	1324478	1325134	.	-	.	locus_tag=Cj1387c;product=helix-turn-helix containing protein
+super	NC_002163.1	gene	1325302	1325664	.	+	.	locus_tag=Cj1388;product=putative endoribonuclease L-PSP
+super	NC_002163.1	gene	1325668	1327107	.	+	.	locus_tag=Cj1389;product=pseudo
+super	NC_002163.1	gene	1327120	1327257	.	+	.	locus_tag=Cj1392;product=putative cystathionine beta-lyase%2C N-terminus
+super	NC_002163.1	gene	1327236	1328282	.	+	.	locus_tag=Cj1393;product=putative cystathionine beta-lyase
+super	NC_002163.1	gene	1328292	1329659	.	+	.	locus_tag=Cj1394;product=adenylosuccinate lyase
+super	NC_002163.1	gene	1329668	1331008	.	+	.	locus_tag=Cj1395;product=pseudo
+super	NC_002163.1	gene	1331090	1331314	.	+	.	locus_tag=Cj1397;product=putative ferrous iron transport protein
+super	NC_002163.1	gene	1331311	1333152	.	+	.	locus_tag=Cj1398;product=ferrous iron transport protein
+super	NC_002163.1	gene	1333149	1334642	.	-	.	locus_tag=Cj1399c;product=putative Ni%2FFe-hydrogenase small subunit
+super	NC_002163.1	gene	1334646	1335470	.	-	.	locus_tag=Cj1400c;product=enoyl-%28acyl carrier protein%29 reductase
+super	NC_002163.1	gene	1335474	1336145	.	-	.	locus_tag=Cj1401c;product=triosephosphate isomerase
+super	NC_002163.1	gene	1336142	1337344	.	-	.	locus_tag=Cj1402c;product=phosphoglycerate kinase
+super	NC_002163.1	gene	1337347	1338345	.	-	.	locus_tag=Cj1403c;product=glyceraldehyde 3-phosphate dehydrogenase
+super	NC_002163.1	gene	1338404	1338949	.	+	.	locus_tag=Cj1404;product=putative nicotinate-nucleotide adenylyltransferase
+super	NC_002163.1	gene	1338977	1339303	.	+	.	locus_tag=Cj1405;product=hypothetical protein
+super	NC_002163.1	gene	1339362	1339712	.	-	.	locus_tag=Cj1406c;product=putative periplasmic protein
+super	NC_002163.1	gene	1339759	1341147	.	-	.	locus_tag=Cj1407c;product=putative phospho-sugar mutase
+super	NC_002163.1	gene	1341250	1341786	.	+	.	locus_tag=Cj1408;product=flagellar basal body-associated protein FliL
+super	NC_002163.1	gene	1341786	1342133	.	+	.	locus_tag=Cj1409;product=4%27-phosphopantetheinyl transferase
+super	NC_002163.1	gene	1342134	1342553	.	-	.	locus_tag=Cj1410c;product=hypothetical protein
+super	NC_002163.1	gene	1342550	1343911	.	-	.	locus_tag=Cj1411c;product=putative cytochrome P450
+super	NC_002163.1	gene	1343908	1345029	.	-	.	locus_tag=Cj1412c;product=putative integral membrane protein
+super	NC_002163.1	gene	1345102	1346286	.	-	.	locus_tag=Cj1413c;product=capsule polysaccharide modification protein
+super	NC_002163.1	gene	1346283	1348352	.	-	.	locus_tag=Cj1414c;product=capsule polysaccharide modification protein
+super	NC_002163.1	gene	1348349	1348861	.	-	.	locus_tag=Cj1415c;product=adenylylsulfate kinase
+super	NC_002163.1	gene	1348851	1349612	.	-	.	locus_tag=Cj1416c;product=putative sugar nucleotidyltransferase
+super	NC_002163.1	gene	1349614	1350216	.	-	.	locus_tag=Cj1417c;product=putative amidotransferase
+super	NC_002163.1	gene	1350207	1352546	.	-	.	locus_tag=Cj1418c;product=hypothetical protein
+super	NC_002163.1	gene	1352561	1353322	.	-	.	locus_tag=Cj1419c;product=putative methyltransferase
+super	NC_002163.1	gene	1353375	1354148	.	-	.	locus_tag=Cj1420c;product=putative methyltransferase
+super	NC_002163.1	gene	1354215	1356053	.	-	.	locus_tag=Cj1421c;product=putative sugar transferase
+super	NC_002163.1	gene	1356108	1357985	.	-	.	locus_tag=Cj1422c;product=putative sugar transferase
+super	NC_002163.1	gene	1358036	1358701	.	-	.	locus_tag=Cj1423c;product=putative D-glycero-D-manno-heptose 1-phosphate guanosyltransferase
+super	NC_002163.1	gene	1358689	1359294	.	-	.	locus_tag=Cj1424c;product=phosphoheptose isomerase
+super	NC_002163.1	gene	1359282	1360301	.	-	.	locus_tag=Cj1425c;product=putative D-glycero-D-manno-heptose 7-phosphate kinase
+super	NC_002163.1	gene	1360321	1361172	.	-	.	locus_tag=Cj1426c;product=putative methyltransferase family protein
+super	NC_002163.1	gene	1361191	1362132	.	-	.	locus_tag=Cj1427c;product=putative sugar-nucleotide epimerase%2Fdehydratease
+super	NC_002163.1	gene	1362156	1363196	.	-	.	locus_tag=Cj1428c;product=GDP-L-fucose synthetase
+super	NC_002163.1	gene	1363196	1364122	.	-	.	locus_tag=Cj1429c;product=hypothetical protein
+super	NC_002163.1	gene	1364126	1364671	.	-	.	locus_tag=Cj1430c;product=putative dTDP-4-dehydrorhamnose 3%2C5-epimerase
+super	NC_002163.1	gene	1364671	1366419	.	-	.	locus_tag=Cj1431c;product=capsular polysaccharide heptosyltransferase
+super	NC_002163.1	gene	1366422	1369517	.	-	.	locus_tag=Cj1432c;product=putative sugar transferase
+super	NC_002163.1	gene	1369527	1370633	.	-	.	locus_tag=Cj1433c;product=hypothetical protein
+super	NC_002163.1	gene	1370667	1372004	.	-	.	locus_tag=Cj1434c;product=putative sugar transferase
+super	NC_002163.1	gene	1372056	1372691	.	-	.	locus_tag=Cj1435c;product=putative phosphatase
+super	NC_002163.1	gene	1372695	1373867	.	-	.	locus_tag=Cj1436c;product=aminotransferase
+super	NC_002163.1	gene	1373917	1375020	.	-	.	locus_tag=Cj1437c;product=aminotransferase
+super	NC_002163.1	gene	1375007	1377337	.	-	.	locus_tag=Cj1438c;product=putative sugar transferase
+super	NC_002163.1	gene	1377339	1378445	.	-	.	locus_tag=Cj1439c;product=UDP-galactopyranose mutase
+super	NC_002163.1	gene	1378483	1379706	.	-	.	locus_tag=Cj1440c;product=putative sugar transferase
+super	NC_002163.1	gene	1379716	1380897	.	-	.	locus_tag=Cj1441c;product=UDP-glucose 6-dehydrogenase
+super	NC_002163.1	gene	1380894	1382528	.	-	.	locus_tag=Cj1442c;product=putative sugar transferase
+super	NC_002163.1	gene	1382528	1383475	.	-	.	locus_tag=Cj1443c;product=D-arabinose 5-phosphate isomerase
+super	NC_002163.1	gene	1383486	1385144	.	-	.	locus_tag=Cj1444c;product=capsule polysaccharide export system periplasmic protein
+super	NC_002163.1	gene	1385146	1386264	.	-	.	locus_tag=Cj1445c;product=capsule polysaccharide export system inner membrane protein
+super	NC_002163.1	gene	1386264	1386926	.	-	.	locus_tag=Cj1447c;product=capsule polysaccharide export ATP-binding protein
+super	NC_002163.1	gene	1386923	1387705	.	-	.	locus_tag=Cj1448c;product=capsule polysaccharide export system inner membrane protein
+super	NC_002163.1	gene	1387777	1388184	.	-	.	locus_tag=Cj1449c;product=hypothetical protein
+super	NC_002163.1	gene	1388259	1388822	.	+	.	locus_tag=Cj1450;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	1388859	1389548	.	+	.	locus_tag=Cj1451;product=dUTPase
+super	NC_002163.1	gene	1389550	1390263	.	+	.	locus_tag=Cj1452;product=putative integral membrane protein
+super	NC_002163.1	gene	1390246	1391211	.	-	.	locus_tag=Cj1453c;product=putative tRNA%28Ile%29-lysidine synthase
+super	NC_002163.1	gene	1391201	1392520	.	-	.	locus_tag=Cj1454c;product=putative radical SAM domain family protein
+super	NC_002163.1	gene	1392594	1393691	.	+	.	locus_tag=Cj1455;product=peptide chain release factor 2
+super	NC_002163.1	gene	1393849	1394163	.	-	.	locus_tag=Cj1456c;product=putative periplasmic protein
+super	NC_002163.1	gene	1394285	1395403	.	-	.	locus_tag=Cj1457c;product=tRNA pseudouridine synthase D
+super	NC_002163.1	gene	1395372	1396193	.	-	.	locus_tag=Cj1458c;product=thiamine monophosphate kinase
+super	NC_002163.1	gene	1396280	1397353	.	+	.	locus_tag=Cj1459;product=hypothetical protein
+super	NC_002163.1	gene	1397350	1397733	.	+	.	locus_tag=Cj1460;product=hypothetical protein
+super	NC_002163.1	gene	1397726	1398409	.	+	.	locus_tag=Cj1461;product=putative DNA methylase
+super	NC_002163.1	gene	1398468	1399514	.	+	.	locus_tag=Cj1462;product=flagellar basal body P-ring protein
+super	NC_002163.1	gene	1399514	1399855	.	+	.	locus_tag=Cj1463;product=hypothetical protein
+super	NC_002163.1	gene	1399918	1400115	.	+	.	locus_tag=Cj1464;product=hypothetical protein
+super	NC_002163.1	gene	1400158	1400592	.	+	.	locus_tag=Cj1465;product=hypothetical protein
+super	NC_002163.1	gene	1400602	1402428	.	+	.	locus_tag=Cj1466;product=flagellar hook-associated protein FlgK
+super	NC_002163.1	gene	1402445	1403209	.	+	.	locus_tag=Cj1467;product=hypothetical protein
+super	NC_002163.1	gene	1403213	1403977	.	+	.	locus_tag=Cj1468;product=putative integral membrane protein
+super	NC_002163.1	gene	1403970	1405150	.	-	.	locus_tag=Cj1470c;product=pseudo
+super	NC_002163.1	gene	1405147	1406706	.	-	.	locus_tag=Cj1471c;product=putative type II protein secretion system E protein
+super	NC_002163.1	gene	1406696	1407283	.	-	.	locus_tag=Cj1472c;product=hypothetical protein
+super	NC_002163.1	gene	1407287	1407895	.	-	.	locus_tag=Cj1473c;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	1407888	1409306	.	-	.	locus_tag=Cj1474c;product=putative type II protein secretion system D protein
+super	NC_002163.1	gene	1409278	1409595	.	-	.	locus_tag=Cj1475c;product=hypothetical protein
+super	NC_002163.1	gene	1409619	1413179	.	-	.	locus_tag=Cj1476c;product=pyruvate-flavodoxin oxidoreductase
+super	NC_002163.1	gene	1413272	1413913	.	-	.	locus_tag=Cj1477c;product=putative hydrolase
+super	NC_002163.1	gene	1413913	1414872	.	-	.	locus_tag=Cj1478c;product=outer membrane fibronectin-binding protein
+super	NC_002163.1	gene	1414997	1415386	.	-	.	locus_tag=Cj1479c;product=30S ribosomal protein S9
+super	NC_002163.1	gene	1415389	1415814	.	-	.	locus_tag=Cj1480c;product=50S ribosomal protein L13
+super	NC_002163.1	gene	1415898	1418663	.	-	.	locus_tag=Cj1481c;product=putative recombination protein RecB
+super	NC_002163.1	gene	1418660	1421026	.	-	.	locus_tag=Cj1482c;product=hypothetical protein
+super	NC_002163.1	gene	1421023	1421544	.	-	.	locus_tag=Cj1483c;product=putative lipoprotein
+super	NC_002163.1	gene	1421531	1422133	.	-	.	locus_tag=Cj1484c;product=hypothetical protein
+super	NC_002163.1	gene	1422130	1422231	.	-	.	locus_tag=Cj1485c;product=putative periplasmic protein
+super	NC_002163.1	gene	1422228	1422449	.	-	.	locus_tag=Cj1486c;product=putative periplasmic protein
+super	NC_002163.1	gene	1422446	1423309	.	-	.	locus_tag=Cj1487c;product=cb-type cytochrome C oxidase subunit III
+super	NC_002163.1	gene	1423309	1423572	.	-	.	locus_tag=Cj1488c;product=cb-type cytochrome C oxidase subunit IV
+super	NC_002163.1	gene	1423577	1424242	.	-	.	locus_tag=Cj1489c;product=cbb3-type cytochrome c oxidase subunit II
+super	NC_002163.1	gene	1424255	1425721	.	-	.	locus_tag=Cj1490c;product=cbb3-type cytochrome c oxidase subunit I
+super	NC_002163.1	gene	1425847	1426527	.	-	.	locus_tag=Cj1491c;product=putative two-component regulator
+super	NC_002163.1	gene	1426530	1427741	.	-	.	locus_tag=Cj1492c;product=putative two-component sensor
+super	NC_002163.1	gene	1427738	1428397	.	-	.	locus_tag=Cj1493c;product=putative integral membrane protein
+super	NC_002163.1	gene	1428394	1429512	.	-	.	locus_tag=Cj1494c;product=carbamoyl phosphate synthase small subunit
+super	NC_002163.1	gene	1429512	1430063	.	-	.	locus_tag=Cj1495c;product=hypothetical protein
+super	NC_002163.1	gene	1430156	1430674	.	-	.	locus_tag=Cj1496c;product=putative periplasmic protein
+super	NC_002163.1	gene	1430667	1431095	.	-	.	locus_tag=Cj1497c;product=hypothetical protein
+super	NC_002163.1	gene	1431092	1432342	.	-	.	locus_tag=Cj1498c;product=adenylosuccinate synthetase
+super	NC_002163.1	gene	1432370	1432467	.	-	.	locus_tag=Cjp26;product=tRNA-Sec
+super	NC_002163.1	gene	1432607	1433815	.	+	.	locus_tag=Cj1500;product=putative inner membrane protein
+super	NC_002163.1	gene	1433819	1434046	.	+	.	locus_tag=Cj1501;product=hypothetical protein
+super	NC_002163.1	gene	1434062	1435549	.	-	.	locus_tag=Cj1502c;product=putative sodium%2Fproline symporter
+super	NC_002163.1	gene	1435549	1439037	.	-	.	locus_tag=Cj1503c;product=putative proline dehydrogenase%2Fdelta-1-pyrroline-5-carboxylate dehydrogenase
+super	NC_002163.1	gene	1439168	1440094	.	-	.	locus_tag=Cj1504c;product=putative selenide%2Cwater dikinase
+super	NC_002163.1	gene	1440200	1440772	.	-	.	locus_tag=Cj1505c;product=putative two-component response regulator
+super	NC_002163.1	gene	1440883	1442985	.	-	.	locus_tag=Cj1506c;product=putative MCP-type signal transduction protein
+super	NC_002163.1	gene	1443095	1443832	.	-	.	locus_tag=Cj1507c;product=putative regulatory protein
+super	NC_002163.1	gene	1443825	1444607	.	-	.	locus_tag=Cj1508c;product=formate dehydrogenase accessory protein
+super	NC_002163.1	gene	1444774	1445706	.	-	.	locus_tag=Cj1509c;product=putative formate dehydrogenase%2C cytochrom B subunit
+super	NC_002163.1	gene	1445703	1446344	.	-	.	locus_tag=Cj1510c;product=putative formate dehydrogenase iron-sulfur subunit
+super	NC_002163.1	gene	1446341	1449145	.	-	.	locus_tag=Cj1511c;product=putative formate dehydrogenase large subunit
+super	NC_002163.1	gene	1449145	1449336	.	-	.	locus_tag=Cj1513c;product=putative periplasmic protein
+super	NC_002163.1	gene	1449311	1450024	.	-	.	locus_tag=Cj1514c;product=hypothetical protein
+super	NC_002163.1	gene	1450328	1451476	.	-	.	locus_tag=Cj1515c;product=putative decarboxylase
+super	NC_002163.1	gene	1451600	1453141	.	+	.	locus_tag=Cj1516;product=putative periplasmic oxidoreductase
+super	NC_002163.1	gene	1453143	1453364	.	+	.	locus_tag=Cj1517;product=putative molybdopterin converting factor subunit 1
+super	NC_002163.1	gene	1453365	1453811	.	+	.	locus_tag=Cj1518;product=putative molybdopterin converting factor subunit 2
+super	NC_002163.1	gene	1453815	1455005	.	+	.	locus_tag=Cj1519;product=putative molybdopterin biosynthesis protein
+super	NC_002163.1	gene	1455569	1456000	.	-	.	locus_tag=Cj1521c;product=putative CRISPR-associated protein
+super	NC_002163.1	gene	1455993	1456883	.	-	.	locus_tag=Cj1522c;product=putative CRISPR-associated protein
+super	NC_002163.1	gene	1456880	1459834	.	-	.	locus_tag=Cj1523c;product=putative CRISPR-associated protein
+super	NC_002163.1	gene	1460037	1461474	.	+	.	locus_tag=Cj1528;product=pseudo
+super	NC_002163.1	gene	1461504	1462493	.	-	.	locus_tag=Cj1529c;product=phosphoribosylaminoimidazole synthetase
+super	NC_002163.1	gene	1462554	1463159	.	+	.	locus_tag=Cj1530;product=dephospho-CoA kinase
+super	NC_002163.1	gene	1463156	1463905	.	+	.	locus_tag=Cj1531;product=diaminopimelate epimerase
+super	NC_002163.1	gene	1463880	1464611	.	+	.	locus_tag=Cj1532;product=putative periplasmic protein
+super	NC_002163.1	gene	1464608	1465645	.	-	.	locus_tag=Cj1533c;product=putative helix-turn-helix containing protein
+super	NC_002163.1	gene	1465710	1466159	.	-	.	locus_tag=Cj1534c;product=putative bacterioferritin
+super	NC_002163.1	gene	1466289	1467509	.	-	.	locus_tag=Cj1535c;product=glucose-6-phosphate isomerase
+super	NC_002163.1	gene	1467503	1468327	.	-	.	locus_tag=Cj1536c;product=UTP--glucose-1-phosphate uridylyltransferase
+super	NC_002163.1	gene	1468409	1470382	.	-	.	locus_tag=Cj1537c;product=acetyl-CoA synthetase
+super	NC_002163.1	gene	1470520	1471515	.	-	.	locus_tag=Cj1538c;product=putative anion-uptake ABC-transport system ATP-binding protein
+super	NC_002163.1	gene	1471517	1472236	.	-	.	locus_tag=Cj1539c;product=putative anion-uptake ABC-transport system permease
+super	NC_002163.1	gene	1472282	1473091	.	+	.	locus_tag=Cj1540;product=putative periplasmic protein
+super	NC_002163.1	gene	1473233	1474000	.	+	.	locus_tag=Cj1541;product=LamB%2FYcsF family protein
+super	NC_002163.1	gene	1474010	1474750	.	+	.	locus_tag=Cj1542;product=putative allophanate hydrolase subunit 1
+super	NC_002163.1	gene	1474731	1475696	.	+	.	locus_tag=Cj1543;product=putative allophanate hydrolase subunit 2
+super	NC_002163.1	gene	1475693	1476589	.	-	.	locus_tag=Cj1544c;product=putative integral membrane protein
+super	NC_002163.1	gene	1476622	1477200	.	-	.	locus_tag=Cj1545c;product=MdaB protein
+super	NC_002163.1	gene	1477300	1477647	.	+	.	locus_tag=Cj1546;product=putative transcriptional regulator
+super	NC_002163.1	gene	1477635	1478084	.	+	.	locus_tag=Cj1547;product=Blc protein
+super	NC_002163.1	gene	1478086	1479162	.	-	.	locus_tag=Cj1548c;product=putative NADP-dependent alcohol dehydrogenase
+super	NC_002163.1	gene	1479390	1482485	.	-	.	locus_tag=Cj1549c;product=putative type I restriction enzyme R protein
+super	NC_002163.1	gene	1482488	1484254	.	-	.	locus_tag=Cj1550c;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	1484265	1485407	.	-	.	locus_tag=Cj1551c;product=putative type I restriction enzyme S protein
+super	NC_002163.1	gene	1485626	1487092	.	-	.	locus_tag=Cj1552c;product=hypothetical protein
+super	NC_002163.1	gene	1487089	1488591	.	-	.	locus_tag=Cj1553c;product=putative type I restriction enzyme M protein
+super	NC_002163.1	gene	1488961	1489596	.	-	.	locus_tag=Cj1555c;product=hypothetical protein
+super	NC_002163.1	gene	1489789	1490121	.	+	.	locus_tag=Cj1556;product=putative transcriptional regulator
+super	NC_002163.1	gene	1490206	1490379	.	+	.	locus_tag=Cj1558;product=hypothetical protein
+super	NC_002163.1	gene	1490328	1491152	.	+	.	locus_tag=Cj1560;product=pseudo
+super	NC_002163.1	gene	1491162	1491341	.	+	.	locus_tag=Cj1561;product=putative transcriptional regulator
+super	NC_002163.1	gene	1491332	1491484	.	+	.	locus_tag=Cj1562;product=hypothetical protein
+super	NC_002163.1	gene	1491492	1491923	.	-	.	locus_tag=Cj1563c;product=putative transcriptional regulator
+super	NC_002163.1	gene	1492003	1493991	.	+	.	locus_tag=Cj1564;product=putative methyl-accepting chemotaxis signal transduction protein
+super	NC_002163.1	gene	1494034	1496400	.	-	.	locus_tag=Cj1565c;product=paralysed flagellum protein
+super	NC_002163.1	gene	1496422	1497810	.	-	.	locus_tag=Cj1566c;product=NADH dehydrogenase I chain N
+super	NC_002163.1	gene	1497800	1499287	.	-	.	locus_tag=Cj1567c;product=NADH dehydrogenase I chain M
+super	NC_002163.1	gene	1499289	1501079	.	-	.	locus_tag=Cj1568c;product=NADH dehydrogenase subunit L
+super	NC_002163.1	gene	1501081	1501377	.	-	.	locus_tag=Cj1569c;product=NADH dehydrogenase I chain K
+super	NC_002163.1	gene	1501374	1501892	.	-	.	locus_tag=Cj1570c;product=NADH dehydrogenase subunit J
+super	NC_002163.1	gene	1501889	1502530	.	-	.	locus_tag=Cj1571c;product=NADH dehydrogenase subunit I
+super	NC_002163.1	gene	1502540	1503538	.	-	.	locus_tag=Cj1572c;product=NADH dehydrogenase subunit H
+super	NC_002163.1	gene	1503531	1505993	.	-	.	locus_tag=Cj1573c;product=NADH dehydrogenase subunit G
+super	NC_002163.1	gene	1505990	1506682	.	-	.	locus_tag=Cj1574c;product=hypothetical protein
+super	NC_002163.1	gene	1506679	1506906	.	-	.	locus_tag=Cj1575c;product=hypothetical protein
+super	NC_002163.1	gene	1506903	1508129	.	-	.	locus_tag=Cj1576c;product=NADH dehydrogenase subunit D
+super	NC_002163.1	gene	1508131	1508925	.	-	.	locus_tag=Cj1577c;product=NADH dehydrogenase subunit C
+super	NC_002163.1	gene	1508922	1509425	.	-	.	locus_tag=Cj1578c;product=NADH dehydrogenase subunit B
+super	NC_002163.1	gene	1509407	1509796	.	-	.	locus_tag=Cj1579c;product=NADH dehydrogenase subunit A
+super	NC_002163.1	gene	1509909	1510574	.	-	.	locus_tag=Cj1580c;product=putative peptide ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1510567	1511277	.	-	.	locus_tag=Cj1581c;product=putative peptide ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1511274	1512068	.	-	.	locus_tag=Cj1582c;product=putative peptide ABC transporter permease
+super	NC_002163.1	gene	1512055	1512999	.	-	.	locus_tag=Cj1583c;product=putative peptide ABC transporter permease
+super	NC_002163.1	gene	1512999	1514534	.	-	.	locus_tag=Cj1584c;product=putative peptide ABC transporter periplasmic peptide-binding protein
+super	NC_002163.1	gene	1514644	1517415	.	-	.	locus_tag=Cj1585c;product=putative oxidoreductase
+super	NC_002163.1	gene	1517567	1517989	.	+	.	locus_tag=Cj1586;product=single domain haemoglobin
+super	NC_002163.1	gene	1518009	1519640	.	-	.	locus_tag=Cj1587c;product=multidrug transporter membrane component%2FATP-binding component
+super	NC_002163.1	gene	1519690	1520985	.	-	.	locus_tag=Cj1588c;product=putative MFS transport protein
+super	NC_002163.1	gene	1521072	1521869	.	+	.	locus_tag=Cj1589;product=hypothetical protein
+super	NC_002163.1	gene	1521957	1522175	.	+	.	locus_tag=Cj1590;product=translation initiation factor IF-1
+super	NC_002163.1	gene	1522347	1522460	.	+	.	locus_tag=Cj1591;product=50S ribosomal protein L36
+super	NC_002163.1	gene	1522463	1522828	.	+	.	locus_tag=Cj1592;product=30S ribosomal protein S13
+super	NC_002163.1	gene	1522838	1523230	.	+	.	locus_tag=Cj1593;product=30S ribosomal protein S11
+super	NC_002163.1	gene	1523258	1523884	.	+	.	locus_tag=Cj1594;product=30S ribosomal protein S4
+super	NC_002163.1	gene	1523897	1524910	.	+	.	locus_tag=Cj1595;product=DNA-directed RNA polymerase subunit alpha
+super	NC_002163.1	gene	1524914	1525267	.	+	.	locus_tag=Cj1596;product=50S ribosomal protein L17
+super	NC_002163.1	gene	1525440	1526339	.	+	.	locus_tag=Cj1597;product=ATP phosphoribosyltransferase
+super	NC_002163.1	gene	1526347	1527633	.	+	.	locus_tag=Cj1598;product=histidinol dehydrogenase
+super	NC_002163.1	gene	1527630	1528688	.	+	.	locus_tag=Cj1599;product=imidazole glycerol-phosphate dehydratase%2Fhistidinol phosphatase
+super	NC_002163.1	gene	1528685	1529272	.	+	.	locus_tag=Cj1600;product=imidazole glycerol phosphate synthase subunit HisH
+super	NC_002163.1	gene	1529269	1530000	.	+	.	locus_tag=Cj1601;product=1-%285-phosphoribosyl%29-5-%5B%285-phosphoribosylamino%29methylideneamino%5D imidazole-4-carboxamide isomerase
+super	NC_002163.1	gene	1529985	1530941	.	+	.	locus_tag=Cj1602;product=hypothetical protein
+super	NC_002163.1	gene	1530942	1531709	.	+	.	locus_tag=Cj1603;product=imidazole glycerol phosphate synthase subunit HisF
+super	NC_002163.1	gene	1531711	1532334	.	+	.	locus_tag=Cj1604;product=bifunctional phosphoribosyl-AMP cyclohydrolase%2Fphosphoribosyl-ATP pyrophosphatase protein
+super	NC_002163.1	gene	1532359	1533519	.	-	.	locus_tag=Cj1605c;product=putative 2%2C3%2C4%2C5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+super	NC_002163.1	gene	1533545	1534651	.	-	.	locus_tag=Cj1606c;product=putative ATP%2FGTP-binding protein
+super	NC_002163.1	gene	1534774	1535889	.	+	.	locus_tag=Cj1607;product=bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase%2F2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase protein
+super	NC_002163.1	gene	1535886	1536773	.	+	.	locus_tag=Cj1608;product=putative two-component regulator
+super	NC_002163.1	gene	1536751	1537911	.	+	.	locus_tag=Cj1609;product=putative sulfate adenylyltransferase
+super	NC_002163.1	gene	1537916	1538416	.	+	.	locus_tag=Cj1610;product=putative phosphatidylglycerophosphatase
+super	NC_002163.1	gene	1538495	1538758	.	+	.	locus_tag=Cj1611;product=30S ribosomal protein S20
+super	NC_002163.1	gene	1538777	1539844	.	+	.	locus_tag=Cj1612;product=peptide chain release factor 1
+super	NC_002163.1	gene	1539858	1540613	.	-	.	locus_tag=Cj1613c;product=putative pyridoxamine 5%27-phosphate oxidase
+super	NC_002163.1	gene	1540807	1542936	.	+	.	locus_tag=Cj1614;product=haemin uptake system outer membrane receptor
+super	NC_002163.1	gene	1542911	1543897	.	+	.	locus_tag=Cj1615;product=putative hemin uptake system permease
+super	NC_002163.1	gene	1543897	1544673	.	+	.	locus_tag=Cj1616;product=putative hemin uptake system ATP-binding protein
+super	NC_002163.1	gene	1544670	1545476	.	+	.	locus_tag=Cj1617;product=putative hemin uptake system periplasmic hemin-binding protein
+super	NC_002163.1	gene	1545473	1546390	.	-	.	locus_tag=Cj1618c;product=putative radical SAM domain protein
+super	NC_002163.1	gene	1546496	1547755	.	+	.	locus_tag=Cj1619;product=alpha-ketoglutarate permease
+super	NC_002163.1	gene	1547741	1548760	.	-	.	locus_tag=Cj1620c;product=A%2FG-specific adenine glycosylase
+super	NC_002163.1	gene	1548833	1549585	.	+	.	locus_tag=Cj1621;product=putative periplasmic protein
+super	NC_002163.1	gene	1549657	1549731	.	+	.	locus_tag=Cjp27;product=tRNA-Gly
+super	NC_002163.1	gene	1549741	1549829	.	+	.	locus_tag=Cjp28;product=tRNA-Leu
+super	NC_002163.1	gene	1549848	1549921	.	+	.	locus_tag=Cjp29;product=tRNA-Cys
+super	NC_002163.1	gene	1549943	1550030	.	+	.	locus_tag=Cjp30;product=tRNA-Ser
+super	NC_002163.1	gene	1550235	1551245	.	+	.	locus_tag=Cj1622;product=riboflavin-specific deaminase%2Freductase
+super	NC_002163.1	gene	1551226	1551747	.	+	.	locus_tag=Cj1623;product=hypothetical protein
+super	NC_002163.1	gene	1551755	1553119	.	-	.	locus_tag=Cj1624c;product=L-serine dehydratase
+super	NC_002163.1	gene	1553134	1554384	.	-	.	locus_tag=Cj1625c;product=amino acid transporter
+super	NC_002163.1	gene	1554644	1555060	.	-	.	locus_tag=Cj1626c;product=putative periplasmic protein
+super	NC_002163.1	gene	1555124	1555867	.	-	.	locus_tag=Cj1627c;product=hypothetical protein
+super	NC_002163.1	gene	1556025	1556450	.	+	.	locus_tag=Cj1628;product=putative exbB%2FtolQ family transport protein
+super	NC_002163.1	gene	1556443	1556832	.	+	.	locus_tag=Cj1629;product=putative exbD%2FtolR family transport protein
+super	NC_002163.1	gene	1556829	1557512	.	+	.	locus_tag=Cj1630;product=putative TonB transport protein
+super	NC_002163.1	gene	1557525	1558394	.	-	.	locus_tag=Cj1631c;product=hypothetical protein
+super	NC_002163.1	gene	1558398	1558559	.	-	.	locus_tag=Cj1632c;product=putative periplasmic protein
+super	NC_002163.1	gene	1558654	1559637	.	+	.	locus_tag=Cj1633;product=putative ATP-binding protein
+super	NC_002163.1	gene	1559723	1560811	.	-	.	locus_tag=Cj1634c;product=chorismate synthase
+super	NC_002163.1	gene	1560811	1561485	.	-	.	locus_tag=Cj1635c;product=ribonuclease III
+super	NC_002163.1	gene	1561472	1561912	.	-	.	locus_tag=Cj1636c;product=ribonuclease H
+super	NC_002163.1	gene	1561899	1562885	.	-	.	locus_tag=Cj1637c;product=putative periplasmic protein
+super	NC_002163.1	gene	1562955	1564772	.	+	.	locus_tag=Cj1638;product=DNA primase
+super	NC_002163.1	gene	1564854	1565126	.	+	.	locus_tag=Cj1639;product=NifU protein
+super	NC_002163.1	gene	1565113	1565664	.	+	.	locus_tag=Cj1640;product=hypothetical protein
+super	NC_002163.1	gene	1565648	1566931	.	+	.	locus_tag=Cj1641;product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase
+super	NC_002163.1	gene	1566935	1567246	.	+	.	locus_tag=Cj1642;product=hypothetical protein
+super	NC_002163.1	gene	1567243	1568337	.	+	.	locus_tag=Cj1643;product=putative periplasmic protein
+super	NC_002163.1	gene	1568334	1569179	.	+	.	locus_tag=Cj1644;product=geranyltranstransferase
+super	NC_002163.1	gene	1569190	1571088	.	+	.	locus_tag=Cj1645;product=transketolase
+super	NC_002163.1	gene	1571090	1572199	.	+	.	locus_tag=Cj1646;product=putative ABC transporter permease
+super	NC_002163.1	gene	1572200	1572922	.	+	.	locus_tag=Cj1647;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1572925	1573815	.	+	.	locus_tag=Cj1648;product=putative ABC transporter periplasmic substrate-binding protein
+super	NC_002163.1	gene	1573815	1574414	.	+	.	locus_tag=Cj1649;product=putative lipoprotein
+super	NC_002163.1	gene	1574470	1574970	.	+	.	locus_tag=Cj1650;product=hypothetical protein
+super	NC_002163.1	gene	1575339	1576097	.	-	.	locus_tag=Cj1651c;product=methionine aminopeptidase
+super	NC_002163.1	gene	1576099	1576851	.	-	.	locus_tag=Cj1652c;product=glutamate racemase
+super	NC_002163.1	gene	1576853	1577311	.	-	.	locus_tag=Cj1653c;product=putative lipoprotein
+super	NC_002163.1	gene	1577320	1578489	.	-	.	locus_tag=Cj1654c;product=pH-dependent sodium%2Fproton antiporter
+super	NC_002163.1	gene	1578486	1579634	.	-	.	locus_tag=Cj1655c;product=Na%28%2B%29%2FH%28%2B%29 antiporter
+super	NC_002163.1	gene	1579777	1579959	.	-	.	locus_tag=Cj1656c;product=hypothetical protein
+super	NC_002163.1	gene	1580836	1582926	.	+	.	locus_tag=Cj1658;product=putative iron permease
+super	NC_002163.1	gene	1582923	1583462	.	+	.	locus_tag=Cj1659;product=periplasmic protein p19
+super	NC_002163.1	gene	1583545	1584948	.	+	.	locus_tag=Cj1660;product=putative integral membrane protein
+super	NC_002163.1	gene	1584935	1586227	.	+	.	locus_tag=Cj1661;product=putative ABC transporter permease
+super	NC_002163.1	gene	1586217	1587335	.	+	.	locus_tag=Cj1662;product=putative integral membrane protein
+super	NC_002163.1	gene	1587332	1587985	.	+	.	locus_tag=Cj1663;product=putative ABC transporter ATP-binding protein
+super	NC_002163.1	gene	1587982	1588470	.	+	.	locus_tag=Cj1664;product=putative periplasmic thiredoxin
+super	NC_002163.1	gene	1588431	1588934	.	+	.	locus_tag=Cj1665;product=putative lipoprotein thiredoxin
+super	NC_002163.1	gene	1588944	1589381	.	-	.	locus_tag=Cj1666c;product=putative periplasmic protein
+super	NC_002163.1	gene	1589462	1589614	.	-	.	locus_tag=Cj1667c;product=RepA protein
+super	NC_002163.1	gene	1589680	1590096	.	-	.	locus_tag=Cj1668c;product=putative periplasmic protein
+super	NC_002163.1	gene	1590271	1590355	.	-	.	locus_tag=Cjt05;product=tRNA-Leu
+super	NC_002163.1	gene	1590360	1590436	.	-	.	locus_tag=Cjt3;product=tRNA-Arg
+super	NC_002163.1	gene	1590451	1590527	.	-	.	locus_tag=Cjt4;product=tRNA-Arg
+super	NC_002163.1	gene	1590531	1590607	.	-	.	locus_tag=Cjp32;product=tRNA-His
+super	NC_002163.1	gene	1590632	1590709	.	-	.	locus_tag=Cjp33;product=tRNA-Pro
+super	NC_002163.1	gene	1590752	1591600	.	-	.	locus_tag=Cj1669c;product=DNA ligase
+super	NC_002163.1	gene	1591600	1592262	.	-	.	locus_tag=Cj1670c;product=putative periplasmic protein
+super	NC_002163.1	gene	1592252	1592455	.	-	.	locus_tag=Cj1671c;product=hypothetical protein
+super	NC_002163.1	gene	1592521	1593765	.	-	.	locus_tag=Cj1672c;product=phosphopyruvate hydratase
+super	NC_002163.1	gene	1593765	1594796	.	-	.	locus_tag=Cj1673c;product=recombinase A
+super	NC_002163.1	gene	1594902	1595762	.	+	.	locus_tag=Cj1674;product=hypothetical protein
+super	NC_002163.1	gene	1595774	1596043	.	+	.	locus_tag=Cj1675;product=flagellar biosynthesis protein FliQ
+super	NC_002163.1	gene	1596040	1596816	.	+	.	locus_tag=Cj1676;product=UDP-N-acetylenolpyruvoylglucosamine reductase
+super	NC_002163.1	gene	1597008	1600372	.	+	.	locus_tag=Cj1677;product=putative lipoprotein
+super	NC_002163.1	gene	1600574	1602328	.	+	.	locus_tag=Cj1679;product=hypothetical protein
+super	NC_002163.1	gene	1602332	1603099	.	-	.	locus_tag=Cj1680c;product=putative periplasmic protein
+super	NC_002163.1	gene	1603139	1603903	.	-	.	locus_tag=Cj1681c;product=CysQ protein
+super	NC_002163.1	gene	1603983	1605251	.	-	.	locus_tag=Cj1682c;product=citrate synthase
+super	NC_002163.1	gene	1605366	1606541	.	-	.	locus_tag=Cj1684c;product=putative transmembrane transport protein
+super	NC_002163.1	gene	1606522	1607358	.	-	.	locus_tag=Cj1685c;product=biotin synthase
+super	NC_002163.1	gene	1607360	1609462	.	-	.	locus_tag=Cj1686c;product=DNA topoisomerase I
+super	NC_002163.1	gene	1609657	1610928	.	+	.	locus_tag=Cj1687;product=putative efflux protein
+super	NC_002163.1	gene	1610956	1612221	.	-	.	locus_tag=Cj1688c;product=preprotein translocase subunit SecY
+super	NC_002163.1	gene	1612221	1612613	.	-	.	locus_tag=Cj1689c;product=50S ribosomal protein L15
+super	NC_002163.1	gene	1612618	1613061	.	-	.	locus_tag=Cj1690c;product=30S ribosomal protein S5
+super	NC_002163.1	gene	1613073	1613429	.	-	.	locus_tag=Cj1691c;product=50S ribosomal protein L18
+super	NC_002163.1	gene	1613439	1613975	.	-	.	locus_tag=Cj1692c;product=50S ribosomal protein L6
+super	NC_002163.1	gene	1614054	1614449	.	-	.	locus_tag=Cj1693c;product=30S ribosomal protein S8
+super	NC_002163.1	gene	1614459	1614644	.	-	.	locus_tag=Cj1694c;product=30S ribosomal protein S14
+super	NC_002163.1	gene	1614646	1615191	.	-	.	locus_tag=Cj1695c;product=50S ribosomal protein L5
+super	NC_002163.1	gene	1615195	1615428	.	-	.	locus_tag=Cj1696c;product=50S ribosomal protein L24
+super	NC_002163.1	gene	1615428	1615796	.	-	.	locus_tag=Cj1697c;product=50S ribosomal protein L14
+super	NC_002163.1	gene	1615796	1616047	.	-	.	locus_tag=Cj1698c;product=30S ribosomal protein S17
+super	NC_002163.1	gene	1616057	1616242	.	-	.	locus_tag=Cj1699c;product=50S ribosomal protein L29
+super	NC_002163.1	gene	1616229	1616654	.	-	.	locus_tag=Cj1700c;product=50S ribosomal protein L16
+super	NC_002163.1	gene	1616657	1617358	.	-	.	locus_tag=Cj1701c;product=30S ribosomal protein S3
+super	NC_002163.1	gene	1617358	1617783	.	-	.	locus_tag=Cj1702c;product=50S ribosomal protein L22
+super	NC_002163.1	gene	1617794	1618075	.	-	.	locus_tag=Cj1703c;product=30S ribosomal protein S19
+super	NC_002163.1	gene	1618077	1618907	.	-	.	locus_tag=Cj1704c;product=50S ribosomal protein L2
+super	NC_002163.1	gene	1618909	1619190	.	-	.	locus_tag=Cj1705c;product=50S ribosomal protein L23
+super	NC_002163.1	gene	1619193	1619807	.	-	.	locus_tag=Cj1706c;product=50S ribosomal protein L4
+super	NC_002163.1	gene	1619804	1620379	.	-	.	locus_tag=Cj1707c;product=50S ribosomal protein L3
+super	NC_002163.1	gene	1620389	1620700	.	-	.	locus_tag=Cj1708c;product=30S ribosomal protein S10
+super	NC_002163.1	gene	1620899	1621660	.	-	.	locus_tag=Cj1709c;product=putative ribosomal pseudouridine synthase
+super	NC_002163.1	gene	1621696	1623690	.	-	.	locus_tag=Cj1710c;product=putative metallo-beta-lactamase family protein
+super	NC_002163.1	gene	1623659	1624459	.	-	.	locus_tag=Cj1711c;product=dimethyladenosine transferase
+super	NC_002163.1	gene	1624541	1625077	.	+	.	locus_tag=Cj1712;product=hypothetical protein
+super	NC_002163.1	gene	1625100	1626170	.	+	.	locus_tag=Cj1713;product=ribosomal RNA large subunit methyltransferase N
+super	NC_002163.1	gene	1626167	1626265	.	+	.	locus_tag=Cj1714;product=hypothetical protein
+super	NC_002163.1	gene	1626279	1626355	.	-	.	locus_tag=Cjp34;product=tRNA-Met
+super	NC_002163.1	gene	1626491	1626578	.	+	.	locus_tag=Cjt06;product=tRNA-Ser
+super	NC_002163.1	gene	1626625	1626700	.	+	.	locus_tag=Cjp35;product=tRNA-Ala
+super	NC_002163.1	gene	1626704	1626779	.	+	.	locus_tag=Cjp36;product=tRNA-Val
+super	NC_002163.1	gene	1626807	1627337	.	+	.	locus_tag=Cj1715;product=putative acetyltransferase
+super	NC_002163.1	gene	1627317	1627919	.	-	.	locus_tag=Cj1716c;product=isopropylmalate isomerase small subunit
+super	NC_002163.1	gene	1627921	1629333	.	-	.	locus_tag=Cj1717c;product=isopropylmalate isomerase large subunit
+super	NC_002163.1	gene	1629320	1630396	.	-	.	locus_tag=Cj1718c;product=3-isopropylmalate dehydrogenase
+super	NC_002163.1	gene	1630393	1631928	.	-	.	locus_tag=Cj1719c;product=2-isopropylmalate synthase
+super	NC_002163.1	gene	1632248	1632877	.	+	.	locus_tag=Cj1720;product=hypothetical protein
+super	NC_002163.1	gene	1632901	1633545	.	-	.	locus_tag=Cj1721c;product=putative outer membrane protein
+super	NC_002163.1	gene	1633791	1633892	.	-	.	locus_tag=Cj1722c;product=hypothetical protein
+super	NC_002163.1	gene	1633895	1634119	.	-	.	locus_tag=Cj1723c;product=putative periplasmic protein
+super	NC_002163.1	gene	1634296	1634679	.	-	.	locus_tag=Cj1724c;product=7-cyano-7-deazaguanine reductase
+super	NC_002163.1	gene	1634839	1635438	.	+	.	locus_tag=Cj1725;product=putative periplasmic protein
+super	NC_002163.1	gene	1635443	1636324	.	-	.	locus_tag=Cj1726c;product=homoserine O-succinyltransferase
+super	NC_002163.1	gene	1636407	1637678	.	-	.	locus_tag=Cj1727c;product=putative O-acetylhomoserine %28thiol%29-lyase
+super	NC_002163.1	gene	1637923	1638078	.	-	.	locus_tag=Cj1728c;product=hypothetical protein
+super	NC_002163.1	gene	1638104	1640701	.	-	.	locus_tag=Cj1729c;product=flagellar hook protein FlgE
+super	NC_002163.1	gene	1640904	1641386	.	-	.	locus_tag=Cj1731c;product=Holliday junction resolvase
+super	NC_002163.1	gene	94249	94344	.	+	.	locus_tag=CjNC1;product=CjNC1
+super	NC_002163.1	gene	1188925	1188997	.	+	.	locus_tag=CjNC3;product=CjNC3
+super	NC_002163.1	gene	1559676	1559722	.	+	.	locus_tag=CjNC4;product=CjNC4
+super	NC_002163.1	gene	591313	591426	.	+	.	locus_tag=CjNC5;product=CjNC5
+super	NC_002163.1	gene	1600382	1600468	.	+	.	locus_tag=CjNC6;product=CjNC6
+super	NC_002163.1	gene	1575042	1575257	.	-	.	locus_tag=CjNC8;product=CjNC8
+super	NC_002163.1	gene	38679	38730	.	-	.	locus_tag=CjNC9;product=CjNC9
+super	NC_002163.1	gene	245225	245380	.	-	.	locus_tag=CjNC10;product=CjNC10
+super	NC_002163.1	gene	1179587	1179772	.	+	.	locus_tag=6S_RNA;product=6S_RNA
+super	NC_002163.1	gene	66641	66748	.	+	.	locus_tag=SRP_RNA_Cjs03;product=SRP_RNA_Cjs03
+super	NC_002163.1	gene	513137	513453	.	-	.	locus_tag=rnpB;product=rnpB
+super	NC_002163.1	gene	1293300	1293658	.	-	.	locus_tag=tmRNA;product=tmRNA
+super	NC_002163.1	gene	1455167	1455204	.	+	.	locus_tag=CRISPR_11168_1;product=CRISPR_11168_1
+super	NC_002163.1	gene	1455232	1455269	.	+	.	locus_tag=CRISPR_11168_2;product=CRISPR_11168_2
+super	NC_002163.1	gene	1455299	1455336	.	+	.	locus_tag=CRISPR_11168_3;product=CRISPR_11168_3
+super	NC_002163.1	gene	1455363	1455400	.	+	.	locus_tag=CRISPR_11168_4;product=CRISPR_11168_4
+super	NC_002163.1	gene	1455497	1455570	.	+	.	locus_tag=TracrRNA;product=TracrRNA
+super	NC_002163.1	gene	83111	83265	.	-	.	locus_tag=CjNC11;product=CjNC11
+super	NC_002163.1	gene	418415	418550	.	+	.	locus_tag=TPP;product=TPP
+super	NC_002163.1	gene	591356	591456	.	-	.	locus_tag=CjNC21;product=CjNC21
+super	NC_002163.1	gene	1600394	1600490	.	-	.	locus_tag=CjNC21;product=CjNC21
+super	NC_002163.1	gene	613072	613202	.	-	.	locus_tag=CjNC12;product=CjNC12
+super	NC_002163.1	gene	671518	671798	.	-	.	locus_tag=CjNC13;product=CjNC13
+super	NC_002163.1	gene	878078	878135	.	+	.	locus_tag=CjNC19;product=CjNC19
+super	NC_002163.1	gene	878475	878520	.	+	.	locus_tag=CjNC19_2;product=CjNC19_2
+super	NC_002163.1	gene	1029434	1029534	.	+	.	locus_tag=CjNC14;product=CjNC14
+super	NC_002163.1	gene	1127994	1128130	.	+	.	locus_tag=CjNC15;product=CjNC15
+super	NC_002163.1	gene	1128061	1128196	.	-	.	locus_tag=CjNC18;product=CjNC18
+super	NC_002163.1	gene	1575014	1575112	.	+	.	locus_tag=CjNC16;product=CjNC16
+super	NC_002163.1	gene	1637942	1638039	.	-	.	locus_tag=CjNC23;product=CjNC23
+super	NC_002163.1	gene	707488	707584	.	-	.	locus_tag=CjNC22;product=CjNC22
+super	NC_002163.1	gene	906748	907066	.	-	.	locus_tag=Intergenic_906748_907066;product=Intergenic_906748_907066
