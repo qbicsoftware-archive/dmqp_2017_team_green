@@ -1,1 +1,4 @@
 2017-06-09 10:17:36	3m 6s	desperate_edison	OK	d8a6c2d109bbd1e894e6518b2104b993	c3a4ae97-b319-475a-872f-b2164bc1028f	nextflow run conversion.nf
+2017-06-09 11:27:05	1s	stoic_pasteur	ERR	e90ab8547ec6cc4e20f04221fff21f47	1a650ebb-80fe-41a3-9c1c-f75fecc2a72b	nextflow run conversion.nf
+2017-06-09 11:29:10	1.1s	jovial_gates	ERR	cc34bdb57aa7326be2366d50cc737052	ad98ae8a-6335-4816-bb80-d8424908e2ee	nextflow run conversion.nf
+2017-06-09 11:29:53	3.6s	prickly_ritchie	ERR	cc34bdb57aa7326be2366d50cc737052	09643b4d-e8a6-4730-941f-430b60b391d3	nextflow run conversion.nf
