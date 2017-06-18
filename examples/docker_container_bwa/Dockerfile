@@ -15,6 +15,8 @@ RUN yum -y install epel-release-latest-7.noarch.rpm
 RUN yum -y install bwa
 RUN yum -y install samtools
 
+RUN ls
+
 #Run bwa and samtools
 ENTRYPOINT bwa index NC_002163.fa && \
 bwa mem NC_002163.fa SRR5646900_1.fastq SRR5646900_2.fastq > mapper_result.sam && \
