@@ -13,26 +13,43 @@ log.info "====================================="
 log.info "Start TSS prediction workflow ..."
 
 process mapper {
+
+    output:
+    file mapper_output
+
     script:
     //
     // Start Mapping
     //
     """
-        docker run -v ${params.output}:/data mapper
+        docker run -e "FASTA=${params.fasta}" -e "FASTQ_1=${params.fastq1}" -e "FASTQ_2=${params.fastq2}" -v ${params.output}:/data mapper > mapper_output
     """
 }
 
+log.info "Mapping successful"
+
 process conversion {
+
+    input:
+    file mapper_output
+
+    output:
+    file conversion_output
+
     script:
     //
     // Start Conversion
     //
     """
-        docker run --rm -v ${params.output}:/data tsstools
+        docker run -e "BAM_FILE=${params.bam}" -v ${params.output}:/data tsstools > conversion_output
     """
 }
 
 process tsspredator{
+
+  input:
+  file conversion_output
+
  script:
     //
     // Start TSSpredator
