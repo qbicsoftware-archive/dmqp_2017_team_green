@@ -20,4 +20,4 @@ ENTRYPOINT bwa index ${FASTA} && \
 bwa mem -t ${THREADS} -k ${SEED_LEN} -A ${MATCH} -B ${MISMATCH} -O ${GAP_OPEN} -E ${GAP_EXT} ${FASTA} ${FASTQ_1} ${FASTQ_2} > mapper_result.sam && \
 rm *.amb && rm *.ann && rm *.bwt && rm *.pac && rm *.sa && \
 samtools view -bS mapper_result.sam | samtools sort - ${BAM} && \
-rm *.sam
+rm *.sam && mv ${BAM}.bam ${BAM}
