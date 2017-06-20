@@ -30,7 +30,7 @@ process mapper {
     // Start Mapping
     //
     """
-        docker run -e "FASTA=${params.fasta}" -e "FASTQ_1=${params.fastq1}" -e "FASTQ_2=${params.fastq2}" -v ${params.output}:/data mapper > mapper_output
+        docker run -e 'FASTA=${params.fasta}' -e 'FASTQ_1=${params.fastq1}' -e 'FASTQ_2=${params.fastq2}' -e 'THREADS=${params.threads}' -e 'SEED_LEN=${params.seed_len}' -e 'MATCH=${params.match}'  -e 'MISMATCH=${params.mismatch}' -e 'GAP_OPEN=${params.gap_open}' -e 'GAP_EXT=${params.gap_ext}' -e 'BAM=${params.bam}' -v ${params.output}:/data mapper > mapper_output
     """
 }
 
@@ -49,7 +49,7 @@ process conversion {
     // Start Conversion
     //
     """
-        docker run -e "BAM_FILE=${params.bam}" -v ${params.output}:/data tsstools > conversion_output
+        docker run -e 'BAM_FILE=${params.bam}' -v ${params.output}:/data tsstools > conversion_output
     """
 }
 
@@ -63,6 +63,6 @@ process tsspredator{
     // Start TSSpredator
     //
     """
-        docker run -v ${params.output}:/data tsspredator
+        docker run -e 'SPACE=${params.heap}' -e 'CONFIG=${params.config_tsspredator}' -v ${params.output}:/data tsspredator
     """
 }
