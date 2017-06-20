@@ -15,6 +15,6 @@ Run yum -y install java
 # Download tsstools
 RUN wget https://lambda.informatik.uni-tuebingen.de/nexus/content/repositories/releases/org/unituebingen/it/tsstools/1.0beta/tsstools-1.0beta-dependencies.jar -O tsstools.jar
 
-# Run tsstools with mapper result
-ENTRYPOINT java -jar tsstools.jar -i ${DATA_DIR}/mapper_result.sorted.bam -o ${DATA_DIR} -w
+# Run tsstools with mapper result (normal and enriched)
+ENTRYPOINT java -jar tsstools.jar -i ${DATA_DIR}/${BAM_FILE} -o ${DATA_DIR} -w
 
