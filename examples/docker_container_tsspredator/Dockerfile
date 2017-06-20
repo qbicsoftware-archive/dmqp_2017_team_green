@@ -17,4 +17,4 @@ RUN yum -y install java
 
 RUN wget https://lambda.informatik.uni-tuebingen.de/nexus/content/repositories/releases/org/uni-tuebingen/it/TSSpredator/1.06/TSSpredator-1.06.jar -O TSSpredator-1.06.jar
 
-ENTRYPOINT java -jar TSSpredator-1.06.jar /data/config.conf
+ENTRYPOINT java -Xmx${SPACE} -jar TSSpredator-1.06.jar /data/${CONFIG}
