@@ -20,26 +20,40 @@ log.info "\n"
 log.info "====================================="
 log.info "Start TSS prediction workflow ..."
 
-process mapper {
-
-    output:
-    file mapper_output
+process bwa {
+  output:
+  file bwa_output
 
     script:
     //
-    // Start Mapping
+    // Start BWA
     //
     """
-        docker run -e 'FASTA=${params.fasta}' -e 'FASTQ_1=${params.fastq1}' -e 'FASTQ_2=${params.fastq2}' -e 'THREADS=${params.threads}' -e 'SEED_LEN=${params.seed_len}' -e 'MATCH=${params.match}'  -e 'MISMATCH=${params.mismatch}' -e 'GAP_OPEN=${params.gap_open}' -e 'GAP_EXT=${params.gap_ext}' -e 'BAM=${params.bam}' -v ${params.data}:/data mapper > mapper_output
+        docker pull spaethju/bwa && docker run --rm -e 'FASTA=${params.fasta}' -e 'FASTQ_1=${params.fastq1}' -e 'FASTQ_2=${params.fastq2}' -e 'THREADS=${params.threads}' -e 'SEED_LEN=${params.seed_len}' -e 'MATCH=${params.match}'  -e 'MISMATCH=${params.mismatch}' -e 'GAP_OPEN=${params.gap_open}' -e 'GAP_EXT=${params.gap_ext}' -e 'SAM=${params.sam}' -v ${params.data}:/data spaethju/bwa > bwa_output
     """
 }
 
-log.info "Mapping successful"
+process samtools {
+
+    input:
+    file bwa_output
+
+    output:
+    file samtools_output
+
+    script:
+    //
+    // Start Samtools
+    //
+    """
+        docker pull spaethju/samtools && docker run --rm -e 'SAM=${params.sam}' -e 'BAM=${params.bam}' -e 'POSITIVE=${params.positive}' -e 'NEGATIVE=${params.negative}' -v ${params.data}:/data spaethju/samtools > samtools_output
+    """
+}
 
 process conversion {
 
     input:
-    file mapper_output
+    file samtools_output
 
     output:
     file conversion_output
@@ -49,7 +63,7 @@ process conversion {
     // Start Conversion
     //
     """
-        docker run -e 'BAM_FILE=${params.bam}' -v ${params.data}:/data tsstools > conversion_output
+        docker run --rm -e 'BAM_FILE=${params.bam}' -v ${params.data}:/data spaethju/tsstools > conversion_output
     """
 }
 
@@ -63,6 +77,6 @@ process tsspredator{
     // Start TSSpredator
     //
     """
-        docker run -e 'SPACE=${params.heap}' -e 'CONFIG=${params.config_tsspredator}' -v ${params.data}:/data tsspredator
+        docker run --rm -e 'SPACE=${params.heap}' -e 'CONFIG=${params.config_tsspredator}' -v ${params.data}:/data spaethju/tsspredator
     """
 }
