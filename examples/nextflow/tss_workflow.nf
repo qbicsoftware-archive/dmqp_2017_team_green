@@ -21,6 +21,7 @@ log.info "====================================="
 log.info "Start TSS prediction workflow ..."
 
 process bwa {
+
   output:
   file bwa_output
 
@@ -41,6 +42,8 @@ process samtools {
     output:
     file samtools_output
 
+
+
     script:
     //
     // Start Samtools
@@ -50,33 +53,33 @@ process samtools {
     """
 }
 
-process conversion {
+process tsstools {
 
     input:
     file samtools_output
 
     output:
-    file conversion_output
+    file tsstools_output
 
     script:
     //
     // Start Conversion
     //
     """
-        docker run --rm -e 'BAM_FILE=${params.bam}' -v ${params.data}:/data spaethju/tsstools > conversion_output
+        docker pull spaethju/tsstools && docker run --rm -e 'BAM_FILE=${params.bam}' -v ${params.data}:/data spaethju/tsstools > tsstools_output
     """
 }
 
 process tsspredator{
 
   input:
-  file conversion_output
+  file tsstools_output
 
  script:
     //
     // Start TSSpredator
     //
     """
-        docker run --rm -e 'SPACE=${params.heap}' -e 'CONFIG=${params.config_tsspredator}' -v ${params.data}:/data spaethju/tsspredator
+        docker pull spaethju/tsspredator && docker run --rm -e 'SPACE=${params.heap}' -e 'CONFIG=${params.config_tsspredator}' -v ${params.data}:/data spaethju/tsspredator
     """
 }
