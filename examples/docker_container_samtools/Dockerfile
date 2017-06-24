@@ -9,12 +9,13 @@ RUN yum -y update
 RUN yum -y upgrade
 RUN yum -y install wget
 
-# Install bwa and samtools
+# Install samtools
 RUN wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 RUN yum -y install epel-release-latest-7.noarch.rpm
-RUN yum -y install bwa
+RUN yum -y install samtools
 
-#Run bwa and samtools
-ENTRYPOINT bwa index ${FASTA} && \
-bwa mem -t ${THREADS} -k ${SEED_LEN} -A ${MATCH} -B ${MISMATCH} -O ${GAP_OPEN} -E ${GAP_EXT} ${FASTA} ${FASTQ_1} ${FASTQ_2} > ${SAM} && \
-rm *.amb && rm *.ann && rm *.bwt && rm *.pac && rm *.sa
+#Run samtools
+ENTRYPOINT samtools view -bS ${SAM} | samtools sort - ${BAM::-4} && \
+rm ${SAM} && \
+samtools view -F 0x10 -b ${BAM} > ${POSITIVE} && \
+samtools view -f 0x10 -b ${BAM} > ${NEGATIVE}
