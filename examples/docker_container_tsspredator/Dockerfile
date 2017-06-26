@@ -5,8 +5,8 @@ FROM centos:7
 MAINTAINER Team Green <green@qbic.de>
 
 # Upgrading system
-RUN yum -y upgrade
 RUN yum -y update
+RUN yum -y upgrade
 
 RUN yum -y install wget
 

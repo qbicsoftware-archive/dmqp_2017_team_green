@@ -16,5 +16,4 @@ RUN yum -y install bwa
 
 #Run bwa and samtools
 ENTRYPOINT bwa index ${FASTA} && \
-bwa mem -t ${THREADS} -k ${SEED_LEN} -A ${MATCH} -B ${MISMATCH} -O ${GAP_OPEN} -E ${GAP_EXT} ${FASTA} ${FASTQ_1} ${FASTQ_2} > ${SAM} && \
-rm *.amb && rm *.ann && rm *.bwt && rm *.pac && rm *.sa
+bwa mem -t ${THREADS} -k ${SEED_LEN} -A ${MATCH} -B ${MISMATCH} -O ${GAP_OPEN} -E ${GAP_EXT} ${FASTA} ${FASTQ_1} ${FASTQ_2} > ${SAM}

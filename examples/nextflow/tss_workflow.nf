@@ -33,9 +33,9 @@ log.info "Start TSS prediction workflow ..."
 /*
  * Creating channel objects in order to execute a process for several files in parallel
  */
-channel_bwa = Channel.from([params.fasta, params.fastq1, params.fastq2, params.sam], 
-                           [params.fasta, params.fastq1_enriched, params.fastq2_enriched, params.sam_enriched])
-channel_samtools = Channel.from([params.sam, params.bam, params.bam_pos, params.bam_neg], 
+channel_bwa = Channel.from([params.fasta, params.fastq1, params.fastq2, params.sam],
+                           [params.fasta_enriched, params.fastq1_enriched, params.fastq2_enriched, params.sam_enriched])
+channel_samtools = Channel.from([params.sam, params.bam, params.bam_pos, params.bam_neg],
                                 [params.sam_enriched, params.bam_enriched, params.bam_enriched_pos, params.bam_enriched_neg])
 channel_tsstools = Channel.from(params.bam_pos, params.bam_neg, params.bam_enriched_pos, params.bam_enriched_neg)
 

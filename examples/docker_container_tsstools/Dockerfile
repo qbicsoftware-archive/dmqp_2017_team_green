@@ -9,6 +9,7 @@ ENV DATA_DIR=/data
 
 # Update OS and install wget and java
 RUN yum -y update
+RUN yum -y upgrade
 RUN yum -y install wget
 Run yum -y install java
 
@@ -17,4 +18,3 @@ RUN wget https://lambda.informatik.uni-tuebingen.de/nexus/content/repositories/r
 
 # Run tsstools with mapper result (normal and enriched)
 ENTRYPOINT java -jar tsstools.jar -i ${DATA_DIR}/${BAM_FILE} -o ${DATA_DIR} -w
-
