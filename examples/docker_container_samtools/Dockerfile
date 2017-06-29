@@ -16,6 +16,5 @@ RUN yum -y install samtools
 
 #Run samtools
 ENTRYPOINT samtools view -bS ${SAM} | samtools sort - ${BAM::-4} && \
-rm ${SAM} && \
 samtools view -F 0x10 -b ${BAM} > ${POSITIVE} && \
 samtools view -f 0x10 -b ${BAM} > ${NEGATIVE}

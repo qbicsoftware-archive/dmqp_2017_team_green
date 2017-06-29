@@ -60,7 +60,7 @@ process bwa {
 process samtools {
 
     input:
-    file bwa_output
+    //file bwa_output
     val samtools_input from channel_samtools
 
     output:
@@ -77,9 +77,11 @@ process samtools {
     """
 }
 
+
 process tsstools {
 
     input:
+    // PROBLEM HERE
     file samtools_output
     val bam_input from channel_tsstools
 
