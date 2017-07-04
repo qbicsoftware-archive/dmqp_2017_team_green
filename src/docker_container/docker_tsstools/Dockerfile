@@ -11,7 +11,7 @@ ENV DATA_DIR=/data
 RUN yum -y update
 RUN yum -y upgrade
 RUN yum -y install wget
-Run yum -y install java
+RUN yum -y install java
 
 # Download tsstools
 RUN wget https://lambda.informatik.uni-tuebingen.de/nexus/content/repositories/releases/org/unituebingen/it/tsstools/1.0beta/tsstools-1.0beta-dependencies.jar -O tsstools.jar
