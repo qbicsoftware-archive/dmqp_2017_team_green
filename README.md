@@ -39,8 +39,8 @@ TSS workflow is a complete automated transcription start site prediction startin
 nextflow run tss_workflow.nf
 ```
 * Run nextflow unparallelized:
-  ```bash
-  nextflow run -gc 1 tss_workflow.nf
-  ```
+```bash
+nextflow run -gc 1 tss_workflow.nf
+```
 
 **Attention:** Run with 'sudo' on Linux
