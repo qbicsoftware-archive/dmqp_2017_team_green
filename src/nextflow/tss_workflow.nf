@@ -87,7 +87,7 @@ process tsstools {
     //
     """
         docker pull spaethju/tsstools && docker run --rm -e 'BAM_FILE=${tsstools_input[0]}' -v ${params.data}:/data spaethju/tsstools &
-        docker pull spaethju/tsstools && docker run --rm -e 'BAM_FILE=${tsstools_input[1]}' -v ${params.data}:/data spaethju/tsstools &
+        docker run --rm -e 'BAM_FILE=${tsstools_input[1]}' -v ${params.data}:/data spaethju/tsstools &
         wait
         > wig
     """
