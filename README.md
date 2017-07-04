@@ -30,6 +30,7 @@ TSS workflow is a complete automated transcription start site prediction startin
 * For the specific parameters see the tool's website:
   * [BWA](http://bio-bwa.sourceforge.net/bwa.shtml)
   * [TSSPredator](http://it.informatik.uni-tuebingen.de/wp-content/uploads/2014/10/TSSpredator-UserGuide.pdf)
+  
 **Attention:** The Nextflow config file must be stored as 'nextflow.config' to be recognized by the workflow script.
 
 ## Execution
@@ -41,4 +42,5 @@ nextflow run tss_workflow.nf
   ```bash
   nextflow run -gc 1 tss_workflow.nf
   ```
- **Attention:** Run with 'sudo' on Linux
+
+**Attention:** Run with 'sudo' on Linux
