@@ -40,7 +40,7 @@ nextflow run tss_workflow.nf
 ```
 * Run nextflow unparallelized:
 ```bash
-nextflow run -gc 1 tss_workflow.nf
+nextflow run -qs 1 tss_workflow.nf
 ```
 
 **Attention:** Run with 'sudo' on Linux
