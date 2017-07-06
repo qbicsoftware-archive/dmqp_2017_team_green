@@ -43,4 +43,5 @@ nextflow run tss_workflow.nf
 nextflow run -qs 1 tss_workflow.nf
 ```
 
-**Attention:** Run with 'sudo' on Linux
+**Attention:** If you need superuser rights to execute docker images/container on your computer, you also need these rights to execute this workflow!
+
