@@ -74,6 +74,8 @@
 % axis environment):
 \def\addlegendimage{\csname pgfplots@addlegendimage\endcsname}
 
+\usepackage{booktabs} % Horizontal rules in tables
+
 \setbeamercolor{framesource}{fg=gray}
 \setbeamerfont{framesource}{size=\tiny}
 
@@ -107,6 +109,7 @@
 \author[Ditz, Hanssen, Sp\"{a}th]{Jonas Ditz, Friederike Hanssen, Julian Sp\"{a}th}
 \title[TSS Prediction Workflow]{Integrated Workflow for Automated Transcription Start Site Prediction in Prokaryotes}
 \institute{Data Management in Quantitative Biology\\ Dr. Sven Nahnsen\\ Sven Fillinger\\ University of T\"{u}bingen}
+\date{July 13, 2017}
 
 \begin{document}
 
@@ -146,12 +149,78 @@ with Beamer overlays. Download the PDF version to see the result.
 
 \section{Introduction}
 
-\begin{frame}{TSS Prediction}
- 
+\begin{frame}{Transcription Start Side}
+ \begin{columns}
+  \begin{column}{0.5\textwidth}
+   \begin{itemize}
+    \item Position of 5' UTR start
+    \item Important for gene finding
+    \item Predicted using enriched libraries and statistical models
+   \end{itemize}
+  \end{column}
+  \begin{column}{0.5\textwidth}  
+    \begin{center}
+     \includegraphics[width=0.7\textwidth]{img/tss.png}
+    \end{center}
+  \end{column}
+ \end{columns}
+ \source{Data Management in Quantitative Biology,\\ Project 4 Sheet, summer term 2017}
 \end{frame}
 
-\begin{frame}{Technical Specs}
- 
+\begin{frame}{Workflow languages}
+ \begin{columns}
+  \begin{column}{0.5\textwidth}
+   \begin{itemize}
+    \item Automatize processes
+    \item Modular 
+    \item Open-Source
+   \end{itemize}
+  \end{column}
+  \begin{column}{0.5\textwidth}
+    \begin{center}
+     \includegraphics[width=0.5\textwidth]{img/nextflow2014_no-bg.png}\\
+     \includegraphics[width=0.5\textwidth]{img/snakemake.png}\\
+     \includegraphics[width=0.5\textwidth]{img/wdl.jpeg}
+     \end{center}
+  \end{column}
+ \end{columns}
+ \source{https://www.nextflow.io/\\https://bitbucket.org/snakemake/snakemake/wiki/\\    Documentation\\https://software.broadinstitute.org/wdl/}
+\end{frame}
+
+\begin{frame}{Nextflow}
+ \begin{columns}
+  \begin{column}{0.5\textwidth}
+   \begin{itemize}
+    \item Docker/Singularity integration
+    \item Cloud integration
+    \item Extensive manual
+    \item Several users (e.g. WHO)
+   \end{itemize}
+  \end{column}
+  \begin{column}{0.5\textwidth}
+   \centering
+   \includegraphics[width=0.5\textwidth]{img/who.jpeg}
+  \end{column}
+ \end{columns}
+ \source{http://www.iarc.fr/}
+\end{frame}
+
+\begin{frame}{Docker}
+ \begin{columns}
+  \begin{column}{0.5\textwidth}
+   \begin{itemize}
+    \item Container management system
+    \item Source on GitHub
+    \item Images on DockerHub
+    \item Exchangeable images
+   \end{itemize}
+  \end{column}
+  \begin{column}{0.5\textwidth}
+   \centering
+   \includegraphics[width=0.5\textwidth]{img/docker.png}
+  \end{column}
+ \end{columns}
+ \source{www.docker.com}
 \end{frame}
 
 \section{Workflow}
@@ -161,76 +230,15 @@ with Beamer overlays. Download the PDF version to see the result.
 
 \begin{frame}{Workflow Structure}
   \centering
-  \begin{tikzpicture}[node distance=1.5cm,
-    every node/.style={fill=white, font=\sffamily}, align=center]
-    %% Specification of nodes (position, etc.)
+  \includegraphics[width=0.6\textwidth]{img/workflow.png}
+\end{frame}
 
-    \begin{pgfonlayer}{main}
-    \node (input)         [process] {Input data};
-    \node (mapper)        [processNextflow, below of=input, xshift=-4cm]  {Mapper (BWA)};
-    \node (mapper1)       [processNextflow, below of=input, xshift=4cm]  {Mapper (BWA)};
-    \node (mapping1)      [process, below of = mapper ]          {Mapped Reads Normal};
-    \node (mapping2)      [process, below of = mapper1]   {Mapped Reads Enriched};
-
-    \node (samtools)       [processNextflow, below of = mapping1, yshift=0cm]  {Samtools};
-    \node (samtools1)       [processNextflow, below of = mapping2, yshift=0cm]  {Samtools};
-
-    \node (samtools2)      [process, below of = samtools, xshift=-2cm]   {Mapped Normal `+'};
-    \node (samtools3)      [process, below of = samtools, xshift=2cm]  {Mapped Normal `-'};
-    \node (samtools4)      [process, below of = samtools1, xshift=-2cm]  {Mapped Enr.`+' };
-    \node (samtools5)      [process, below of = samtools1, xshift =2cm]  {Mapped Enr.`-'};
-
-    \node (tsstools)       [processNextflow, below of = samtools2]  {TssTools};
-    \node (tsstools1)      [processNextflow, below of = samtools3]  {TssTools};
-    \node (tsstools2)       [processNextflow, below of = samtools4]  {TssTools};
-    \node (tsstools3)      [processNextflow, below of = samtools5]  {TssTools};
-
-    \node (tsstools4)      [process, below of = tsstools]  {Normal `+' WIG};
-    \node (tsstools5)      [process, below of = tsstools1]  {Normal `-' WIG};
-    \node (tsstools6)      [process, below of = tsstools2] {Enriched `+' WIG};
-    \node (tsstools7)      [process, below of = tsstools3] {Enriched `-' WIG};
-
-    \node (tsspredator)    [processNextflowLong, below of = input, yshift = -9cm]  {TssPredator};
-    \node (output)         [process, below of= tsspredator] {Output};
-
-
-    
-    %% Specification of lines between nodes specified above
-    %% with aditional nodes for description 
-    \draw[->]      (input) -- (mapper);
-    \draw[->]      (input) -- (mapper1);
-    \draw[->]      (mapper) -- (mapping1);
-    \draw[->]     (mapper1) -- (mapping2);
-    \draw[->]      (mapping1) -- (samtools);
-    \draw[->]     (mapping2) -- (samtools1);
-    \draw[->]      (samtools) -- (samtools2);
-    \draw[->]      (samtools) -- (samtools3);
-    \draw[->]     (samtools1) -- (samtools4);
-    \draw[->]      (samtools1) -- (samtools5);
-
-    \draw[->]     (samtools2) -- (tsstools);
-    \draw[->]      (samtools3) -- (tsstools1);
-    \draw[->]     (samtools4) -- (tsstools2);
-    \draw[->]      (samtools5) -- (tsstools3);
-
-    \draw[->]      (tsstools) -- (tsstools4);
-    \draw[->]      (tsstools1) -- (tsstools5);
-    \draw[->]      (tsstools2) -- (tsstools6);
-    \draw[->]      (tsstools3) -- (tsstools7);
-
-    \draw[->]      (tsstools4) -- (tsspredator);
-    \draw[->]      (tsstools5) -- (tsspredator);
-    \draw[->]      (tsstools6) -- (tsspredator);
-    \draw[->]      (tsstools7) -- (tsspredator);
-
-    \draw[->]      (tsspredator) -- (output);
-    \end{pgfonlayer}
-
-    \begin{pgfonlayer}{background}
-    \node (workflow) [activityRuns, fit = (input) (mapper) (mapping1) (mapping2) (samtools) (samtools1) (samtools2)(samtools3) (tsstools) (tsstools1) (tsstools2) (tsstools3) (tsstools4) (tsstools5) (tsspredator) (output)] {};
-    \end{pgfonlayer}
-
-  \end{tikzpicture}
+\begin{frame}{Results}
+ \begin{itemize}
+  \item Runs on all tested platforms (Mac, Linux Mint, Ubuntu (VM))
+  \item Sequential and parallelized execution
+  \item Highly modularized
+ \end{itemize}
 \end{frame}
 
 \section{Outlook}
@@ -242,13 +250,8 @@ with Beamer overlays. Download the PDF version to see the result.
  \begin{itemize}
   \item New Docker Modules
   \item Cloud Integration
-  \item Fun, Fun, and more Fun
+  \item Investigate slow runtime of TssTools on Mac
  \end{itemize}
-\end{frame}
-
-\begin{frame}[allowframebreaks]{References}
- \bibliographystyle{apalike}
- \bibliography{../paper/mylit.bib}
 \end{frame}
 
 % \begin{frame}
